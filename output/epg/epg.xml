@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250521222711 +0800">
+<tv date="20250522103036 +0800">
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
@@ -224,6 +224,81 @@
 	</programme>
 	<programme channel="天元围棋" start="20250522234500 +0800" stop="20250522235500 +0800">
 		<title lang="zh">棋坛风云</title>
+	</programme>
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250522005400 +0800" stop="20250522005700 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA广东东阳光版0520)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522005700 +0800" stop="20250522012600 +0800">
+		<title lang="zh">重播 24-25德甲第33轮精编版 勒沃库森vs多特蒙德</title>
+	</programme>
+	<programme channel="广东体育" start="20250522012600 +0800" stop="20250522021800 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选(14) 混双1/16决赛 帕克卡波/慕恩旺vs冯彦哲/魏雅欣、男单1/4决赛 拉克什亚vs李诗沣</title>
+	</programme>
+	<programme channel="广东体育" start="20250522021800 +0800" stop="20250522030300 +0800">
+		<title lang="zh">重播 羽乐无限:2025全英羽毛球公开赛精选(15) 男单1/8决赛 石宇奇vs周天成</title>
+	</programme>
+	<programme channel="广东体育" start="20250522030300 +0800" stop="20250522035500 +0800">
+		<title lang="zh">重播 24-25CBA赛场第40轮 浙江方兴渡vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250522035500 +0800" stop="20250522051000 +0800">
+		<title lang="zh">重播 24-25赛季WCBA总决赛第四场 东莞新彤盛vs四川蜀道远达</title>
+	</programme>
+	<programme channel="广东体育" start="20250522051000 +0800" stop="20250522054300 +0800">
+		<title lang="zh">重播 德甲精选(242534)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522054300 +0800" stop="20250522063600 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛泰国公开赛精选(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522063600 +0800" stop="20250522064000 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250522064000 +0800" stop="20250522074700 +0800">
+		<title lang="zh">重播 德甲精选(242532)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522074700 +0800" stop="20250522092300 +0800">
+		<title lang="zh">重播 24-25CBA赛场第39轮 广东东阳光vs四川丰谷酒业</title>
+	</programme>
+	<programme channel="广东体育" start="20250522092300 +0800" stop="20250522092900 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522092900 +0800" stop="20250522104000 +0800">
+		<title lang="zh">重播 ONE周刊(108)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522104000 +0800" stop="20250522114700 +0800">
+		<title lang="zh">重播 德甲精选(242534)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522114700 +0800" stop="20250522115500 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522115500 +0800" stop="20250522132700 +0800">
+		<title lang="zh">重播 出奇智胜(644)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522132700 +0800" stop="20250522141700 +0800">
+		<title lang="zh">直播 2025世界羽联世界巡回赛马来西亚大师赛1/8决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250522190000 +0800" stop="20250522193500 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250522193000 +0800" stop="20250522195600 +0800">
+		<title lang="zh">首播 篮球大本营(202517)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522195600 +0800" stop="20250522205500 +0800">
+		<title lang="zh">重播 24-25CBA赛场第43轮 宁波町渥vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250522205500 +0800" stop="20250522212700 +0800">
+		<title lang="zh">重播“杰”燃不同:24-25CBA常规赛第38轮 新疆伊力特vs广东东阳光</title>
+	</programme>
+	<programme channel="广东体育" start="20250522212700 +0800" stop="20250522214200 +0800">
+		<title lang="zh">重播 全运回眸(49)十二运田径项目比赛(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250522214200 +0800" stop="20250522214900 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250522214900 +0800" stop="20250522223900 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
 	</programme>
 	<channel id="快乐垂钓">
 		<display-name lang="zh">快乐垂钓</display-name>
