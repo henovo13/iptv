@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250526222601 +0800">
+<tv date="20250527103109 +0800">
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
@@ -212,6 +212,99 @@
 	</programme>
 	<programme channel="天元围棋" start="20250527234500 +0800" stop="20250527235500 +0800">
 		<title lang="zh">棋坛风云</title>
+	</programme>
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250527005200 +0800" stop="20250527022500 +0800">
+		<title lang="zh">重播 2025世界F1第6站迈阿密大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250527022500 +0800" stop="20250527025100 +0800">
+		<title lang="zh">重播 全运回眸(28)十三运跳水男子双人十米台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250527025100 +0800" stop="20250527034300 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛泰国公开赛精选(3)女单决赛 李美妙vs陈雨菲</title>
+	</programme>
+	<programme channel="广东体育" start="20250527034300 +0800" stop="20250527042800 +0800">
+		<title lang="zh">重播 全运回眸(39)十二运羽毛球男单决赛 杜鹏宇(北京)vs林丹(解放军)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527042800 +0800" stop="20250527052000 +0800">
+		<title lang="zh">重播 全运回眸(40)十二运乒乓球男单决赛 马龙(北京)vs樊振东(解放军)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527052000 +0800" stop="20250527053500 +0800">
+		<title lang="zh">重播 2025年CBA全明星周末扣篮赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250527053500 +0800" stop="20250527054300 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250527054300 +0800" stop="20250527071900 +0800">
+		<title lang="zh">重播 2025世界F1第7站艾米利亚-罗马涅大奖赛正赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250527071900 +0800" stop="20250527072300 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250527072300 +0800" stop="20250527080100 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA广东东阳光版0520)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527080100 +0800" stop="20250527093400 +0800">
+		<title lang="zh">重播 2024-2025赛季国际篮联篮球冠军联赛半决赛(1) 特内里费vs加拉塔萨雷</title>
+	</programme>
+	<programme channel="广东体育" start="20250527093400 +0800" stop="20250527094200 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527094200 +0800" stop="20250527105200 +0800">
+		<title lang="zh">重播 德甲精选(242533)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527105200 +0800" stop="20250527115500 +0800">
+		<title lang="zh">重播 全运回眸(62)十二运体操单项决赛(5)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527115500 +0800" stop="20250527120000 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527120000 +0800" stop="20250527130500 +0800">
+		<title lang="zh">重播 出奇智胜(647)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527130500 +0800" stop="20250527143300 +0800">
+		<title lang="zh">重播 2024年广东省第六届传统龙舟争霸赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250527143300 +0800" stop="20250527144000 +0800">
+		<title lang="zh">重播(不可取消)十分好球(24-25赛季九江广告德甲版0115)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527144000 +0800" stop="20250527154500 +0800">
+		<title lang="zh">重播 全运回眸(55)十二运体操单项决赛(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527154500 +0800" stop="20250527155200 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0311)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527155200 +0800" stop="20250527161500 +0800">
+		<title lang="zh">重播 全运回眸(65)十二运游泳项目比赛(7)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527161500 +0800" stop="20250527172500 +0800">
+		<title lang="zh">重播 德甲精选(242534)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527172500 +0800" stop="20250527185400 +0800">
+		<title lang="zh">首播 羽乐无限:2025世界羽联世界巡回赛马来西亚大师赛精选(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527185400 +0800" stop="20250527190000 +0800">
+		<title lang="zh">重播(0422-0430)(不能取消)海露广告版CBA十分好球(0422)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527190000 +0800" stop="20250527193300 +0800">
+		<title lang="zh">直播 体育世界</title>
+	</programme>
+	<programme channel="广东体育" start="20250527193300 +0800" stop="20250527205000 +0800">
+		<title lang="zh">重播 2024-2025赛季国际篮联篮球冠军联赛决赛 加拉塔萨雷vs马拉加</title>
+	</programme>
+	<programme channel="广东体育" start="20250527205000 +0800" stop="20250527214800 +0800">
+		<title lang="zh">重播 24-25CBA赛场第44轮 广东东阳光vs浙江方兴渡</title>
+	</programme>
+	<programme channel="广东体育" start="20250527214800 +0800" stop="20250527215300 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0501)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527215300 +0800" stop="20250527232800 +0800">
+		<title lang="zh">首播 出奇智胜(648)</title>
+	</programme>
+	<programme channel="广东体育" start="20250527232800 +0800" stop="20250527235900 +0800">
+		<title lang="zh">首播 劲速天地(202518)</title>
 	</programme>
 	<channel id="快乐垂钓">
 		<display-name lang="zh">快乐垂钓</display-name>
