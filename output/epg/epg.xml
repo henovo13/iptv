@@ -1,915 +1,537 @@
 <?xml version="1.0" ?>
-<tv date="20250611103115 +0800">
+<tv date="20250611222659 +0800">
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
-	<programme channel="CCTV-5" start="20250611000500 +0800" stop="20250611010500 +0800">
-		<title lang="zh">顶级赛事-围棋</title>
+	<programme channel="CCTV-5" start="20250612000500 +0800" stop="20250612010500 +0800">
+		<title lang="zh">实况录像-2025年世界泳联跳水世界杯总决赛（北京） 3</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611010500 +0800" stop="20250611023600 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  罗马站</title>
+	<programme channel="CCTV-5" start="20250612010500 +0800" stop="20250612023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611023600 +0800" stop="20250611040000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title>
+	<programme channel="CCTV-5" start="20250612023600 +0800" stop="20250612040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611040000 +0800" stop="20250611053000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第2轮 巴黎圣日耳曼—蒙彼利埃</title>
+	<programme channel="CCTV-5" start="20250612040000 +0800" stop="20250612053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英格兰足球超级联赛第3轮 莱斯特城—阿斯顿维拉</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611053000 +0800" stop="20250611060000 +0800">
-		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯3（4K）</title>
+	<programme channel="CCTV-5" start="20250612053000 +0800" stop="20250612060000 +0800">
+		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯4（4K）</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611060000 +0800" stop="20250611063000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 中国站 4</title>
+	<programme channel="CCTV-5" start="20250612060000 +0800" stop="20250612063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 美国站 1</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611063000 +0800" stop="20250611070000 +0800">
+	<programme channel="CCTV-5" start="20250612063000 +0800" stop="20250612070000 +0800">
 		<title lang="zh">健身动起来</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611070000 +0800" stop="20250611090300 +0800">
+	<programme channel="CCTV-5" start="20250612070000 +0800" stop="20250612083000 +0800">
 		<title lang="zh">体坛晨报</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611090300 +0800" stop="20250611103100 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  拉巴特站</title>
+	<programme channel="CCTV-5" start="20250612083000 +0800" stop="20250612113000 +0800">
+		<title lang="zh">2024/2025赛季美国职业篮球联赛-总决赛第三场（雷霆-步行者）</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611103100 +0800" stop="20250611120000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
+	<programme channel="CCTV-5" start="20250612113000 +0800" stop="20250612120000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 3</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611120000 +0800" stop="20250611130500 +0800">
+	<programme channel="CCTV-5" start="20250612120000 +0800" stop="20250612130500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611130500 +0800" stop="20250611132800 +0800">
+	<programme channel="CCTV-5" start="20250612130500 +0800" stop="20250612132800 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611132800 +0800" stop="20250611153000 +0800">
-		<title lang="zh">实况录像-2025年法国网球公开赛 男单半决赛</title>
+	<programme channel="CCTV-5" start="20250612132800 +0800" stop="20250612150000 +0800">
+		<title lang="zh">实况录像-2025年法国网球公开赛 女单半决赛</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611153000 +0800" stop="20250611160000 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title>
+	<programme channel="CCTV-5" start="20250612150000 +0800" stop="20250612160000 +0800">
+		<title lang="zh">实况录像-2025年世界乒乓球锦标赛  5</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611160000 +0800" stop="20250611180000 +0800">
+	<programme channel="CCTV-5" start="20250612160000 +0800" stop="20250612180000 +0800">
 		<title lang="zh">运动一起赢</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611180000 +0800" stop="20250611190000 +0800">
+	<programme channel="CCTV-5" start="20250612180000 +0800" stop="20250612190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611190000 +0800" stop="20250611193000 +0800">
-		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 加拿大站 2</title>
+	<programme channel="CCTV-5" start="20250612190000 +0800" stop="20250612193000 +0800">
+		<title lang="zh">体坛零距离(4K)</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611193000 +0800" stop="20250611203000 +0800">
-		<title lang="zh">实况录像-2025年世界乒乓球锦标赛 女单比赛</title>
+	<programme channel="CCTV-5" start="20250612193000 +0800" stop="20250612203000 +0800">
+		<title lang="zh">足球之夜</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611203000 +0800" stop="20250611213000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2025年亚洲举重锦标赛 男子81公斤级决赛（4K）</title>
+	<programme channel="CCTV-5" start="20250612203000 +0800" stop="20250612213000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2025年亚洲举重锦标赛 男子102公斤级决赛（4K）</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611213000 +0800" stop="20250611223500 +0800">
+	<programme channel="CCTV-5" start="20250612213000 +0800" stop="20250612223500 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
-	<programme channel="CCTV-5" start="20250611223500 +0800" stop="20250611235900 +0800">
-		<title lang="zh">实况录像-2024/2025赛季欧洲篮球联赛  三、四名决赛</title>
+	<programme channel="CCTV-5" start="20250612223500 +0800" stop="20250612235900 +0800">
+		<title lang="zh">实况录像-2024/2025赛季欧洲篮球联赛 决赛</title>
 	</programme>
 	<channel id="CCTV-5+">
 		<display-name lang="zh">CCTV-5+</display-name>
 	</channel>
-	<programme channel="CCTV-5+" start="20250611003000 +0800" stop="20250611010100 +0800">
-		<title lang="zh">实况录像-2025年射箭世界杯 美国站 1</title>
+	<programme channel="CCTV-5+" start="20250612003000 +0800" stop="20250612010100 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 美国站 2</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611010100 +0800" stop="20250611023100 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+	<programme channel="CCTV-5+" start="20250612010100 +0800" stop="20250612023100 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611023100 +0800" stop="20250611040000 +0800">
-		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第2轮 马赛—兰斯</title>
+	<programme channel="CCTV-5+" start="20250612023100 +0800" stop="20250612040000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第2轮 巴黎圣日耳曼—蒙彼利埃</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611040000 +0800" stop="20250611060000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 1</title>
+	<programme channel="CCTV-5+" start="20250612040000 +0800" stop="20250612060000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 2</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611060000 +0800" stop="20250611073000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2025年法国网球公开赛3（4K）</title>
+	<programme channel="CCTV-5+" start="20250612060000 +0800" stop="20250612073000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2025年法国网球公开赛4（4K）</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611073000 +0800" stop="20250611090000 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  罗马站</title>
+	<programme channel="CCTV-5+" start="20250612073000 +0800" stop="20250612090000 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611090000 +0800" stop="20250611103000 +0800">
-		<title lang="zh">2025年国际冰联男子冰球世界锦标赛-顶级组 三、四名决赛</title>
+	<programme channel="CCTV-5+" start="20250612090000 +0800" stop="20250612103000 +0800">
+		<title lang="zh">2025年国际冰联男子冰球世界锦标赛-顶级组  决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611103000 +0800" stop="20250611120000 +0800">
-		<title lang="zh">2024/2025西班牙足球甲级联赛-第38轮（比利亚雷亚尔—塞维利亚）（4K）</title>
+	<programme channel="CCTV-5+" start="20250612103000 +0800" stop="20250612120000 +0800">
+		<title lang="zh">2024/2025西班牙足球甲级联赛-第38轮（毕尔巴鄂竞技—巴塞罗那）（4K）</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611120000 +0800" stop="20250611133000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季欧洲篮球联赛  三、四名决赛</title>
+	<programme channel="CCTV-5+" start="20250612120000 +0800" stop="20250612133000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季欧洲篮球联赛 决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611133000 +0800" stop="20250611153000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2025年苏迪曼杯羽毛球赛 决赛（4K）</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611153000 +0800" stop="20250611173000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 3</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611173000 +0800" stop="20250611183000 +0800">
-		<title lang="zh">实况录像-2025年世界泳联跳水世界杯总决赛（北京） 3</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611183000 +0800" stop="20250611191500 +0800">
-		<title lang="zh">实况录像-2025年世界乒乓球锦标赛3   （43分30秒版）</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611191500 +0800" stop="20250611193000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 第二轮 马克·艾伦的147</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611193000 +0800" stop="20250611210000 +0800">
-		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 3</title>
-	</programme>
-	<programme channel="CCTV-5+" start="20250611210000 +0800" stop="20250611230000 +0800">
+	<programme channel="CCTV-5+" start="20250612133000 +0800" stop="20250612153000 +0800">
 		<title lang="zh">实况录像-2025年法国网球公开赛 男单半决赛</title>
 	</programme>
-	<programme channel="CCTV-5+" start="20250611230000 +0800" stop="20250611235900 +0800">
-		<title lang="zh">实况录像-2025年世界田联钻石联赛  多哈站</title>
+	<programme channel="CCTV-5+" start="20250612153000 +0800" stop="20250612173000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612173000 +0800" stop="20250612180000 +0800">
+		<title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612180000 +0800" stop="20250612183000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612183000 +0800" stop="20250612193000 +0800">
+		<title lang="zh">实况录像-2025年世界乒乓球锦标赛  4</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612193000 +0800" stop="20250612210000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612210000 +0800" stop="20250612223000 +0800">
+		<title lang="zh">实况录像-2025年法国网球公开赛 女单半决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20250612223000 +0800" stop="20250612235900 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛  拉巴特站</title>
 	</programme>
 	<channel id="天元围棋">
 		<display-name lang="zh">天元围棋</display-name>
 	</channel>
-	<programme channel="天元围棋" start="20250611000000 +0800" stop="20250611003000 +0800">
-		<title lang="zh">大赛赏析(28)</title>
+	<programme channel="天元围棋" start="20250612000000 +0800" stop="20250612003000 +0800">
+		<title lang="zh">大赛赏析(29)</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611003000 +0800" stop="20250611013300 +0800">
+	<programme channel="天元围棋" start="20250612003000 +0800" stop="20250612013400 +0800">
 		<title lang="zh">赛事精选</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611013300 +0800" stop="20250611023000 +0800">
+	<programme channel="天元围棋" start="20250612013400 +0800" stop="20250612023000 +0800">
 		<title lang="zh">赛事精选</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611023000 +0800" stop="20250611040000 +0800">
+	<programme channel="天元围棋" start="20250612023000 +0800" stop="20250612040000 +0800">
 		<title lang="zh">测试卡</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611040000 +0800" stop="20250611055000 +0800">
+	<programme channel="天元围棋" start="20250612040000 +0800" stop="20250612055000 +0800">
 		<title lang="zh">测试卡</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611055000 +0800" stop="20250611080000 +0800">
+	<programme channel="天元围棋" start="20250612055000 +0800" stop="20250612080000 +0800">
 		<title lang="zh">测试卡</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611080000 +0800" stop="20250611081000 +0800">
+	<programme channel="天元围棋" start="20250612080000 +0800" stop="20250612081000 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611081000 +0800" stop="20250611084500 +0800">
+	<programme channel="天元围棋" start="20250612081000 +0800" stop="20250612084500 +0800">
 		<title lang="zh">打入与侵消</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611084500 +0800" stop="20250611095000 +0800">
+	<programme channel="天元围棋" start="20250612084500 +0800" stop="20250612095000 +0800">
 		<title lang="zh">时局精解</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611095000 +0800" stop="20250611102000 +0800">
+	<programme channel="天元围棋" start="20250612095000 +0800" stop="20250612102000 +0800">
 		<title lang="zh">新棋思妙想</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611102000 +0800" stop="20250611103500 +0800">
+	<programme channel="天元围棋" start="20250612102000 +0800" stop="20250612103500 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611103500 +0800" stop="20250611113800 +0800">
+	<programme channel="天元围棋" start="20250612103500 +0800" stop="20250612113900 +0800">
 		<title lang="zh">赛事精选</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611113800 +0800" stop="20250611124000 +0800">
+	<programme channel="天元围棋" start="20250612113900 +0800" stop="20250612124000 +0800">
 		<title lang="zh">赛事精选</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611124000 +0800" stop="20250611131500 +0800">
+	<programme channel="天元围棋" start="20250612124000 +0800" stop="20250612131500 +0800">
 		<title lang="zh">棋局诊断室</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611131500 +0800" stop="20250611133000 +0800">
+	<programme channel="天元围棋" start="20250612131500 +0800" stop="20250612133000 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611133000 +0800" stop="20250611140500 +0800">
-		<title lang="zh">破空与治孤</title>
+	<programme channel="天元围棋" start="20250612133000 +0800" stop="20250612140500 +0800">
+		<title lang="zh">星阵对局精解</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611140500 +0800" stop="20250611142000 +0800">
+	<programme channel="天元围棋" start="20250612140500 +0800" stop="20250612142000 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611142000 +0800" stop="20250611152000 +0800">
+	<programme channel="天元围棋" start="20250612142000 +0800" stop="20250612152000 +0800">
 		<title lang="zh">时局精解</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611152000 +0800" stop="20250611153000 +0800">
+	<programme channel="天元围棋" start="20250612152000 +0800" stop="20250612153000 +0800">
 		<title lang="zh">赛事直播</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611153000 +0800" stop="20250611163300 +0800">
-		<title lang="zh">赛事精选</title>
+	<programme channel="天元围棋" start="20250612153000 +0800" stop="20250612171500 +0800">
+		<title lang="zh">围棋赛事直播</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611163300 +0800" stop="20250611173500 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20250611173500 +0800" stop="20250611181000 +0800">
+	<programme channel="天元围棋" start="20250612171500 +0800" stop="20250612175000 +0800">
 		<title lang="zh">星阵对局精解</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611181000 +0800" stop="20250611184500 +0800">
+	<programme channel="天元围棋" start="20250612175000 +0800" stop="20250612182500 +0800">
 		<title lang="zh">棋局诊断室</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611184500 +0800" stop="20250611192000 +0800">
+	<programme channel="天元围棋" start="20250612182500 +0800" stop="20250612190000 +0800">
 		<title lang="zh">打入与侵消</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611192000 +0800" stop="20250611195000 +0800">
+	<programme channel="天元围棋" start="20250612190000 +0800" stop="20250612193000 +0800">
 		<title lang="zh">新棋思妙想</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611195000 +0800" stop="20250611200500 +0800">
+	<programme channel="天元围棋" start="20250612193000 +0800" stop="20250612194500 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611200500 +0800" stop="20250611211000 +0800">
+	<programme channel="天元围棋" start="20250612194500 +0800" stop="20250612204500 +0800">
 		<title lang="zh">时局精解</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611211000 +0800" stop="20250611221400 +0800">
-		<title lang="zh">赛事精选</title>
+	<programme channel="天元围棋" start="20250612204500 +0800" stop="20250612205800 +0800">
+		<title lang="zh">赛事直播</title>
 	</programme>
-	<programme channel="天元围棋" start="20250611221400 +0800" stop="20250611231500 +0800">
-		<title lang="zh">赛事精选</title>
-	</programme>
-	<programme channel="天元围棋" start="20250611231500 +0800" stop="20250611234500 +0800">
-		<title lang="zh">星阵对局精解</title>
-	</programme>
-	<programme channel="天元围棋" start="20250611234500 +0800" stop="20250611235500 +0800">
+	<programme channel="天元围棋" start="20250612205800 +0800" stop="20250612211000 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
-	<channel id="广东体育">
-		<display-name lang="zh">广东体育</display-name>
-	</channel>
-	<programme channel="广东体育" start="20250611001100 +0800" stop="20250611010300 +0800">
-		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼开赛精选(2)</title>
+	<programme channel="天元围棋" start="20250612211000 +0800" stop="20250612220300 +0800">
+		<title lang="zh">围棋赛事直播</title>
 	</programme>
-	<programme channel="广东体育" start="20250611010300 +0800" stop="20250611010600 +0800">
-		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA广州朗肽海本队版0422)</title>
+	<programme channel="天元围棋" start="20250612220300 +0800" stop="20250612224700 +0800">
+		<title lang="zh">围棋赛事直播</title>
 	</programme>
-	<programme channel="广东体育" start="20250611010600 +0800" stop="20250611010900 +0800">
-		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA深圳马可波罗队版0422)</title>
+	<programme channel="天元围棋" start="20250612224700 +0800" stop="20250612230000 +0800">
+		<title lang="zh">棋坛风云</title>
 	</programme>
-	<programme channel="广东体育" start="20250611010900 +0800" stop="20250611012400 +0800">
-		<title lang="zh">重播 全运回眸(65)十二运游泳项目比赛(7)</title>
+	<programme channel="天元围棋" start="20250612230000 +0800" stop="20250612231500 +0800">
+		<title lang="zh">赛事直播</title>
 	</programme>
-	<programme channel="广东体育" start="20250611012400 +0800" stop="20250611014200 +0800">
-		<title lang="zh">重播 全运回眸(53)十二运田径项目比赛(5)</title>
+	<programme channel="天元围棋" start="20250612231500 +0800" stop="20250612234500 +0800">
+		<title lang="zh">星阵对局精解</title>
 	</programme>
-	<programme channel="广东体育" start="20250611014200 +0800" stop="20250611023400 +0800">
-		<title lang="zh">重播 24-25CBA赛场第38轮 新疆伊力特vs广东东阳光</title>
-	</programme>
-	<programme channel="广东体育" start="20250611023400 +0800" stop="20250611032600 +0800">
-		<title lang="zh">重播 24-25CBA赛场第39轮 广东东阳光vs四川丰谷酒业</title>
-	</programme>
-	<programme channel="广东体育" start="20250611032600 +0800" stop="20250611041800 +0800">
-		<title lang="zh">重播 全运回眸(47)十二运体操单项决赛(1)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611041800 +0800" stop="20250611051000 +0800">
-		<title lang="zh">重播 全运回眸(48)十二运乒乓球男团决赛 解放军vs上海</title>
-	</programme>
-	<programme channel="广东体育" start="20250611051000 +0800" stop="20250611054300 +0800">
-		<title lang="zh">重播 德甲精选(242526)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611054300 +0800" stop="20250611063800 +0800">
-		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛印尼开赛精选(1)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611063800 +0800" stop="20250611075600 +0800">
-		<title lang="zh">重播 全运回眸(44)十二运羽毛球女单决赛 李雪芮vs刘鑫</title>
-	</programme>
-	<programme channel="广东体育" start="20250611075600 +0800" stop="20250611093200 +0800">
-		<title lang="zh">重播 24-25CBA赛场第45轮 江苏肯帝亚vs深圳马可波罗</title>
-	</programme>
-	<programme channel="广东体育" start="20250611093200 +0800" stop="20250611093700 +0800">
-		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611093700 +0800" stop="20250611104700 +0800">
-		<title lang="zh">重播 德甲精选(242529)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611104700 +0800" stop="20250611115400 +0800">
-		<title lang="zh">重播 劲速天地(202520)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611115400 +0800" stop="20250611120000 +0800">
-		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611120000 +0800" stop="20250611130500 +0800">
-		<title lang="zh">重播 出奇智胜(658)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611130500 +0800" stop="20250611135700 +0800">
-		<title lang="zh">重播 全运回眸(39)十二运羽毛球男单决赛 杜鹏宇(北京)vs林丹(解放军)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611135700 +0800" stop="20250611140400 +0800">
-		<title lang="zh">重播 MV:全运来四方</title>
-	</programme>
-	<programme channel="广东体育" start="20250611140400 +0800" stop="20250611153800 +0800">
-		<title lang="zh">重播 24-25CBA赛场第41轮 浙江稠州金租vs广东东阳光</title>
-	</programme>
-	<programme channel="广东体育" start="20250611153800 +0800" stop="20250611161100 +0800">
-		<title lang="zh">重播 全运回眸(28)十三运跳水男子双人十米台决赛</title>
-	</programme>
-	<programme channel="广东体育" start="20250611161100 +0800" stop="20250611161900 +0800">
-		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版1231)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611161900 +0800" stop="20250611172500 +0800">
-		<title lang="zh">重播 24-25CBA第29轮精编版 深圳马可波罗vs山东高速</title>
-	</programme>
-	<programme channel="广东体育" start="20250611172500 +0800" stop="20250611190000 +0800">
-		<title lang="zh">首播 羽乐无限:2025世界羽联世界巡回赛印尼开赛精选(3)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611190000 +0800" stop="20250611192400 +0800">
-		<title lang="zh">直播 体育世界 20分钟br /</title>
-	</programme>
-	<programme channel="广东体育" start="20250611192200 +0800" stop="20250611192400 +0800">
-		<title lang="zh">重播 粤港澳大湾区2025高考学子三人篮球江门公开赛暨三分王扣篮王擂台赛招募宣传片</title>
-	</programme>
-	<programme channel="广东体育" start="20250611192400 +0800" stop="20250611202300 +0800">
-		<title lang="zh">重播 24-25CBA赛场第43轮 宁波町渥vs广东东阳光</title>
-	</programme>
-	<programme channel="广东体育" start="20250611202300 +0800" stop="20250611212200 +0800">
-		<title lang="zh">重播 24-25CBA赛场第43轮 深圳马可波罗vs北京控股</title>
-	</programme>
-	<programme channel="广东体育" start="20250611212200 +0800" stop="20250611215300 +0800">
-		<title lang="zh">首播 全运回眸(69)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611214900 +0800" stop="20250611215300 +0800">
-		<title lang="zh">重播 粤港澳大湾区2025高考学子三人篮球江门公开赛暨三分王扣篮王擂台赛招募宣传片</title>
-	</programme>
-	<programme channel="广东体育" start="20250611215300 +0800" stop="20250611232200 +0800">
-		<title lang="zh">首播 出奇智胜(659)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611232200 +0800" stop="20250611232900 +0800">
-		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
-	</programme>
-	<programme channel="广东体育" start="20250611232900 +0800" stop="20250611235900 +0800">
-		<title lang="zh">首播 ONE周刊(111)</title>
+	<programme channel="天元围棋" start="20250612234500 +0800" stop="20250612235500 +0800">
+		<title lang="zh">棋坛风云</title>
 	</programme>
 	<channel id="快乐垂钓">
 		<display-name lang="zh">快乐垂钓</display-name>
 	</channel>
-	<programme channel="快乐垂钓" start="20250611000000 +0800" stop="20250611040000 +0800">
-		<title lang="zh">2024王者之战:决赛第四天(下)</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611040000 +0800" stop="20250611060000 +0800">
-		<title lang="zh">2020CCF南京站四强晋级赛</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611060000 +0800" stop="20250611080000 +0800">
-		<title lang="zh">快乐垂钓商城会员日</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611080000 +0800" stop="20250611120000 +0800">
+	<programme channel="快乐垂钓" start="20250612000000 +0800" stop="20250612040000 +0800">
 		<title lang="zh">2024王者之战:决赛第五天(上)</title>
 	</programme>
-	<programme channel="快乐垂钓" start="20250611120000 +0800" stop="20250611140000 +0800">
-		<title lang="zh">快乐垂钓商城会员日</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611140000 +0800" stop="20250611144500 +0800">
-		<title lang="zh">垂钓学院:钓草全解析</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611144500 +0800" stop="20250611153000 +0800">
+	<programme channel="快乐垂钓" start="20250612040000 +0800" stop="20250612044500 +0800">
 		<title lang="zh">寻找巨物:湘湖寻钓巨青(3)</title>
 	</programme>
-	<programme channel="快乐垂钓" start="20250611153000 +0800" stop="20250611160000 +0800">
-		<title lang="zh">就这样钓鱼:夏钓大鱼技巧(下)</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611160000 +0800" stop="20250611163000 +0800">
-		<title lang="zh">钩尖上的美食:炎炎烈日寻美食</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611163000 +0800" stop="20250611170000 +0800">
-		<title lang="zh">探路米兰达:烟波长江寻鳡鱼</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611170000 +0800" stop="20250611181000 +0800">
+	<programme channel="快乐垂钓" start="20250612044500 +0800" stop="20250612060000 +0800">
 		<title lang="zh">第11届FTT山东东平站八强晋级赛</title>
 	</programme>
-	<programme channel="快乐垂钓" start="20250611181000 +0800" stop="20250611192000 +0800">
-		<title lang="zh">第11届FTT山东东平站四强晋级赛</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611192000 +0800" stop="20250611204500 +0800">
-		<title lang="zh">第十一届FTT山东东平站冠亚决赛</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611204500 +0800" stop="20250611213000 +0800">
-		<title lang="zh">垂钓学院:钓草全解析</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611213000 +0800" stop="20250611220000 +0800">
-		<title lang="zh">就这样钓鱼:夏钓大鱼技巧(下)</title>
-	</programme>
-	<programme channel="快乐垂钓" start="20250611220000 +0800" stop="20250611000000 +0800">
+	<programme channel="快乐垂钓" start="20250612060000 +0800" stop="20250612080000 +0800">
 		<title lang="zh">快乐垂钓商城会员日</title>
 	</programme>
-	<channel id="无线新闻">
-		<display-name lang="zh">无线新闻</display-name>
-	</channel>
-	<programme channel="无线新闻" start="20250611000000 +0800" stop="20250611003000 +0800">
-		<title lang="zh">深宵新闻报道及新闻档案</title>
+	<programme channel="快乐垂钓" start="20250612080000 +0800" stop="20250612120000 +0800">
+		<title lang="zh">2024王者之战:决赛第五天(下)</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611003000 +0800" stop="20250611010000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报</title>
+	<programme channel="快乐垂钓" start="20250612120000 +0800" stop="20250612140000 +0800">
+		<title lang="zh">快乐垂钓商城会员日</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611010000 +0800" stop="20250611013000 +0800">
-		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	<programme channel="快乐垂钓" start="20250612140000 +0800" stop="20250612144500 +0800">
+		<title lang="zh">垂钓学院:正钓抢鱼巧用饵</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611013000 +0800" stop="20250611020000 +0800">
-		<title lang="zh">深宵新闻报道</title>
+	<programme channel="快乐垂钓" start="20250612144500 +0800" stop="20250612153000 +0800">
+		<title lang="zh">寻找巨物:湖北十堰猎大青(上)</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611020000 +0800" stop="20250611023000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	<programme channel="快乐垂钓" start="20250612153000 +0800" stop="20250612160000 +0800">
+		<title lang="zh">就这样钓鱼:水库手竿搏鲢鳙</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611023000 +0800" stop="20250611030000 +0800">
-		<title lang="zh">深宵新闻报道及中华掠影</title>
+	<programme channel="快乐垂钓" start="20250612160000 +0800" stop="20250612163000 +0800">
+		<title lang="zh">钩尖上的美食:惠亭水库品美食</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611030000 +0800" stop="20250611033000 +0800">
-		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	<programme channel="快乐垂钓" start="20250612163000 +0800" stop="20250612170000 +0800">
+		<title lang="zh">金龙心选:自贡游钓鲢鳙攻略</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611033000 +0800" stop="20250611040000 +0800">
-		<title lang="zh">深宵新闻报道</title>
+	<programme channel="快乐垂钓" start="20250612170000 +0800" stop="20250612184500 +0800">
+		<title lang="zh">2020CCF浙江开化站四强晋级赛</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611040000 +0800" stop="20250611043000 +0800">
-		<title lang="zh">深宵新闻报道及中华掠影</title>
+	<programme channel="快乐垂钓" start="20250612184500 +0800" stop="20250612194500 +0800">
+		<title lang="zh">2020CCF浙江开化站冠亚决赛</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611043000 +0800" stop="20250611050000 +0800">
-		<title lang="zh">深宵新闻报道及三日天气预报及世界观</title>
+	<programme channel="快乐垂钓" start="20250612194500 +0800" stop="20250612203000 +0800">
+		<title lang="zh">垂钓学院:正钓抢鱼巧用饵</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611050000 +0800" stop="20250611053000 +0800">
-		<title lang="zh">深宵新闻报道及时事多面睇</title>
+	<programme channel="快乐垂钓" start="20250612203000 +0800" stop="20250612210000 +0800">
+		<title lang="zh">就这样钓鱼:水库手竿搏鲢鳙</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611053000 +0800" stop="20250611060000 +0800">
-		<title lang="zh">深宵新闻报道</title>
+	<programme channel="快乐垂钓" start="20250612210000 +0800" stop="20250612230000 +0800">
+		<title lang="zh">快乐垂钓商城会员日</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611060000 +0800" stop="20250611063000 +0800">
-		<title lang="zh">香港早晨</title>
+	<programme channel="快乐垂钓" start="20250612230000 +0800" stop="20250612233000 +0800">
+		<title lang="zh">钩尖上的美食:惠亭水库品美食</title>
 	</programme>
-	<programme channel="无线新闻" start="20250611063000 +0800" stop="20250611070000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611070000 +0800" stop="20250611073000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611073000 +0800" stop="20250611080000 +0800">
-		<title lang="zh">香港早晨及交通消息及环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611080000 +0800" stop="20250611083000 +0800">
-		<title lang="zh">香港早晨及交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611083000 +0800" stop="20250611090000 +0800">
-		<title lang="zh">香港早晨及交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611090000 +0800" stop="20250611093000 +0800">
-		<title lang="zh">新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611093000 +0800" stop="20250611100000 +0800">
-		<title lang="zh">开市第一击及新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611100000 +0800" stop="20250611103000 +0800">
-		<title lang="zh">新闻报道及时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611103000 +0800" stop="20250611104500 +0800">
-		<title lang="zh">新闻报道及世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611104500 +0800" stop="20250611105500 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611105500 +0800" stop="20250611110000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611110000 +0800" stop="20250611113000 +0800">
-		<title lang="zh">新闻报道及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611113000 +0800" stop="20250611120000 +0800">
-		<title lang="zh">新闻报道及有理说得清及三日天气预报及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611120000 +0800" stop="20250611123000 +0800">
-		<title lang="zh">午间新闻及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611123000 +0800" stop="20250611130000 +0800">
-		<title lang="zh">午间新闻及时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611130000 +0800" stop="20250611133000 +0800">
-		<title lang="zh">新闻报道及中华掠影及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611133000 +0800" stop="20250611140000 +0800">
-		<title lang="zh">新闻报道及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611140000 +0800" stop="20250611143000 +0800">
-		<title lang="zh">新闻报道及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611143000 +0800" stop="20250611144500 +0800">
-		<title lang="zh">新闻报道及世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611144500 +0800" stop="20250611150000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611150000 +0800" stop="20250611153000 +0800">
-		<title lang="zh">新闻报道及深港沪快讯及环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611153000 +0800" stop="20250611160000 +0800">
-		<title lang="zh">新闻报道及有理说得清及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611160000 +0800" stop="20250611163000 +0800">
-		<title lang="zh">新闻报道及世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611163000 +0800" stop="20250611170000 +0800">
-		<title lang="zh">新闻报道及中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611170000 +0800" stop="20250611173000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611173000 +0800" stop="20250611180000 +0800">
-		<title lang="zh">新闻报道及交通消息及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611180000 +0800" stop="20250611183000 +0800">
-		<title lang="zh">新闻报道及交通消息及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611183000 +0800" stop="20250611190000 +0800">
-		<title lang="zh">新闻报道及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611190000 +0800" stop="20250611193000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611193000 +0800" stop="20250611200000 +0800">
-		<title lang="zh">无线730一小时新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611200000 +0800" stop="20250611202000 +0800">
-		<title lang="zh">时事中国及无线730一小时新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611202000 +0800" stop="20250611203000 +0800">
-		<title lang="zh">天气报告及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611203000 +0800" stop="20250611210000 +0800">
-		<title lang="zh">新闻报道及世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611210000 +0800" stop="20250611213000 +0800">
-		<title lang="zh">新闻报道及大国外交及天气报告及新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611213000 +0800" stop="20250611214500 +0800">
-		<title lang="zh">时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611214500 +0800" stop="20250611220000 +0800">
-		<title lang="zh">新闻报道及环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611220000 +0800" stop="20250611223000 +0800">
-		<title lang="zh">新闻报道及大国外交及时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611223000 +0800" stop="20250611230000 +0800">
-		<title lang="zh">新闻报道及世界观及财经多国度及三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611230000 +0800" stop="20250611233000 +0800">
-		<title lang="zh">晚间新闻及有理说得清及大国外交及港楼讲楼</title>
-	</programme>
-	<programme channel="无线新闻" start="20250611233000 +0800" stop="20250611235900 +0800">
-		<title lang="zh">晚间新闻及时事通识</title>
-	</programme>
-	<channel id="明珠台">
-		<display-name lang="zh">明珠台</display-name>
-	</channel>
-	<programme channel="明珠台" start="20250611002500 +0800" stop="20250611005500 +0800">
-		<title lang="zh">清心直说</title>
-	</programme>
-	<programme channel="明珠台" start="20250611005500 +0800" stop="20250611014000 +0800">
-		<title lang="zh">中国24小时</title>
-	</programme>
-	<programme channel="明珠台" start="20250611014000 +0800" stop="20250611020000 +0800">
-		<title lang="zh">金融概要</title>
-	</programme>
-	<programme channel="明珠台" start="20250611020000 +0800" stop="20250611035900 +0800">
-		<title lang="zh">祝君晚安</title>
-	</programme>
-	<programme channel="明珠台" start="20250611035900 +0800" stop="20250611055800 +0800">
-		<title lang="zh">祝君晚安</title>
-	</programme>
-	<programme channel="明珠台" start="20250611055800 +0800" stop="20250611060000 +0800">
-		<title lang="zh">祝君晚安</title>
-	</programme>
-	<programme channel="明珠台" start="20250611060000 +0800" stop="20250611070000 +0800">
-		<title lang="zh">金融概要</title>
-	</programme>
-	<programme channel="明珠台" start="20250611070000 +0800" stop="20250611073000 +0800">
-		<title lang="zh">新造电视</title>
-	</programme>
-	<programme channel="明珠台" start="20250611073000 +0800" stop="20250611080000 +0800">
-		<title lang="zh">NBC世界新闻</title>
-	</programme>
-	<programme channel="明珠台" start="20250611080000 +0800" stop="20250611090000 +0800">
-		<title lang="zh">金融概要</title>
-	</programme>
-	<programme channel="明珠台" start="20250611090000 +0800" stop="20250611091500 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611091500 +0800" stop="20250611093000 +0800">
-		<title lang="zh">交易直播室</title>
-	</programme>
-	<programme channel="明珠台" start="20250611093000 +0800" stop="20250611095000 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611095000 +0800" stop="20250611100000 +0800">
-		<title lang="zh">财经快讯</title>
-	</programme>
-	<programme channel="明珠台" start="20250611100000 +0800" stop="20250611105000 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611105000 +0800" stop="20250611110000 +0800">
-		<title lang="zh">交易直播室</title>
-	</programme>
-	<programme channel="明珠台" start="20250611110000 +0800" stop="20250611120000 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611120000 +0800" stop="20250611130000 +0800">
-		<title lang="zh">CGTN环球瞭望</title>
-	</programme>
-	<programme channel="明珠台" start="20250611130000 +0800" stop="20250611133500 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611133500 +0800" stop="20250611134000 +0800">
-		<title lang="zh">交易直播室</title>
-	</programme>
-	<programme channel="明珠台" start="20250611134000 +0800" stop="20250611145500 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611145500 +0800" stop="20250611150000 +0800">
-		<title lang="zh">财经快讯</title>
-	</programme>
-	<programme channel="明珠台" start="20250611150000 +0800" stop="20250611153500 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611153500 +0800" stop="20250611154000 +0800">
-		<title lang="zh">交易直播室</title>
-	</programme>
-	<programme channel="明珠台" start="20250611154000 +0800" stop="20250611161500 +0800">
-		<title lang="zh">金融行情</title>
-	</programme>
-	<programme channel="明珠台" start="20250611161500 +0800" stop="20250611163000 +0800">
-		<title lang="zh">普通话新闻报道</title>
-	</programme>
-	<programme channel="明珠台" start="20250611163000 +0800" stop="20250611170000 +0800">
-		<title lang="zh">新造电视</title>
-	</programme>
-	<programme channel="明珠台" start="20250611170000 +0800" stop="20250611173000 +0800">
-		<title lang="zh">芝麻街</title>
-	</programme>
-	<programme channel="明珠台" start="20250611173000 +0800" stop="20250611180000 +0800">
-		<title lang="zh">节拍小天地</title>
-	</programme>
-	<programme channel="明珠台" start="20250611180000 +0800" stop="20250611190000 +0800">
-		<title lang="zh">我要做厨神</title>
-	</programme>
-	<programme channel="明珠台" start="20250611190000 +0800" stop="20250611193000 +0800">
-		<title lang="zh">手语新闻报道</title>
-	</programme>
-	<programme channel="明珠台" start="20250611193000 +0800" stop="20250611195500 +0800">
-		<title lang="zh">七点半新闻报道</title>
-	</programme>
-	<programme channel="明珠台" start="20250611195500 +0800" stop="20250611200000 +0800">
-		<title lang="zh">天气报告财经消息</title>
-	</programme>
-	<programme channel="明珠台" start="20250611200000 +0800" stop="20250611203000 +0800">
-		<title lang="zh">法国西岸滋味游</title>
-	</programme>
-	<programme channel="明珠台" start="20250611203000 +0800" stop="20250611213000 +0800">
-		<title lang="zh">我要做厨神</title>
-	</programme>
-	<programme channel="明珠台" start="20250611213000 +0800" stop="20250611232900 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="明珠台" start="20250611232900 +0800" stop="20250611233000 +0800">
-		<title lang="zh">电影</title>
-	</programme>
-	<programme channel="明珠台" start="20250611233000 +0800" stop="20250611235000 +0800">
-		<title lang="zh">晚间新闻</title>
-	</programme>
-	<programme channel="明珠台" start="20250611235000 +0800" stop="20250611235900 +0800">
-		<title lang="zh">法国西岸滋味游</title>
+	<programme channel="快乐垂钓" start="20250612233000 +0800" stop="20250612000000 +0800">
+		<title lang="zh">金龙心选:自贡游钓鲢鳙攻略</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
-	<programme channel="翡翠台" start="20250611000000 +0800" stop="20250611010000 +0800">
+	<programme channel="翡翠台" start="20250612000000 +0800" stop="20250612010000 +0800">
 		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611010000 +0800" stop="20250611013000 +0800">
+	<programme channel="翡翠台" start="20250612010000 +0800" stop="20250612013000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611013000 +0800" stop="20250611013500 +0800">
+	<programme channel="翡翠台" start="20250612013000 +0800" stop="20250612013500 +0800">
 		<title lang="zh">宣传易[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611013500 +0800" stop="20250611020500 +0800">
-		<title lang="zh">MUSIC BREAK[粤][PG]</title>
+	<programme channel="翡翠台" start="20250612013500 +0800" stop="20250612020500 +0800">
+		<title lang="zh">MUSIC BREAK[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611020500 +0800" stop="20250611025000 +0800">
+	<programme channel="翡翠台" start="20250612020500 +0800" stop="20250612025000 +0800">
 		<title lang="zh">流行都市[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611025000 +0800" stop="20250611034500 +0800">
-		<title lang="zh">Only You 只有您#21[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611034500 +0800" stop="20250611041000 +0800">
-		<title lang="zh">我爱玫瑰园#69[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611041000 +0800" stop="20250611050500 +0800">
-		<title lang="zh">浮世双娇传#27[粤/普][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611050500 +0800" stop="20250611060000 +0800">
-		<title lang="zh">街坊厨神食四方[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611060000 +0800" stop="20250611074000 +0800">
-		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611074000 +0800" stop="20250611074500 +0800">
-		<title lang="zh">环球新闻档案[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611074500 +0800" stop="20250611081000 +0800">
-		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611081000 +0800" stop="20250611084000 +0800">
-		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611084000 +0800" stop="20250611090000 +0800">
-		<title lang="zh">香港早晨[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611090000 +0800" stop="20250611100000 +0800">
-		<title lang="zh">交易现场[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611100000 +0800" stop="20250611100500 +0800">
-		<title lang="zh">劲歌推介[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611100500 +0800" stop="20250611103500 +0800">
-		<title lang="zh">我爱玫瑰园#70[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611103500 +0800" stop="20250611113500 +0800">
-		<title lang="zh">浮世双娇传#28[粤/普][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611113500 +0800" stop="20250611114000 +0800">
-		<title lang="zh">宣传易[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611114000 +0800" stop="20250611121500 +0800">
-		<title lang="zh">交易现场[粤] 及 潮流生活志[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611121500 +0800" stop="20250611125000 +0800">
-		<title lang="zh">新派煮意[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611125000 +0800" stop="20250611130000 +0800">
-		<title lang="zh">宣传易[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611130000 +0800" stop="20250611132000 +0800">
-		<title lang="zh">午间新闻[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611132000 +0800" stop="20250611141000 +0800">
-		<title lang="zh">流行都市[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611141000 +0800" stop="20250611144000 +0800">
-		<title lang="zh">辉哥为食游 II[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611144000 +0800" stop="20250611145000 +0800">
-		<title lang="zh">宣传易[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20250611145000 +0800" stop="20250611155000 +0800">
+	<programme channel="翡翠台" start="20250612025000 +0800" stop="20250612034500 +0800">
 		<title lang="zh">Only You 只有您#22[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611155000 +0800" stop="20250611162000 +0800">
+	<programme channel="翡翠台" start="20250612034500 +0800" stop="20250612041000 +0800">
+		<title lang="zh">我爱玫瑰园#70[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612041000 +0800" stop="20250612050500 +0800">
+		<title lang="zh">浮世双娇传#28[粤/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612050500 +0800" stop="20250612053500 +0800">
+		<title lang="zh">最紧要好玩[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612053500 +0800" stop="20250612060000 +0800">
+		<title lang="zh">最紧要好玩[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612060000 +0800" stop="20250612074000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612074000 +0800" stop="20250612074500 +0800">
+		<title lang="zh">环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612074500 +0800" stop="20250612081000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612081000 +0800" stop="20250612084000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612084000 +0800" stop="20250612090000 +0800">
+		<title lang="zh">香港早晨[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612090000 +0800" stop="20250612100000 +0800">
 		<title lang="zh">交易现场[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611162000 +0800" stop="20250611165000 +0800">
+	<programme channel="翡翠台" start="20250612100000 +0800" stop="20250612100500 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612100500 +0800" stop="20250612103500 +0800">
+		<title lang="zh">我爱玫瑰园#71[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612103500 +0800" stop="20250612113500 +0800">
+		<title lang="zh">浮世双娇传#29[粤/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612113500 +0800" stop="20250612114000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612114000 +0800" stop="20250612121500 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612121500 +0800" stop="20250612125000 +0800">
+		<title lang="zh">新派煮意[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612125000 +0800" stop="20250612130000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612130000 +0800" stop="20250612132000 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612132000 +0800" stop="20250612141000 +0800">
+		<title lang="zh">流行都市[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612141000 +0800" stop="20250612144000 +0800">
+		<title lang="zh">辉哥为食游 II[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612144000 +0800" stop="20250612145000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612145000 +0800" stop="20250612155000 +0800">
+		<title lang="zh">Only You 只有您#23[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612155000 +0800" stop="20250612162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250612162000 +0800" stop="20250612165000 +0800">
 		<title lang="zh">樱桃小丸子[粤/日]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611165000 +0800" stop="20250611172000 +0800">
+	<programme channel="翡翠台" start="20250612165000 +0800" stop="20250612172000 +0800">
 		<title lang="zh">Hands Up[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611172000 +0800" stop="20250611175000 +0800">
-		<title lang="zh">忍者乱太郎[粤/日]</title>
+	<programme channel="翡翠台" start="20250612172000 +0800" stop="20250612175000 +0800">
+		<title lang="zh">星光魔法[粤/日]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611175000 +0800" stop="20250611180000 +0800">
+	<programme channel="翡翠台" start="20250612175000 +0800" stop="20250612180000 +0800">
 		<title lang="zh">财经新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611180000 +0800" stop="20250611182500 +0800">
-		<title lang="zh">今日有楼睇[粤] 及 潮流生活志[粤]</title>
+	<programme channel="翡翠台" start="20250612180000 +0800" stop="20250612182500 +0800">
+		<title lang="zh">新闻掏宝[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611182500 +0800" stop="20250611183000 +0800">
+	<programme channel="翡翠台" start="20250612182500 +0800" stop="20250612183000 +0800">
 		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611183000 +0800" stop="20250611191500 +0800">
+	<programme channel="翡翠台" start="20250612183000 +0800" stop="20250612191500 +0800">
 		<title lang="zh">六点半新闻报道[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611191500 +0800" stop="20250611192500 +0800">
+	<programme channel="翡翠台" start="20250612191500 +0800" stop="20250612192500 +0800">
 		<title lang="zh">世界观[粤] 及 天气报告[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611192500 +0800" stop="20250611193000 +0800">
+	<programme channel="翡翠台" start="20250612192500 +0800" stop="20250612193000 +0800">
 		<title lang="zh">有理说得清[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611193000 +0800" stop="20250611200000 +0800">
+	<programme channel="翡翠台" start="20250612193000 +0800" stop="20250612200000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611200000 +0800" stop="20250611203000 +0800">
-		<title lang="zh">爱．回家之开心速递#2575[粤]</title>
+	<programme channel="翡翠台" start="20250612200000 +0800" stop="20250612203000 +0800">
+		<title lang="zh">爱．回家之开心速递#2576[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611203000 +0800" stop="20250611213000 +0800">
-		<title lang="zh">刑侦12#18[粤][PG]</title>
+	<programme channel="翡翠台" start="20250612203000 +0800" stop="20250612213000 +0800">
+		<title lang="zh">刑侦12#19[粤][PG]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611213000 +0800" stop="20250611223000 +0800">
-		<title lang="zh">清明上河图密码#12[粤/普][PG]</title>
+	<programme channel="翡翠台" start="20250612213000 +0800" stop="20250612223000 +0800">
+		<title lang="zh">清明上河图密码#13[粤/普][PG]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611223000 +0800" stop="20250611230500 +0800">
+	<programme channel="翡翠台" start="20250612223000 +0800" stop="20250612230500 +0800">
 		<title lang="zh">人生美食地图 - 东京篇[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611230500 +0800" stop="20250611231500 +0800">
-		<title lang="zh">娱乐头条[粤] 及 环球新闻档案[粤]</title>
+	<programme channel="翡翠台" start="20250612230500 +0800" stop="20250612231500 +0800">
+		<title lang="zh">抢食著数特攻队[粤] 及 环球新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611231500 +0800" stop="20250611234500 +0800">
+	<programme channel="翡翠台" start="20250612231500 +0800" stop="20250612234500 +0800">
 		<title lang="zh">晚间新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611234500 +0800" stop="20250611235000 +0800">
+	<programme channel="翡翠台" start="20250612234500 +0800" stop="20250612235000 +0800">
 		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611235000 +0800" stop="20250611235500 +0800">
-		<title lang="zh">天气报告[粤] 及 潮流生活志[粤]</title>
+	<programme channel="翡翠台" start="20250612235000 +0800" stop="20250612235500 +0800">
+		<title lang="zh">天气报告[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20250611235500 +0800" stop="20250611235900 +0800">
-		<title lang="zh">老表, 你好嘢!#3[粤]</title>
+	<programme channel="翡翠台" start="20250612235500 +0800" stop="20250612235900 +0800">
+		<title lang="zh">老表, 你好嘢!#4[粤]</title>
 	</programme>
 	<channel id="风云足球">
 		<display-name lang="zh">风云足球</display-name>
 	</channel>
-	<programme channel="风云足球" start="20250611005000 +0800" stop="20250611012000 +0800">
-		<title lang="zh">足球华彩</title>
+	<programme channel="风云足球" start="20250612011500 +0800" stop="20250612024000 +0800">
+		<title lang="zh">欧冠1/4决赛:多特蒙德-马竞</title>
 	</programme>
-	<programme channel="风云足球" start="20250611012000 +0800" stop="20250611024000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612024000 +0800" stop="20250612040500 +0800">
+		<title lang="zh">欧冠:巴塞罗那-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250611024000 +0800" stop="20250611040500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612040500 +0800" stop="20250612053000 +0800">
+		<title lang="zh">欧冠1/4决赛第2回合:拜仁-阿森纳</title>
 	</programme>
-	<programme channel="风云足球" start="20250611040500 +0800" stop="20250611052500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612053000 +0800" stop="20250612065500 +0800">
+		<title lang="zh">欧冠:多特蒙德-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250611052500 +0800" stop="20250611065000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612065500 +0800" stop="20250612082000 +0800">
+		<title lang="zh">欧冠:巴黎圣日耳曼-多特蒙德</title>
 	</programme>
-	<programme channel="风云足球" start="20250611065000 +0800" stop="20250611081000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612082000 +0800" stop="20250612094500 +0800">
+		<title lang="zh">欧冠决赛:多特蒙德-皇家马德里</title>
 	</programme>
-	<programme channel="风云足球" start="20250611081000 +0800" stop="20250611093500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612094500 +0800" stop="20250612111000 +0800">
+		<title lang="zh">德甲第8轮:奥格斯堡-多特蒙德</title>
 	</programme>
-	<programme channel="风云足球" start="20250611093500 +0800" stop="20250611105500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612111000 +0800" stop="20250612123500 +0800">
+		<title lang="zh">法甲第9轮:马赛-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250611105500 +0800" stop="20250611122000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612123500 +0800" stop="20250612140000 +0800">
+		<title lang="zh">英超联赛第16轮:布赖顿-水晶宫</title>
 	</programme>
-	<programme channel="风云足球" start="20250611122000 +0800" stop="20250611125000 +0800">
-		<title lang="zh">足球华彩</title>
+	<programme channel="风云足球" start="20250612140000 +0800" stop="20250612152500 +0800">
+		<title lang="zh">南美解放者杯1/8决赛第二回合</title>
 	</programme>
-	<programme channel="风云足球" start="20250611125000 +0800" stop="20250611131000 +0800">
-		<title lang="zh">足球华彩</title>
+	<programme channel="风云足球" start="20250612152500 +0800" stop="20250612165000 +0800">
+		<title lang="zh">南美解放者杯1/8决赛第二回合</title>
 	</programme>
-	<programme channel="风云足球" start="20250611131000 +0800" stop="20250611143000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612165000 +0800" stop="20250612181500 +0800">
+		<title lang="zh">英超第3轮:莱斯特城-阿斯顿维拉</title>
 	</programme>
-	<programme channel="风云足球" start="20250611143000 +0800" stop="20250611155500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612181500 +0800" stop="20250612194000 +0800">
+		<title lang="zh">英超联赛第3轮:切尔西-水晶宫</title>
 	</programme>
-	<programme channel="风云足球" start="20250611155500 +0800" stop="20250611171500 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612194000 +0800" stop="20250612210000 +0800">
+		<title lang="zh">西甲:阿拉维斯-毕尔巴鄂竞技</title>
 	</programme>
-	<programme channel="风云足球" start="20250611171500 +0800" stop="20250611184000 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612210000 +0800" stop="20250612222500 +0800">
+		<title lang="zh">德甲第14轮:多特蒙德-霍芬海姆</title>
 	</programme>
-	<programme channel="风云足球" start="20250611184000 +0800" stop="20250611190000 +0800">
-		<title lang="zh">足球华彩</title>
+	<programme channel="风云足球" start="20250612222500 +0800" stop="20250612235000 +0800">
+		<title lang="zh">法甲第9轮:马赛-巴黎圣日耳曼</title>
 	</programme>
-	<programme channel="风云足球" start="20250611190000 +0800" stop="20250611202500 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="风云足球" start="20250611202500 +0800" stop="20250611215000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="风云足球" start="20250611215000 +0800" stop="20250611231000 +0800">
-		<title lang="zh">体育赛事</title>
-	</programme>
-	<programme channel="风云足球" start="20250611231000 +0800" stop="20250611235900 +0800">
-		<title lang="zh">体育赛事</title>
+	<programme channel="风云足球" start="20250612235000 +0800" stop="20250612235900 +0800">
+		<title lang="zh">德甲第8轮:奥格斯堡-多特蒙德</title>
 	</programme>
 	<channel id="魅力足球">
 		<display-name lang="zh">魅力足球</display-name>
 	</channel>
-	<programme channel="魅力足球" start="20250611000000 +0800" stop="20250611005000 +0800">
-		<title lang="zh">2020-2021德甲精华(24)</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611005000 +0800" stop="20250611022700 +0800">
-		<title lang="zh">德甲第20轮:门兴格拉德巴赫-科隆</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611022700 +0800" stop="20250611040000 +0800">
-		<title lang="zh">意甲第10轮:克罗托内-那不勒斯</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611040000 +0800" stop="20250611055600 +0800">
-		<title lang="zh">意甲第10轮:尤文图斯-都灵</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611055600 +0800" stop="20250611073300 +0800">
-		<title lang="zh">德甲第20轮:门兴格拉德巴赫-科隆</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611073300 +0800" stop="20250611090600 +0800">
-		<title lang="zh">意甲第10轮:克罗托内-那不勒斯</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611090600 +0800" stop="20250611110000 +0800">
-		<title lang="zh">意甲第10轮:尤文图斯-都灵</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611110000 +0800" stop="20250611115200 +0800">
-		<title lang="zh">2020-2021德甲精华(24)</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611115200 +0800" stop="20250611132900 +0800">
-		<title lang="zh">德甲第20轮:门兴格拉德巴赫-科隆</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611132900 +0800" stop="20250611152500 +0800">
-		<title lang="zh">意甲第10轮:克罗托内-那不勒斯</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611152500 +0800" stop="20250611172100 +0800">
-		<title lang="zh">意甲第10轮:尤文图斯-都灵</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611172100 +0800" stop="20250611181100 +0800">
-		<title lang="zh">2020-2021德甲精华(24)</title>
-	</programme>
-	<programme channel="魅力足球" start="20250611181100 +0800" stop="20250611190000 +0800">
+	<programme channel="魅力足球" start="20250612000000 +0800" stop="20250612004500 +0800">
 		<title lang="zh">2020-2021德甲精华(25)</title>
 	</programme>
-	<programme channel="魅力足球" start="20250611190000 +0800" stop="20250611202900 +0800">
+	<programme channel="魅力足球" start="20250612004500 +0800" stop="20250612021400 +0800">
 		<title lang="zh">意甲第10轮:国际米兰-博洛尼亚</title>
 	</programme>
-	<programme channel="魅力足球" start="20250611202900 +0800" stop="20250611222600 +0800">
+	<programme channel="魅力足球" start="20250612021400 +0800" stop="20250612040800 +0800">
 		<title lang="zh">德甲第22轮:沙尔克04-多特蒙德</title>
 	</programme>
-	<programme channel="魅力足球" start="20250611222600 +0800" stop="20250611235900 +0800">
+	<programme channel="魅力足球" start="20250612040800 +0800" stop="20250612054200 +0800">
 		<title lang="zh">德甲第23轮:多特蒙德-比勒费尔德</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612054200 +0800" stop="20250612073100 +0800">
+		<title lang="zh">意甲第10轮:国际米兰-博洛尼亚</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612073100 +0800" stop="20250612090400 +0800">
+		<title lang="zh">德甲第22轮:沙尔克04-多特蒙德</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612090400 +0800" stop="20250612110000 +0800">
+		<title lang="zh">德甲第23轮:多特蒙德-比勒费尔德</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612110000 +0800" stop="20250612114500 +0800">
+		<title lang="zh">2020-2021德甲精华(25)</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612114500 +0800" stop="20250612133500 +0800">
+		<title lang="zh">意甲第10轮:国际米兰-博洛尼亚</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612133500 +0800" stop="20250612150800 +0800">
+		<title lang="zh">德甲第22轮:沙尔克04-多特蒙德</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612150800 +0800" stop="20250612170600 +0800">
+		<title lang="zh">德甲第23轮:多特蒙德-比勒费尔德</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612170600 +0800" stop="20250612175200 +0800">
+		<title lang="zh">2020-2021德甲精华(25)</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612175200 +0800" stop="20250612190000 +0800">
+		<title lang="zh">2020-2021德甲精华(1)</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612190000 +0800" stop="20250612203100 +0800">
+		<title lang="zh">德甲第22轮:柏林赫塔-RB莱比锡</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612203100 +0800" stop="20250612222300 +0800">
+		<title lang="zh">意甲第11轮:都灵-乌迪内斯</title>
+	</programme>
+	<programme channel="魅力足球" start="20250612222300 +0800" stop="20250612235900 +0800">
+		<title lang="zh">意甲第11轮:那不勒斯-桑普多利亚</title>
 	</programme>
 </tv>
