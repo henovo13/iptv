@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250720222824 +0800">
+<tv date="20250721103336 +0800">
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
 	</channel>
@@ -231,6 +231,117 @@
 	<programme channel="天元围棋" start="20250721234500 +0800" stop="20250721235500 +0800">
 		<title lang="zh">棋坛风云</title>
 	</programme>
+	<channel id="广东体育">
+		<display-name lang="zh">广东体育</display-name>
+	</channel>
+	<programme channel="广东体育" start="20250721004600 +0800" stop="20250721004900 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版1217)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721004900 +0800" stop="20250721005200 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版1231)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721005200 +0800" stop="20250721010000 +0800">
+		<title lang="zh">重播 全运回眸(27)十三运游泳项目精选</title>
+	</programme>
+	<programme channel="广东体育" start="20250721010000 +0800" stop="20250721011500 +0800">
+		<title lang="zh">重播 全运回眸(38)十二运田径项目比赛(2)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721011500 +0800" stop="20250721013000 +0800">
+		<title lang="zh">重播 全运回眸(45)十二运田径项目比赛(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721013000 +0800" stop="20250721013400 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250721013400 +0800" stop="20250721022600 +0800">
+		<title lang="zh">重播 2025世俱杯半决赛1:巴黎圣日耳曼vs皇家马德里</title>
+	</programme>
+	<programme channel="广东体育" start="20250721022600 +0800" stop="20250721031800 +0800">
+		<title lang="zh">重播 2025年NBL赛场第3轮 石家庄翔蓝vs香港金牛</title>
+	</programme>
+	<programme channel="广东体育" start="20250721031800 +0800" stop="20250721041000 +0800">
+		<title lang="zh">重播 2025年NBL赛场第4轮 香港金牛vs盐南苏科雄狮</title>
+	</programme>
+	<programme channel="广东体育" start="20250721041000 +0800" stop="20250721041300 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0211)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721041300 +0800" stop="20250721041600 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0225)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721041600 +0800" stop="20250721050800 +0800">
+		<title lang="zh">重播 24-25CBA赛场第45轮 广州朗肽海本vs福建晋江文旅</title>
+	</programme>
+	<programme channel="广东体育" start="20250721050800 +0800" stop="20250721051100 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0311)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721051100 +0800" stop="20250721051400 +0800">
+		<title lang="zh">重播(可删减长度)十分好球(24-25赛季CBA版0325)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721051400 +0800" stop="20250721054300 +0800">
+		<title lang="zh">重播 第十五届全国运动会足球项目女子16岁以下组小组赛 广东vs宁夏</title>
+	</programme>
+	<programme channel="广东体育" start="20250721054300 +0800" stop="20250721062800 +0800">
+		<title lang="zh">重播 全运回眸(34)十三运男子佩剑团体决赛 上海vs辽宁</title>
+	</programme>
+	<programme channel="广东体育" start="20250721062800 +0800" stop="20250721063200 +0800">
+		<title lang="zh">重播 MV:全运来四方</title>
+	</programme>
+	<programme channel="广东体育" start="20250721063200 +0800" stop="20250721075900 +0800">
+		<title lang="zh">重播 羽乐无限:2025世界羽联世界巡回赛马来西亚大师赛精选(2)52&amp;#039;女双半决赛 陈康乐/蒂娜vs贾一凡/张殊贤</title>
+	</programme>
+	<programme channel="广东体育" start="20250721075900 +0800" stop="20250721093300 +0800">
+		<title lang="zh">重播 24-25CBA赛场第35轮 广东东阳光vs广州朗肽海本</title>
+	</programme>
+	<programme channel="广东体育" start="20250721093300 +0800" stop="20250721093900 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721093900 +0800" stop="20250721104900 +0800">
+		<title lang="zh">重播 德甲精选(242522)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721104900 +0800" stop="20250721115100 +0800">
+		<title lang="zh">重播 全运回眸(68)十四运体操男子自由体操决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250721115100 +0800" stop="20250721120000 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721120000 +0800" stop="20250721130500 +0800">
+		<title lang="zh">重播 出奇智胜(688)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721130500 +0800" stop="20250721140800 +0800">
+		<title lang="zh">重播 全运回眸(57)十二运男子双人10米跳台决赛</title>
+	</programme>
+	<programme channel="广东体育" start="20250721140800 +0800" stop="20250721154300 +0800">
+		<title lang="zh">重播(好视力广告版)2025年NBL赛场第1轮 香港金牛vs长沙勇胜</title>
+	</programme>
+	<programme channel="广东体育" start="20250721154300 +0800" stop="20250721162000 +0800">
+		<title lang="zh">重播 2025中甲第16轮精编版 延边龙鼎vs广东广州豹</title>
+	</programme>
+	<programme channel="广东体育" start="20250721162000 +0800" stop="20250721172500 +0800">
+		<title lang="zh">重播 全运回眸(56)十二运体操单项决赛(4)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721172500 +0800" stop="20250721190000 +0800">
+		<title lang="zh">首播(好视力广告版)羽乐无限:2025世界羽联世界巡回赛日本公开赛精选(1)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721190000 +0800" stop="20250721193400 +0800">
+		<title lang="zh">直播 全运进行时(12)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721193400 +0800" stop="20250721203500 +0800">
+		<title lang="zh">重播 2025世俱杯1/8决赛 曼城vs利雅得新月</title>
+	</programme>
+	<programme channel="广东体育" start="20250721203500 +0800" stop="20250721213400 +0800">
+		<title lang="zh">首播 2025世俱杯1/8决赛 国际米兰vs弗卢米嫩塞</title>
+	</programme>
+	<programme channel="广东体育" start="20250721213400 +0800" stop="20250721214900 +0800">
+		<title lang="zh">重播 全运回眸(45)十二运田径项目比赛(3)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721214900 +0800" stop="20250721215300 +0800">
+		<title lang="zh">重播(不能取消)天草广告版CBA广东十分好球(0605)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721215300 +0800" stop="20250721232800 +0800">
+		<title lang="zh">首播 出奇智胜(690)</title>
+	</programme>
+	<programme channel="广东体育" start="20250721232800 +0800" stop="20250721235900 +0800">
+		<title lang="zh">重播 2025年NBL赛场第4轮 香港金牛vs盐南苏科雄狮</title>
+	</programme>
 	<channel id="快乐垂钓">
 		<display-name lang="zh">快乐垂钓</display-name>
 	</channel>
@@ -338,6 +449,294 @@
 	</programme>
 	<programme channel="快乐垂钓" start="20250721233000 +0800" stop="20250721000000 +0800">
 		<title lang="zh">鱼资渔味</title>
+	</programme>
+	<channel id="无线新闻">
+		<display-name lang="zh">无线新闻</display-name>
+	</channel>
+	<programme channel="无线新闻" start="20250721000000 +0800" stop="20250721003000 +0800">
+		<title lang="zh">深宵新闻报道及运动大本营</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721003000 +0800" stop="20250721010000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721010000 +0800" stop="20250721013000 +0800">
+		<title lang="zh">深宵新闻报道及寰宇掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721013000 +0800" stop="20250721020000 +0800">
+		<title lang="zh">深宵新闻报道及探古寻源</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721020000 +0800" stop="20250721023000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721023000 +0800" stop="20250721030000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721030000 +0800" stop="20250721033000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721033000 +0800" stop="20250721040000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721040000 +0800" stop="20250721043000 +0800">
+		<title lang="zh">深宵新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721043000 +0800" stop="20250721050000 +0800">
+		<title lang="zh">深宵新闻报道及三日天气预报及探古寻源</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721050000 +0800" stop="20250721053000 +0800">
+		<title lang="zh">深宵新闻报道及寰宇掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721053000 +0800" stop="20250721060000 +0800">
+		<title lang="zh">深宵新闻报道及运动大本营</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721060000 +0800" stop="20250721063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721063000 +0800" stop="20250721070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721070000 +0800" stop="20250721073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721073000 +0800" stop="20250721080000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721080000 +0800" stop="20250721083000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721083000 +0800" stop="20250721090000 +0800">
+		<title lang="zh">香港早晨及交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721090000 +0800" stop="20250721093000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721093000 +0800" stop="20250721100000 +0800">
+		<title lang="zh">开市第一击及新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721100000 +0800" stop="20250721103000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721103000 +0800" stop="20250721105500 +0800">
+		<title lang="zh">新闻报道及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721105500 +0800" stop="20250721110000 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721110000 +0800" stop="20250721113000 +0800">
+		<title lang="zh">新闻报道及有法安国II及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721113000 +0800" stop="20250721120000 +0800">
+		<title lang="zh">新闻报道及三日天气预报及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721120000 +0800" stop="20250721123000 +0800">
+		<title lang="zh">午间新闻及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721123000 +0800" stop="20250721130000 +0800">
+		<title lang="zh">午间新闻及隽友同悦乐人生</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721130000 +0800" stop="20250721133000 +0800">
+		<title lang="zh">新闻报道及中华掠影及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721133000 +0800" stop="20250721140000 +0800">
+		<title lang="zh">新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721140000 +0800" stop="20250721143000 +0800">
+		<title lang="zh">新闻报道及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721143000 +0800" stop="20250721150000 +0800">
+		<title lang="zh">新闻报道及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721150000 +0800" stop="20250721153000 +0800">
+		<title lang="zh">新闻报道及深港沪快讯及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721153000 +0800" stop="20250721160000 +0800">
+		<title lang="zh">新闻报道及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721160000 +0800" stop="20250721163000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721163000 +0800" stop="20250721170000 +0800">
+		<title lang="zh">新闻报道及中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721170000 +0800" stop="20250721173000 +0800">
+		<title lang="zh">新闻报道及有法安国II及港楼讲楼及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721173000 +0800" stop="20250721180000 +0800">
+		<title lang="zh">新闻报道及交通消息及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721180000 +0800" stop="20250721183000 +0800">
+		<title lang="zh">新闻报道及交通消息及时事通识及隽友同悦乐人生</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721183000 +0800" stop="20250721190000 +0800">
+		<title lang="zh">新闻报道及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721190000 +0800" stop="20250721193000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721193000 +0800" stop="20250721200000 +0800">
+		<title lang="zh">无线730一小时新闻</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721200000 +0800" stop="20250721202000 +0800">
+		<title lang="zh">时事中国及无线730一小时新闻</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721202000 +0800" stop="20250721203000 +0800">
+		<title lang="zh">天气报告及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721203000 +0800" stop="20250721210000 +0800">
+		<title lang="zh">新闻报道及世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721210000 +0800" stop="20250721212000 +0800">
+		<title lang="zh">新闻报道及大国外交及新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721212000 +0800" stop="20250721213000 +0800">
+		<title lang="zh">富途证券特约牛牛讲美股</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721213000 +0800" stop="20250721214500 +0800">
+		<title lang="zh">时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721214500 +0800" stop="20250721220000 +0800">
+		<title lang="zh">新闻报道及天气报告及环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721220000 +0800" stop="20250721223000 +0800">
+		<title lang="zh">新闻报道及大国外交及隽友同悦乐人生及时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721223000 +0800" stop="20250721230000 +0800">
+		<title lang="zh">新闻报道及世界观及财经多国度及三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721230000 +0800" stop="20250721233000 +0800">
+		<title lang="zh">晚间新闻及大国外交及港楼讲楼</title>
+	</programme>
+	<programme channel="无线新闻" start="20250721233000 +0800" stop="20250721235900 +0800">
+		<title lang="zh">晚间新闻及时事通识</title>
+	</programme>
+	<channel id="明珠台">
+		<display-name lang="zh">明珠台</display-name>
+	</channel>
+	<programme channel="明珠台" start="20250721000000 +0800" stop="20250721001500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="明珠台" start="20250721001500 +0800" stop="20250721004500 +0800">
+		<title lang="zh">奇珍异兽</title>
+	</programme>
+	<programme channel="明珠台" start="20250721004500 +0800" stop="20250721011500 +0800">
+		<title lang="zh">甜食文化</title>
+	</programme>
+	<programme channel="明珠台" start="20250721011500 +0800" stop="20250721020000 +0800">
+		<title lang="zh">中国24小时</title>
+	</programme>
+	<programme channel="明珠台" start="20250721020000 +0800" stop="20250721035900 +0800">
+		<title lang="zh">祝君晚安</title>
+	</programme>
+	<programme channel="明珠台" start="20250721035900 +0800" stop="20250721055800 +0800">
+		<title lang="zh">祝君晚安</title>
+	</programme>
+	<programme channel="明珠台" start="20250721055800 +0800" stop="20250721060000 +0800">
+		<title lang="zh">祝君晚安</title>
+	</programme>
+	<programme channel="明珠台" start="20250721060000 +0800" stop="20250721070000 +0800">
+		<title lang="zh">金融概要</title>
+	</programme>
+	<programme channel="明珠台" start="20250721070000 +0800" stop="20250721073000 +0800">
+		<title lang="zh">新造电视</title>
+	</programme>
+	<programme channel="明珠台" start="20250721073000 +0800" stop="20250721080000 +0800">
+		<title lang="zh">NBC世界新闻</title>
+	</programme>
+	<programme channel="明珠台" start="20250721080000 +0800" stop="20250721080500 +0800">
+		<title lang="zh">有法安国Ⅱ</title>
+	</programme>
+	<programme channel="明珠台" start="20250721080500 +0800" stop="20250721090000 +0800">
+		<title lang="zh">金融概要</title>
+	</programme>
+	<programme channel="明珠台" start="20250721090000 +0800" stop="20250721091500 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721091500 +0800" stop="20250721093000 +0800">
+		<title lang="zh">交易直播室</title>
+	</programme>
+	<programme channel="明珠台" start="20250721093000 +0800" stop="20250721095000 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721095000 +0800" stop="20250721100000 +0800">
+		<title lang="zh">财经快讯</title>
+	</programme>
+	<programme channel="明珠台" start="20250721100000 +0800" stop="20250721105000 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721105000 +0800" stop="20250721110000 +0800">
+		<title lang="zh">交易直播室</title>
+	</programme>
+	<programme channel="明珠台" start="20250721110000 +0800" stop="20250721120000 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721120000 +0800" stop="20250721130000 +0800">
+		<title lang="zh">CGTN环球瞭望</title>
+	</programme>
+	<programme channel="明珠台" start="20250721130000 +0800" stop="20250721133500 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721133500 +0800" stop="20250721134000 +0800">
+		<title lang="zh">交易直播室</title>
+	</programme>
+	<programme channel="明珠台" start="20250721134000 +0800" stop="20250721145500 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721145500 +0800" stop="20250721150000 +0800">
+		<title lang="zh">财经快讯</title>
+	</programme>
+	<programme channel="明珠台" start="20250721150000 +0800" stop="20250721153500 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721153500 +0800" stop="20250721154000 +0800">
+		<title lang="zh">交易直播室</title>
+	</programme>
+	<programme channel="明珠台" start="20250721154000 +0800" stop="20250721161500 +0800">
+		<title lang="zh">金融行情</title>
+	</programme>
+	<programme channel="明珠台" start="20250721161500 +0800" stop="20250721163000 +0800">
+		<title lang="zh">普通话新闻报道</title>
+	</programme>
+	<programme channel="明珠台" start="20250721163000 +0800" stop="20250721170000 +0800">
+		<title lang="zh">新造电视</title>
+	</programme>
+	<programme channel="明珠台" start="20250721170000 +0800" stop="20250721173000 +0800">
+		<title lang="zh">芝麻街</title>
+	</programme>
+	<programme channel="明珠台" start="20250721173000 +0800" stop="20250721180000 +0800">
+		<title lang="zh">童游野生世界</title>
+	</programme>
+	<programme channel="明珠台" start="20250721180000 +0800" stop="20250721185000 +0800">
+		<title lang="zh">笑笑小电影动物反斗篇</title>
+	</programme>
+	<programme channel="明珠台" start="20250721185000 +0800" stop="20250721185500 +0800">
+		<title lang="zh">世界真细小</title>
+	</programme>
+	<programme channel="明珠台" start="20250721185500 +0800" stop="20250721190000 +0800">
+		<title lang="zh">世界真细小</title>
+	</programme>
+	<programme channel="明珠台" start="20250721190000 +0800" stop="20250721193000 +0800">
+		<title lang="zh">手语新闻报道</title>
+	</programme>
+	<programme channel="明珠台" start="20250721193000 +0800" stop="20250721195500 +0800">
+		<title lang="zh">七点半新闻报道</title>
+	</programme>
+	<programme channel="明珠台" start="20250721195500 +0800" stop="20250721200000 +0800">
+		<title lang="zh">天气报告财经消息</title>
+	</programme>
+	<programme channel="明珠台" start="20250721200000 +0800" stop="20250721203000 +0800">
+		<title lang="zh">明珠杂志</title>
+	</programme>
+	<programme channel="明珠台" start="20250721203000 +0800" stop="20250721213000 +0800">
+		<title lang="zh">我要做厨神澳洲篇</title>
+	</programme>
+	<programme channel="明珠台" start="20250721213000 +0800" stop="20250721232900 +0800">
+		<title lang="zh">魔间行者</title>
+	</programme>
+	<programme channel="明珠台" start="20250721232900 +0800" stop="20250721235500 +0800">
+		<title lang="zh">魔间行者</title>
+	</programme>
+	<programme channel="明珠台" start="20250721235500 +0800" stop="20250721235900 +0800">
+		<title lang="zh">晚间新闻</title>
 	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
