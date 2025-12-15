@@ -1,88 +1,32 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png" group-title="🕘️更新时间",2025-12-15 14:12:27
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png" group-title="🕘️更新时间",2025-12-15 15:22:47
 http://183.220.107.138:4022/rtp/239.11.0.100:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
 http://183.220.107.138:4022/rtp/239.11.0.100:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://144.255.32.94:8288/rtp/239.21.1.142:5002
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://182.123.208.170:12345/rtp/225.1.4.75:1104
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://182.123.208.170:12345/rtp/225.1.4.159:1195
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://171.83.103.119:9999/rtp/239.69.1.123:10376
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://116.237.37.244:8888/rtp/239.45.0.34:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
 http://183.220.107.138:4022/rtp/239.11.0.241:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://omnix.cn:4000/udp/225.1.8.89:8000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://116.237.37.244:8888/rtp/239.45.1.69:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
 http://115.171.216.39:4000/rtp/225.1.8.20:8004
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://182.123.208.170:12345/rtp/225.1.4.159:1195
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://182.123.208.170:12345/rtp/225.1.4.75:1104
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://drive.mxmy.net:8888/udp/239.3.1.173:8001
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://omnix.cn:4000/udp/225.1.8.89:8000
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://171.83.103.119:9999/rtp/239.69.1.123:10376
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
+http://144.255.32.94:8288/rtp/239.21.1.142:5002
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
 http://112.254.55.106:22222/rtp/239.253.254.192:8000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://nas.suntao.online:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-https://hls-gateway.vpstv.net/streams/476885.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-https://tv.iill.top/migu/cctv5&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://wouu.net:9977/udp/239.93.42.37:5140
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://wouu.net:9977/udp/239.93.1.36:8004
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://3501776.xyz:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-https://stream1.freetv.fun/ipv6-cctv-5-12.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000008885/1.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000016619/1.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=m
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5.png",CCTV5
-https://tv.iill.top/migu/cctv5&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://171.83.103.119:9999/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
 http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://112.254.55.106:22222/rtp/239.253.254.80:8000
+http://171.83.103.119:9999/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://171.83.103.119:9999/rtp/239.254.96.99:8568
+http://112.254.55.106:22222/rtp/239.253.254.80:8000
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
@@ -97,46 +41,18 @@ http://nas.suntao.online:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
 https://stream1.freetv.fun/88ee08d5c5e75e963f46cba8142888798dde687981709eda707a0b192da8ad4d.ctv
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-https://hls-gateway.vpstv.net/streams/476888.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-https://tv.iill.top/migu/cctv5+&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-http://3501776.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV5+.png",CCTV5+
-https://tv.iill.top/migu/cctv5+&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://171.83.103.119:9999/rtp/239.69.1.12:9712
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://home.yulei.online:9999/rtp/226.0.2.169:9264
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://171.83.103.119:9999/rtp/239.69.1.247:11124
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
 http://171.83.103.119:9999/rtp/239.69.1.249:11136
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
+http://home.yulei.online:9999/rtp/226.0.2.169:9264
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
+http://drive.mxmy.net:8888/udp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
+http://171.83.103.119:9999/rtp/239.69.1.12:9712
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
 http://116.237.37.244:8888/rtp/239.45.0.12:5140
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
+http://171.83.103.119:9999/rtp/239.69.1.247:11124
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
@@ -145,54 +61,6 @@ http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://stream1.freetv.fun/87de3fae6db73a08904421488de7b0ba39e5eccf12a85ec47f8ccfb0985d2fa7.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/1.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://hls-gateway.vpstv.net/streams/709272.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://hls-gateway.vpstv.net/streams/709089.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://stream1.freetv.fun/cdd93308f8ffbb06fab05e75d7c91d7ec6d9c68d865738572b52b3e8c959cf14.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://stream1.freetv.fun/3fa27f5bf8136b49f28d477a805f1219c588cf21ffbada685497c73431d20c6e.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-https://yunmei.tv/main/cctv-16.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/CCTV16.png",CCTV16
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=m
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 rtmp://nowast.net/live/yifatv-jade01
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
@@ -200,99 +68,19 @@ https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-13.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://cdn3.163189.xyz/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://cdn.163189.xyz/live/fct4k/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://cdn5.1678520.xyz/live/?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/qrfbg
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/GeWKr
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://cdn6.101.qzz.io/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://hls-gateway.vpstv.net/streams/476929.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://tvb.go-iptv.ggff.net/stream/tvb/feicui4k/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.666230.xyz/smt.php?id=Jade_xue
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.666230.xyz/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/GeWKr?id=fct406
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-http://r.jdshipin.com/GeWKr?id=fct720
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-2.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-9.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-12.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-13.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://stream1.freetv.fun/fei-cui-15.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/翡翠台.png",翡翠台
-https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB娱乐新闻.png",TVB娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB娱乐新闻.png",TVB娱乐新闻
@@ -329,24 +117,6 @@ http://cdn.132.us.kg/live/tvbp/stream.m3u8
 https://hls-gateway.vpstv.net/streams/476932.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
 https://hls-gateway.vpstv.net/streams/476923.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-http://cdn.163189.xyz/live/tvbp/stream.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-http://cdn5.1678520.xyz/live/?id=tvbp
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-http://hls.168.us.kg/u/82/master.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-https://stream1.freetv.fun/atv-plus-1.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-https://stream1.freetv.fun/atv-plus-2.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-https://stream1.freetv.fun/tvb-plus-6.m3u8
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-https://tvb.go-iptv.ggff.net/stream/tvb/tvbplus/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBPlus.png",TVBPlus
-http://php.666230.xyz/smt.php?id=j2_twn
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/HOY77.png",HOY77
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/HOY77.png",HOY77
@@ -383,24 +153,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
 https://hls-gateway.vpstv.net/streams/476937.m3u8
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/5fc2ba313b387d2b2538a2e46aee6266cc10890fc8b8ccf478498b82af6f7c3b.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/4b1a401b0a28174a645749406d87be9f140f3b3112128ffb51a42d0607c84433.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/a24b57db27b6bb78392779d79d59adaaf8d40804a336a9e0d852ae2e6027d269.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.m3u8
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/24011fe722dc3f5e8fc2c34317c9d94ebd36a707dbd89426eb1072fea51f5b25.m3u8
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/acf28668e5790e2d2ac642051e52d00b0ea2372b79f0526617aa30a9af34b16b.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/6e51cfdfdd9988358bd19ac505badd794b005798348da2715479b55057f921a5.ctv
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/Viutv.png",Viutv
-https://stream1.freetv.fun/0347ee59bb56a5ce70fbee03ba8e68f7af58119c22a19bd9db2c566f97ff892e.ctv
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
@@ -421,20 +173,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 https://cdn6.101.qzz.io/163189/tvbxh
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
 https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-https://hls-gateway.vpstv.net/streams/709489.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVB星河.png",TVB星河
-http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
@@ -455,12 +193,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
 https://stream1.freetv.fun/mei-ya-dian-ying-5.ctv
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
-https://stream1.freetv.fun/mei-ya-dian-ying-2.m3u8
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
-https://stream1.freetv.fun/mei-ya-dian-ying-2.ctv
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/美亚电影.png",美亚电影
-https://hls-gateway.vpstv.net/streams/476212.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
 http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
@@ -481,48 +213,6 @@ http://r.jdshipin.com/jUx8K
 http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://hls-gateway.vpstv.net/streams/476936.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-http://php.jdshipin.com/smt.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-11.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-3.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-4.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-7.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-8.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/ming-zhu-9.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/69f1ead0e893a2afc15dd39f8bb06bb84a91875cf4fb29e1c7e3a4730273b641.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/e56abfec74a8d135ddfc2c074a81751b6fc41d0272d5f5519c218b2e56d3265f.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/18147fe9227d749afdbf2b79ad6a6182ecd2276f2338a696d0c23d998e2763b2.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.ctv
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/明珠台.png",明珠台
-https://stream1.freetv.fun/fc542dddf6d96335d494c255d5df19fc0f2c61c46779dd9fe85e54b1559c3460.ctv
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
 rtmp://nowast.net/live/yifatv-wxxw01
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
@@ -543,52 +233,6 @@ http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
 http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://hls.168.us.kg/u/83/master.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://cdn6.101.qzz.io/163189/wxxw
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://hls-gateway.vpstv.net/streams/708884.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/wu-xian-xin-wen-11.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/wu-xian-xin-wen-14.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/wu-xian-xin-wen-5.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/wu-xian-xin-wen-8.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://tvb.go-iptv.ggff.net/stream/tvb/null-4/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.666230.xyz/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://hls-gateway.vpstv.net/streams/476926.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.ctv
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/ac251cfa2842fa2be9c70e0f852ca810ccfcaada7d0c4a67c41b1b9dd2621412.m3u8
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/无线新闻.png",无线新闻
-https://stream1.freetv.fun/3fe1031bdc0cbda4061163123f3c1615df756840a520f0da03572f577225556e.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
 https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
@@ -609,86 +253,6 @@ https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e249
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://php.666230.xyz/smt.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://cdn9.163189.xyz/smt1.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://hls-gateway.vpstv.net/streams/476959.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://wouu.net:9977/udp/239.93.1.9:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://wouu.net:9977/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰中文.png",凤凰中文
-https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
@@ -709,62 +273,6 @@ http://r.jdshipin.com/NfC0f
 http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-7.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-8.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-9.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-http://php.666230.xyz/smt.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://cdn9.163189.xyz/smt1.1.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://hls-gateway.vpstv.net/streams/476960.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-11.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-8.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/d478a7c008fd51e80ebe718d405cd71e3967bb0cdc323a5ce4237162e731b1d5.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/1d0cd71c154df6f70ed3dbf11b59922a12c9ad1ec4f8f1913fdcc17065a24041.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/de73fec89305dacef19eafcb697172c30729dd00897cb0d30c80affbb3a582e9.ctv
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/ada32bf1237524edb183dcdef8285a2da3dd390b3d59be112c09d1a9c38c1077.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/凤凰香港.png",凤凰香港
-https://stream1.freetv.fun/51ee379325f2c8ef7909a08b24c9c1601f23743b206a5567bc0b347ea457ed67.ctv
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/三立新闻.png",三立新闻
 https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/三立新闻.png",三立新闻
@@ -785,8 +293,6 @@ https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/三立新闻.png",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/三立新闻.png",三立新闻
-https://stream1.freetv.fun/san-li-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=1
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
@@ -807,38 +313,6 @@ https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 http://php.666230.xyz/smt.php?id=ctinews
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
 https://hls-gateway.vpstv.net/streams/477695.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-12.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-20.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-4.ctv
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-7.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-8.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://tv.iill.top/litv/4gtv-4gtv009
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-2.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-3.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://tv.iill.top/litv/4gtv-4gtv009&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://stream1.freetv.fun/zhong-tian-xin-wen-21.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/中天新闻.png",中天新闻
-https://tv.iill.top/litv/4gtv-4gtv009&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
@@ -859,60 +333,6 @@ https://stream1.freetv.fun/tai-shi-xin-wen-2.m3u8
 https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
 https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://4gtv.dxjc.pp.ua/4gtv-4gtv051/index.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv051
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-http://php.666230.xyz/smt.php?id=ttvnews_twn
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-10.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-22.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-9.ctv
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-8.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-15.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-16.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-18.ctv
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-5.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-6.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://tv.iill.top/litv/4gtv-4gtv051
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-20.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-9.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-7.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-3.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-14.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://stream1.freetv.fun/tai-shi-xin-wen-13.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://hls-gateway.vpstv.net/streams/476268.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://tv.iill.top/litv/4gtv-4gtv051&token=9214268143febfaf9cbc3e9b7f092a03c3274273c99133a780217564b2ab7896
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/台视新闻.png",台视新闻
-https://tv.iill.top/litv/4gtv-4gtv051&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
 https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
@@ -933,12 +353,6 @@ https://stream1.freetv.fun/tvbsxin-wen-10.m3u8
 https://stream1.freetv.fun/tvbsxin-wen-2.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
 https://stream1.freetv.fun/tvbsxin-wen-4.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
-https://stream1.freetv.fun/tvbsxin-wen-5.m3u8
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
-https://stream1.freetv.fun/tvbsxin-wen-8.ctv
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/TVBS新闻.png",TVBS新闻
-https://tv.iill.top/litv/4gtv-4gtv072&token=0ba82b0a75c65ff5f1a8198b9de48d0532f0cf804be54dac2eacd7d0dbd56b0a
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/亚洲新闻.png",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://github.com/henovo13/cloud/tree/main/iptv/png/亚洲新闻.png",亚洲新闻
