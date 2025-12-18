@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="http://192.168.1.10/github/png/Viutv.png",Viutv
-https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=2
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
