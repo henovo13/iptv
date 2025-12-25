@@ -322,15 +322,15 @@ https://stream1.freetv.fun/tai-shi-xin-wen-21.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
 https://stream1.freetv.fun/tai-shi-xin-wen-4.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
-https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
 https://4gtv.dxjc.pp.ua/4gtv-4gtv051/index.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
+https://4gtv.dxjc.pp.ua/li-4gtv-4gtv051/index.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
 https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
@@ -342,7 +342,7 @@ https://hls-gateway.vpstv.net/streams/708927.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
 https://hls-gateway.vpstv.net/streams/709562.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
-https://tv.iill.top/litv/4gtv-4gtv072&token=f8a8e23f2e176e1718e1c409ec528a939c7bfc51f6efb38b36dbd0313a82adc2
+https://tv.iill.top/litv/4gtv-4gtv072&token=a1543aac9a440a1cbb3bf7933bd74c328f8b926ddd95a295b6bab0b329f1033d
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
 https://stream1.freetv.fun/tvbsxin-wen-1.m3u8
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="http://192.168.1.10/github/png/TVBS新闻.png",TVBS新闻
