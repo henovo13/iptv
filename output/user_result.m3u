@@ -72,8 +72,6 @@ https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[Mt]无线翡翠
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
@@ -401,3 +399,5 @@ https://hls-gateway.vpstv.net/streams/709497.m3u8
 https://hls-gateway.vpstv.net/streams/476307.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="http://192.168.1.10/github/png/亚洲新闻.png",亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="http://192.168.1.10/github/png/亚洲新闻.png",亚洲新闻
+https://smt.go-iptv.ggff.net/smart.php?id=cna&token=Goiptv
