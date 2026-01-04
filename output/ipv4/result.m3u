@@ -4,9 +4,9 @@ rtmp://nowast.net/live/yifatv-jade01
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡翠
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://192.168.1.10/github/png/TVB娱乐新闻.png",TVB娱乐新闻
 http://rihou.cc:555/tv/[PL]无线娱乐
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="http://192.168.1.10/github/png/Viutv.png",Viutv
@@ -24,11 +24,13 @@ https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=2
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
-http://rihou.cc:555/tv/[PL]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
 https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://rihou.cc:555/tv/[PL]凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
@@ -40,6 +42,6 @@ http://cdn.iptv8k.top/dl/jspd.php?id=1
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="http://192.168.1.10/github/png/台视新闻.png",台视新闻
 https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="http://192.168.1.10/github/png/亚洲新闻.png",亚洲新闻
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236996
-#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="http://192.168.1.10/github/png/亚洲新闻.png",亚洲新闻
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163743
+#EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="http://192.168.1.10/github/png/亚洲新闻.png",亚洲新闻
+http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1236996
