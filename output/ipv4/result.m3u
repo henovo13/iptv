@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://23.237.228.134/live5/CCTV5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://23.237.228.134/live5/CCTV5.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
-http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
+http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
@@ -27,6 +27,10 @@ https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://192.168.1.10/github/png/TVB娱乐新闻.png",TVB娱乐新闻
 http://rihou.cc:555/tv/[PL]无线娱乐
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="http://192.168.1.10/github/png/TVBPlus.png",TVBPlus
