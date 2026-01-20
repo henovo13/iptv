@@ -1,68 +1,108 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://23.128.116.71:5589/live.php?id=cctv5&h=23.128.116.71&p=22364&token=1768700622.97deb5815a175eccccb7196a134f02953297c35fe8ee68ff1337106d2a70a06b
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://23.128.116.71:5589/live.php?id=cctv5plus&h=23.128.116.71&p=22364&token=1768700622.afe07f4f8f7a30622397955b8a8b7f02cf6b1a52852e6ff0f3df0bb8b388a043
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://23.237.228.134/live5/CCTV5.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://23.237.228.134/live5/CCTV5p.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 rtmp://nowast.net/live/yifatv-jade01
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡4K
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://43.251.226.89:8080/play/1453.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://43.251.226.89:8080/play/1449.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://43.251.226.89:8080/play/1425.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://43.251.226.89:8080/play/913.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡翠
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://43.251.226.89:8080/play/1450.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[PL]无线翡高
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://rihou.cc:555/tv/[PL]无线翡翠
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://23.128.116.71:5589/live.php?id=jade_xue&h=23.128.116.71&p=22364&token=1768700622.8980c46a1b7f4e6a2d1a0d23690cbdd4fad8dd47cb8698b58c4cce66f07413c5
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+http://43.251.226.89:8080/play/1426.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://192.168.1.10/github/png/TVB娱乐新闻.png",TVB娱乐新闻
 http://rihou.cc:555/tv/[PL]无线娱乐
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="http://192.168.1.10/github/png/TVBPlus.png",TVBPlus
+http://43.251.226.89:8080/play/1456.m3u8
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="http://192.168.1.10/github/png/TVBPlus.png",TVBPlus
+http://43.251.226.89:8080/play/1455.m3u8
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="http://192.168.1.10/github/png/TVBPlus.png",TVBPlus
+http://43.251.226.89:8080/play/1431.m3u8
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="http://192.168.1.10/github/png/HOY77.png",HOY77
+http://43.251.226.89:8080/play/1435.m3u8
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="http://192.168.1.10/github/png/HOY77.png",HOY77
+http://43.251.226.89:8080/play/1434.m3u8
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="http://192.168.1.10/github/png/Viutv.png",Viutv
 https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
 http://rihou.cc:555/tv/[PL]无线星贰
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
+http://43.251.226.89:8080/play/876.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163935
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
+http://43.251.226.89:8080/play/1409.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
+http://43.251.226.89:8080/play/916.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
+http://43.251.226.89:8080/play/1458.m3u8
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="http://192.168.1.10/github/png/美亚电影.png",美亚电影
+http://43.251.226.89:8080/play/880.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://192.168.1.10/github/png/明珠台.png",明珠台
+http://43.251.226.89:8080/play/915.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://192.168.1.10/github/png/明珠台.png",明珠台
+http://43.251.226.89:8080/play/1407.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 rtmp://nowast.net/live/yifatv-wxxw01
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
+http://43.251.226.89:8080/play/1457.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
+http://43.251.226.89:8080/play/911.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 http://rihou.cc:555/tv/[Pd]无线新闻
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 http://cdn.iptv8k.top/dl/jspd.php?id=2
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
+http://43.251.226.89:8080/play/893.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
+http://43.251.226.89:8080/play/1401.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
-http://rihou.cc:555/tv/[Pd]凤凰中文
+http://43.251.226.89:8080/play/906.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://43.251.226.89:8080/play/878.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
 http://rihou.cc:555/tv/[PL]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://43.251.226.89:8080/play/1436.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://43.251.226.89:8080/play/888.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
+http://rihou.cc:555/tv/[Pd]凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://192.168.1.10/github/png/凤凰中文.png",凤凰中文
 https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
+http://rihou.cc:555/tv/[PL]凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
+http://43.251.226.89:8080/play/908.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
-http://rihou.cc:555/tv/[PL]凤凰香港
+http://43.251.226.89:8080/play/890.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://192.168.1.10/github/png/凤凰香港.png",凤凰香港
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="http://192.168.1.10/github/png/三立新闻.png",三立新闻
