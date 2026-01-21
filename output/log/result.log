@@ -55,13 +55,12 @@ Name: CCTV5, URL: https://tv.iill.top/migu/cctv5&token=2276b9830bd9e6d7f4858f72f
 Name: CCTV5, URL: https://tv.iill.top/migu/cctv5&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: https://tv.iill.top/migu/cctv5&token=7d321042b2f5789d57294578c80935696c5c1326ca57bc4bb58174e879b25dd6, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: https://tv.iill.top/migu/cctv5&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV5, URL: https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5, URL: https://tv.iill.top/migu/cctv5&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a97faf40c908fbfe06, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 391 ms, Speed: 10.00 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://23.237.228.134/live5/CCTV5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 349 ms, Speed: 7.14 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://23.237.228.134/live5/CCTV5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 856 ms, Speed: 4.31 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 2490 ms, Speed: 1.68 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 2509 ms, Speed: 1.64 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 434 ms, Speed: 9.01 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 752 ms, Speed: 5.49 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://23.237.228.134/live5/CCTV5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 575 ms, Speed: 3.49 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 1400 ms, Speed: 3.42 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://23.237.228.134/live5/CCTV5.m3u8, From: subscribe, IPv_Type: ipv4, Location: 北美地区, ISP: , Date: None, Delay: 1580 ms, Speed: 2.31 M/s, Resolution: 1920x1080
 Name: CCTV5+, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV5+, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -129,8 +128,7 @@ Name: CCTV16, URL: http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227346/ind
 Name: CCTV16, URL: http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV16, URL: http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227074/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: CCTV16, URL: http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV16, URL: http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 350 ms, Speed: 11.22 M/s, Resolution: 1920x1080
-Name: CCTV16, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 2485 ms, Speed: 1.62 M/s, Resolution: 1920x1080
+Name: CCTV16, URL: http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009, From: subscribe, IPv_Type: ipv4, Location: 美国-伊利诺伊州-库克, ISP: Cogent, Date: None, Delay: 1116 ms, Speed: 4.04 M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://cdn9.163189.xyz/smt1.1.php?id=jade_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -244,26 +242,27 @@ Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-9.php, From: subscribe, 
 Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-10.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-15.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-17.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: https://t.freetv.fun/live/fei-cui-16.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: rtmp://nowast.net/live/yifatv-jade01, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-苏州, ISP: 电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://rihou.cc:555/tv/[Pd]无线翡4K, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 301 ms, Speed: 53.87 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1453.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 208 ms, Speed: 43.16 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1449.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 207 ms, Speed: 42.82 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1425.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 231 ms, Speed: 41.43 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/913.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 422 ms, Speed: 35.82 M/s, Resolution: None
-Name: 翡翠台, URL: http://rihou.cc:555/tv/[Pd]无线翡翠, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 262 ms, Speed: 35.35 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1450.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 188 ms, Speed: 24.69 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡高, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 188 ms, Speed: 24.41 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1426.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 203 ms, Speed: 24.20 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/912.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 370 ms, Speed: 22.82 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1451.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 437 ms, Speed: 14.01 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1427.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 418 ms, Speed: 13.94 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡翠, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 432 ms, Speed: 13.59 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/895.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 436 ms, Speed: 12.97 M/s, Resolution: None
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/1404.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 582 ms, Speed: 11.55 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 330 ms, Speed: 10.43 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://43.251.226.89:8080/play/894.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 180 ms, Speed: 9.45 M/s, Resolution: None
-Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 61 ms, Speed: 5.03 M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 62 ms, Speed: 4.96 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/392.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 367 ms, Speed: 50.33 M/s, Resolution: None
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/913.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 143 ms, Speed: 46.75 M/s, Resolution: None
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/930.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 255 ms, Speed: 37.84 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/906.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 154 ms, Speed: 34.40 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡高, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 155 ms, Speed: 33.28 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/894.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 379 ms, Speed: 28.99 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/907.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 300 ms, Speed: 19.03 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/931.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 306 ms, Speed: 18.58 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/933.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 1686 ms, Speed: 18.24 M/s, Resolution: None
+Name: 翡翠台, URL: http://rihou.cc:555/tv/[PL]无线翡翠, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 417 ms, Speed: 14.90 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/929.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 2426 ms, Speed: 12.90 M/s, Resolution: None
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/905.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 2463 ms, Speed: 12.69 M/s, Resolution: None
+Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 25 ms, Speed: 12.27 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://43.251.226.89:8080/play/393.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 3662 ms, Speed: 10.03 M/s, Resolution: None
+Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 31 ms, Speed: 10.01 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://74.91.26.218:82/live/jade.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 397 ms, Speed: 8.64 M/s, Resolution: 1920x1080
+Name: 翡翠台, URL: http://rihou.cc:555/tv/[Pd]无线翡翠, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 3451 ms, Speed: 6.95 M/s, Resolution: None
+Name: 翡翠台, URL: http://rihou.cc:555/tv/[Pd]无线翡4K, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 5689 ms, Speed: 4.00 M/s, Resolution: None
+Name: 翡翠台, URL: http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-澳门, ISP: 澳门电讯, Date: None, Delay: 478 ms, Speed: 1.06 M/s, Resolution: 1920x1080
 Name: TVB娱乐新闻, URL: http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB娱乐新闻, URL: http://php.jdshipin.com/smt.php?id=Tvbentertainment, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB娱乐新闻, URL: http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -277,7 +276,7 @@ Name: TVB娱乐新闻, URL: https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertain
 Name: TVB娱乐新闻, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB娱乐新闻, URL: http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB娱乐新闻, URL: http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB娱乐新闻, URL: http://rihou.cc:555/tv/[PL]无线娱乐, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 298 ms, Speed: 6.65 M/s, Resolution: None
+Name: TVB娱乐新闻, URL: http://rihou.cc:555/tv/[PL]无线娱乐, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 154 ms, Speed: 21.70 M/s, Resolution: None
 Name: TVBPlus, URL: http://r.jdshipin.com/Nr5jq, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBPlus, URL: http://r.jdshipin.com/ndGgS, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBPlus, URL: http://php.jdshipin.com/TVOD/iptv.php?id=j2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -301,9 +300,9 @@ Name: TVBPlus, URL: https://cdn6.101.qzz.io/163189/tvbp, From: subscribe, IPv_Ty
 Name: TVBPlus, URL: http://php.jdshipin.com/smt.php?id=j2_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBPlus, URL: http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBPlus, URL: http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVBPlus, URL: http://43.251.226.89:8080/play/1456.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 193 ms, Speed: 29.46 M/s, Resolution: None
-Name: TVBPlus, URL: http://43.251.226.89:8080/play/1455.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 189 ms, Speed: 24.31 M/s, Resolution: 1920x1080
-Name: TVBPlus, URL: http://43.251.226.89:8080/play/1431.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 225 ms, Speed: 24.15 M/s, Resolution: None
+Name: TVBPlus, URL: http://43.251.226.89:8080/play/935.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 158 ms, Speed: 34.05 M/s, Resolution: 1920x1080
+Name: TVBPlus, URL: http://43.251.226.89:8080/play/911.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 936 ms, Speed: 17.27 M/s, Resolution: None
+Name: TVBPlus, URL: http://43.251.226.89:8080/play/936.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 990 ms, Speed: 14.71 M/s, Resolution: None
 Name: HOY77, URL: http://r.jdshipin.com/sFw4S, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: HOY77, URL: http://php.jdshipin.com/TVOD/iptv.php?id=hoytv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: HOY77, URL: http://cdn.132.us.kg/live/hoy/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -314,8 +313,8 @@ Name: HOY77, URL: https://stream1.freetv.fun/koy-tv-1.m3u8, From: subscribe, IPv
 Name: HOY77, URL: https://hls-gateway.vpstv.net/streams/645372.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: HOY77, URL: https://cdn6.101.qzz.io/163189/hoy, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: HOY77, URL: http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: HOY77, URL: http://43.251.226.89:8080/play/1435.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 176 ms, Speed: 22.22 M/s, Resolution: None
-Name: HOY77, URL: http://43.251.226.89:8080/play/1434.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 375 ms, Speed: 15.38 M/s, Resolution: None
+Name: HOY77, URL: http://43.251.226.89:8080/play/915.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 118 ms, Speed: 20.34 M/s, Resolution: None
+Name: HOY77, URL: http://43.251.226.89:8080/play/914.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 1033 ms, Speed: 6.19 M/s, Resolution: None
 Name: Viutv, URL: http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: Viutv, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf2dcf5540f665ee0b, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: Viutv, URL: http://r.jdshipin.com/vSJvl, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -338,7 +337,7 @@ Name: Viutv, URL: https://cdn.163189.xyz/163189/viu, From: subscribe, IPv_Type: 
 Name: Viutv, URL: https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: Viutv, URL: https://5.edge.101.qzz.io/smt3.2.1.php?id=viu1_twn, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: Viutv, URL: http://hls.168.us.kg/u/99/master.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: Viutv, URL: https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 62 ms, Speed: 4.96 M/s, Resolution: 1920x1080
+Name: Viutv, URL: https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 26 ms, Speed: 11.68 M/s, Resolution: 1920x1080
 Name: TVB星河, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB星河, URL: http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB星河, URL: http://tl.061833.xyz/tl/null-7, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -366,12 +365,14 @@ Name: TVB星河, URL: https://t.freetv.fun/live/tvbxing-he.m3u8, From: subscribe
 Name: TVB星河, URL: https://5.edge.101.qzz.io/smt3.2.1.php?id=Xinhe, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB星河, URL: https://o11.163189.xyz/stream/live/tvbxh/, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB星河, URL: http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB星河, URL: http://rihou.cc:555/tv/[PL]无线星贰, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 181 ms, Speed: 29.90 M/s, Resolution: None
-Name: TVB星河, URL: http://43.251.226.89:8080/play/876.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 222 ms, Speed: 27.69 M/s, Resolution: None
-Name: TVB星河, URL: http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163935, From: subscribe, IPv_Type: ipv4, Location: 丹麦-首都大区-哥本哈根, ISP: YUWAN_NETWORK, Date: None, Delay: 663 ms, Speed: 12.32 M/s, Resolution: 1920x1080
-Name: TVB星河, URL: http://43.251.226.89:8080/play/1409.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 153 ms, Speed: 10.50 M/s, Resolution: None
-Name: TVB星河, URL: http://43.251.226.89:8080/play/916.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 161 ms, Speed: 10.23 M/s, Resolution: None
-Name: TVB星河, URL: http://43.251.226.89:8080/play/1458.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 160 ms, Speed: 10.20 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/375.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 97 ms, Speed: 64.65 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/938.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 89 ms, Speed: 35.27 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/889.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 85 ms, Speed: 34.71 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/396.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 186 ms, Speed: 21.27 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/916.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 603 ms, Speed: 20.93 M/s, Resolution: None
+Name: TVB星河, URL: http://43.251.226.89:8080/play/374.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 256 ms, Speed: 12.63 M/s, Resolution: None
+Name: TVB星河, URL: http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163935, From: subscribe, IPv_Type: ipv4, Location: 丹麦-首都大区-哥本哈根, ISP: YUWAN_NETWORK, Date: None, Delay: 638 ms, Speed: 12.54 M/s, Resolution: 1920x1080
+Name: TVB星河, URL: http://rihou.cc:555/tv/[PL]无线星贰, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 940 ms, Speed: 8.62 M/s, Resolution: None
 Name: 美亚电影, URL: http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 美亚电影, URL: https://stream1.freetv.fun/mei-ya-dian-ying-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 美亚电影, URL: https://tvb.go-iptv.ggff.net/stream/tvb/hk/master.m3u8?u=admins&p=fa956b808c8f8e3b59be14d7d584761e041a8359d58ba7e1829f12605d76203a, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -400,7 +401,6 @@ Name: 美亚电影, URL: https://5.edge.101.qzz.io/smt3.2.1.php?id=meiyamovie_tw
 Name: 美亚电影, URL: http://tl.061833.xyz/tl/null-5, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 美亚电影, URL: https://t.freetv.fun/live/mei-ya-dian-ying-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 美亚电影, URL: https://t.freetv.fun/live/mei-ya-dian-ying-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 美亚电影, URL: http://43.251.226.89:8080/play/880.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 210 ms, Speed: 22.56 M/s, Resolution: None
 Name: 明珠台, URL: http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: http://php.jdshipin.com:8880/smt.php?id=pearl_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: https://stream1.freetv.fun/ming-zhu-10.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -451,8 +451,8 @@ Name: 明珠台, URL: http://tl.061833.xyz/tl/null-12, From: subscribe, IPv_Type
 Name: 明珠台, URL: https://t.freetv.fun/live/ming-zhu-4.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: https://t.freetv.fun/live/ming-zhu-6.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 明珠台, URL: https://t.freetv.fun/live/ming-zhu-7.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 明珠台, URL: http://43.251.226.89:8080/play/915.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 229 ms, Speed: 22.17 M/s, Resolution: None
-Name: 明珠台, URL: http://43.251.226.89:8080/play/1407.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 177 ms, Speed: 21.96 M/s, Resolution: 1920x1080
+Name: 明珠台, URL: http://43.251.226.89:8080/play/887.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 139 ms, Speed: 25.34 M/s, Resolution: 1920x1080
+Name: 明珠台, URL: http://43.251.226.89:8080/play/395.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 462 ms, Speed: 17.22 M/s, Resolution: None
 Name: 无线新闻, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: http://cdn9.163189.xyz/smt1.1.php?id=inews_twn, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -492,13 +492,12 @@ Name: 无线新闻, URL: https://amg01868-amg01868c5-tvbanywhere-us-4493.playout
 Name: 无线新闻, URL: https://5.edge.101.qzz.io/smt3.2.1.php?id=inews_twn, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: http://tl.061833.xyz/tl/null-11, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻, URL: rtmp://nowast.net/live/yifatv-wxxw01, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-苏州, ISP: 电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 无线新闻, URL: http://43.251.226.89:8080/play/1457.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 167 ms, Speed: 16.88 M/s, Resolution: None
-Name: 无线新闻, URL: http://43.251.226.89:8080/play/911.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 305 ms, Speed: 15.98 M/s, Resolution: None
-Name: 无线新闻, URL: http://rihou.cc:555/tv/[Pd]无线新闻, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 214 ms, Speed: 15.79 M/s, Resolution: None
-Name: 无线新闻, URL: https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 24 ms, Speed: 10.39 M/s, Resolution: 1920x1080
-Name: 无线新闻, URL: http://cdn.iptv8k.top/dl/jspd.php?id=2, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 27 ms, Speed: 9.59 M/s, Resolution: 1920x1080
-Name: 无线新闻, URL: http://43.251.226.89:8080/play/893.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 159 ms, Speed: 8.56 M/s, Resolution: None
-Name: 无线新闻, URL: http://43.251.226.89:8080/play/1401.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 5297 ms, Speed: 1.20 M/s, Resolution: None
+Name: 无线新闻, URL: http://43.251.226.89:8080/play/893.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 173 ms, Speed: 50.22 M/s, Resolution: None
+Name: 无线新闻, URL: http://cdn.iptv8k.top/dl/jspd.php?id=2, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 11 ms, Speed: 23.67 M/s, Resolution: 1920x1080
+Name: 无线新闻, URL: https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 12 ms, Speed: 21.64 M/s, Resolution: 1920x1080
+Name: 无线新闻, URL: http://43.251.226.89:8080/play/391.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 5550 ms, Speed: 2.89 M/s, Resolution: None
+Name: 无线新闻, URL: http://43.251.226.89:8080/play/937.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 5938 ms, Speed: 2.74 M/s, Resolution: None
+Name: 无线新闻, URL: http://rihou.cc:555/tv/[Pd]无线新闻, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 5467 ms, Speed: 2.56 M/s, Resolution: None
 Name: 凤凰中文, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, From: subscribe, IPv_Type: ipv6, Location: 英国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: https://cdn.163189.xyz/live/fhzw/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -564,13 +563,12 @@ Name: 凤凰中文, URL: https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8, Fr
 Name: 凤凰中文, URL: http://k.061899.xyz/k.php?id=fhzw, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: https://5.edge.101.qzz.io/smt3.2.1.php?id=phoenixtv_hd, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: https://t.freetv.fun/live/feng-huang-zhong-wen.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰中文, URL: http://43.251.226.89:8080/play/906.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 181 ms, Speed: 30.26 M/s, Resolution: None
-Name: 凤凰中文, URL: http://43.251.226.89:8080/play/878.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 192 ms, Speed: 29.28 M/s, Resolution: None
-Name: 凤凰中文, URL: http://rihou.cc:555/tv/[PL]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 193 ms, Speed: 29.09 M/s, Resolution: None
-Name: 凤凰中文, URL: http://43.251.226.89:8080/play/1436.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 193 ms, Speed: 28.93 M/s, Resolution: None
-Name: 凤凰中文, URL: http://43.251.226.89:8080/play/888.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 182 ms, Speed: 26.35 M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: http://rihou.cc:555/tv/[Pd]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 223 ms, Speed: 24.51 M/s, Resolution: None
-Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 63 ms, Speed: 4.87 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: http://43.251.226.89:8080/play/386.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 80 ms, Speed: 70.46 M/s, Resolution: None
+Name: 凤凰中文, URL: http://rihou.cc:555/tv/[PL]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 88 ms, Speed: 65.85 M/s, Resolution: None
+Name: 凤凰中文, URL: http://rihou.cc:555/tv/[Pd]凤凰中文, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 90 ms, Speed: 65.37 M/s, Resolution: None
+Name: 凤凰中文, URL: http://43.251.226.89:8080/play/358.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 106 ms, Speed: 60.21 M/s, Resolution: None
+Name: 凤凰中文, URL: https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 25 ms, Speed: 12.58 M/s, Resolution: 1920x1080
+Name: 凤凰中文, URL: http://43.251.226.89:8080/play/888.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 1306 ms, Speed: 8.43 M/s, Resolution: 1920x1080
 Name: 凤凰香港, URL: https://cdn6.163189.xyz/live/fhhk/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://cdn3.132.us.kg/live/fhhk/stream.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://php.17186.eu.org/phtv/fhhk.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -615,11 +613,12 @@ Name: 凤凰香港, URL: http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3
 Name: 凤凰香港, URL: https://k44991.kylintv.tv/live/pxhkus_iphone.m3u8, From: subscribe, IPv_Type: ipv6, Location: 英国, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://k.061899.xyz/k.php?id=fhhk, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰香港, URL: http://rihou.cc:555/tv/[PL]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 180 ms, Speed: 24.38 M/s, Resolution: None
-Name: 凤凰香港, URL: http://43.251.226.89:8080/play/908.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 182 ms, Speed: 24.12 M/s, Resolution: None
-Name: 凤凰香港, URL: http://rihou.cc:555/tv/[Pd]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 214 ms, Speed: 22.53 M/s, Resolution: None
-Name: 凤凰香港, URL: http://43.251.226.89:8080/play/890.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 199 ms, Speed: 21.89 M/s, Resolution: 1920x1080
-Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 60 ms, Speed: 5.09 M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: http://43.251.226.89:8080/play/908.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 179 ms, Speed: 30.46 M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 22 ms, Speed: 14.06 M/s, Resolution: 1920x1080
+Name: 凤凰香港, URL: http://43.251.226.89:8080/play/360.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 5538 ms, Speed: 3.33 M/s, Resolution: None
+Name: 凤凰香港, URL: http://43.251.226.89:8080/play/388.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-香港, ISP: CN2数据中心, Date: None, Delay: 5541 ms, Speed: 3.32 M/s, Resolution: None
+Name: 凤凰香港, URL: http://rihou.cc:555/tv/[PL]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 5161 ms, Speed: 2.73 M/s, Resolution: None
+Name: 凤凰香港, URL: http://rihou.cc:555/tv/[Pd]凤凰香港, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 5509 ms, Speed: 2.37 M/s, Resolution: None
 Name: 三立新闻, URL: https://stream1.freetv.fun/san-li-xin-wen-4.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻, URL: https://tv.iill.top/4gtv/229, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻, URL: https://hls-gateway.vpstv.net/streams/492922.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -630,7 +629,7 @@ Name: 三立新闻, URL: https://stream1.freetv.fun/san-li-xin-wen-5.ctv, From: 
 Name: 三立新闻, URL: https://stream1.freetv.fun/san-li-xin-wen-6.ctv, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻, URL: https://stream1.freetv.fun/san-li-xin-wen-6.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻, URL: https://stream1.freetv.fun/san-li-xin-wen-7.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立新闻, URL: https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 59 ms, Speed: 5.24 M/s, Resolution: 1920x1080
+Name: 三立新闻, URL: https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 22 ms, Speed: 13.82 M/s, Resolution: 1920x1080
 Name: 中天新闻, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻, URL: https://4gtv.dxjc.pp.ua/of-4gtv-4gtv009/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻, URL: https://4gtv.dxjc.pp.ua/li-4gtv-4gtv009/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -696,7 +695,9 @@ Name: 中天新闻, URL: https://tv.iill.top/litv/4gtv-4gtv009&token=d25986dec23
 Name: 中天新闻, URL: https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻, URL: https://t.freetv.fun/live/zhong-tian-xin-wen-4.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻, URL: https://tv.iill.top/litv/4gtv-4gtv009&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a97faf40c908fbfe06, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中天新闻, URL: http://cdn.iptv8k.top/dl/jspd.php?id=1, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 24 ms, Speed: 10.55 M/s, Resolution: 1920x1080
+Name: 中天新闻, URL: https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中天新闻, URL: https://tv.iill.top/litv/4gtv-4gtv009&token=60907fd1e888dae85477cf34cc7d4797c8b8cae12fed0ec777a7dc5c3031d1cd, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中天新闻, URL: http://cdn.iptv8k.top/dl/jspd.php?id=1, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: CloudFlare节点, Date: None, Delay: 10 ms, Speed: 25.29 M/s, Resolution: 1920x1080
 Name: 台视新闻, URL: https://stream1.freetv.fun/tai-shi-xin-wen-11.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 台视新闻, URL: https://stream1.freetv.fun/tai-shi-xin-wen-12.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 台视新闻, URL: https://stream1.freetv.fun/tai-shi-xin-wen-17.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -768,6 +769,7 @@ Name: 台视新闻, URL: https://tv.iill.top/litv/4gtv-4gtv051&token=d25986dec23
 Name: 台视新闻, URL: https://live.lalifeier.eu.org/youtube/xL0ch83RAK8.m3u8?t=1768778809&key=92e2ec9531c849f2a4dd8e716a5c9f74, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 台视新闻, URL: https://t.freetv.fun/live/tai-shi-xin-wen-1-1.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 台视新闻, URL: https://tv.iill.top/litv/4gtv-4gtv051&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a97faf40c908fbfe06, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视新闻, URL: https://tv.iill.top/litv/4gtv-4gtv051&token=60907fd1e888dae85477cf34cc7d4797c8b8cae12fed0ec777a7dc5c3031d1cd, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS新闻, URL: https://4gtv.dxjc.pp.ua/li-4gtv-4gtv072/index.m3u8, From: subscribe, IPv_Type: ipv6, Location: 新加坡, ISP: Aceville Pte.Ltd., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS新闻, URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS新闻, URL: https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Oracle Corporation, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -817,6 +819,7 @@ Name: TVBS新闻, URL: https://tv.iill.top/litv/4gtv-4gtv072&token=7d321042b2f57
 Name: TVBS新闻, URL: https://tv.iill.top/litv/4gtv-4gtv072&token=d25986dec232345e7d991eb80f90d884b6037b42c12c8b793d52ff710cbe29b7, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS新闻, URL: https://tv.iill.top/litv/4gtv-4gtv072&token=5e1e0665ab28c6b396cfe65196076812fddb1605c28ea3a97faf40c908fbfe06, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS新闻, URL: https://t.freetv.fun/live/tvbsxin-wen.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: TVBS新闻, URL: https://tv.iill.top/litv/4gtv-4gtv072&token=60907fd1e888dae85477cf34cc7d4797c8b8cae12fed0ec777a7dc5c3031d1cd, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 亚洲新闻, URL: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 亚洲新闻, URL: https://stream1.freetv.fun/ya-zhou-xin-wen-1.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 亚洲新闻, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
