@@ -1,14 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://23.237.228.134/live5/CCTV5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
-http://23.237.228.134/live5/CCTV5.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
@@ -18,19 +14,19 @@ http://rihou.cc:555/tv/[PL]无线翡标
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 http://rihou.cc:555/tv/[PL]无线翡高
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-http://74.91.26.218:82/live/jade.m3u8
+https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
-https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="http://192.168.1.10/github/png/TVB娱乐新闻.png",TVB娱乐新闻
 http://rihou.cc:555/tv/[PL]无线娱乐
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="http://192.168.1.10/github/png/Viutv.png",Viutv
 https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
-http://rihou.cc:555/tv/[PL]无线星贰
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1163935
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://192.168.1.10/github/png/TVB星河.png",TVB星河
+http://rihou.cc:555/tv/[PL]无线星贰
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
 rtmp://nowast.net/live/yifatv-wxxw01
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://192.168.1.10/github/png/无线新闻.png",无线新闻
