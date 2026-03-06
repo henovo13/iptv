@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260305032605 +0800">
+<tv date="20260306032403 +0800">
 	<channel id="CCTV16">
 		<display-name lang="zh">CCTV16</display-name>
 	</channel>
@@ -372,75 +372,6 @@
 	<channel id="亚洲新闻">
 		<display-name lang="zh">亚洲新闻</display-name>
 	</channel>
-	<programme channel="亚洲新闻" start="20260305000500 +0800" stop="20260305010200 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305010200 +0800" stop="20260305020200 +0800">
-		<title lang="zh">Pause With Purpose</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305020200 +0800" stop="20260305030200 +0800">
-		<title lang="zh">Singapore Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305030200 +0800" stop="20260305040200 +0800">
-		<title lang="zh">Pause With Purpose</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305040200 +0800" stop="20260305050200 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305050200 +0800" stop="20260305053200 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305053200 +0800" stop="20260305060200 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305060200 +0800" stop="20260305070200 +0800">
-		<title lang="zh">Singapore Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305070200 +0800" stop="20260305100200 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305100200 +0800" stop="20260305103200 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305103200 +0800" stop="20260305110200 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305110200 +0800" stop="20260305130200 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305130200 +0800" stop="20260305140200 +0800">
-		<title lang="zh">Pause With Purpose</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305140200 +0800" stop="20260305160200 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305160200 +0800" stop="20260305170400 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305170400 +0800" stop="20260305180200 +0800">
-		<title lang="zh">Pause With Purpose</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305180200 +0800" stop="20260305190200 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305190200 +0800" stop="20260305200200 +0800">
-		<title lang="zh">Pause With Purpose</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305200200 +0800" stop="20260305210200 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305210200 +0800" stop="20260305220200 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305220200 +0800" stop="20260305230200 +0800">
-		<title lang="zh">Singapore Tonight</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305230200 +0800" stop="20260305233200 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亚洲新闻" start="20260305233200 +0800" stop="20260306000500 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
 	<programme channel="亚洲新闻" start="20260306000500 +0800" stop="20260306010200 +0800">
 		<title lang="zh">East Asia Tonight</title>
 	</programme>
@@ -930,609 +861,402 @@
 	<programme channel="亚洲新闻" start="20260311220200 +0800" stop="20260311230200 +0800">
 		<title lang="zh">Singapore Tonight</title>
 	</programme>
-	<programme channel="亚洲新闻" start="20260311230200 +0800" stop="20260312000000 +0800">
+	<programme channel="亚洲新闻" start="20260311230200 +0800" stop="20260312000500 +0800">
 		<title lang="zh">The Long Game</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312000500 +0800" stop="20260312010200 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312010200 +0800" stop="20260312020200 +0800">
+		<title lang="zh">The Long Game</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312020200 +0800" stop="20260312030200 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312030200 +0800" stop="20260312040200 +0800">
+		<title lang="zh">The Long Game</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312040200 +0800" stop="20260312050200 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312050200 +0800" stop="20260312053200 +0800">
+		<title lang="zh">Money Mind</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312053200 +0800" stop="20260312060200 +0800">
+		<title lang="zh">CNA Correspondent</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312060200 +0800" stop="20260312070200 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312070200 +0800" stop="20260312100200 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312100200 +0800" stop="20260312103200 +0800">
+		<title lang="zh">Money Mind</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312103200 +0800" stop="20260312110200 +0800">
+		<title lang="zh">CNA Correspondent</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312110200 +0800" stop="20260312130200 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312130200 +0800" stop="20260312140200 +0800">
+		<title lang="zh">The Long Game</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312140200 +0800" stop="20260312160200 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312160200 +0800" stop="20260312170400 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312170400 +0800" stop="20260312180200 +0800">
+		<title lang="zh">The Long Game</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312180200 +0800" stop="20260312190200 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312190200 +0800" stop="20260312193200 +0800">
+		<title lang="zh">Building Change</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312193200 +0800" stop="20260312200200 +0800">
+		<title lang="zh">CNA Correspondent</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312200200 +0800" stop="20260312210200 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312210200 +0800" stop="20260312220200 +0800">
+		<title lang="zh">Insight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312220200 +0800" stop="20260312230200 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312230200 +0800" stop="20260312233200 +0800">
+		<title lang="zh">Building Change</title>
+	</programme>
+	<programme channel="亚洲新闻" start="20260312233200 +0800" stop="20260313000000 +0800">
+		<title lang="zh">CNA Correspondent</title>
 	</programme>
 	<channel id="美亚电影">
 		<display-name lang="zh">美亚电影</display-name>
 	</channel>
-	<programme channel="美亚电影" start="20260305012000 +0800" stop="20260305024000 +0800">
-		<title lang="zh">勾魂恶梦(辅15)</title>
+	<programme channel="美亚电影" start="20260306005000 +0800" stop="20260306022000 +0800">
+		<title lang="zh">双截棍[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305024000 +0800" stop="20260305031000 +0800">
-		<title lang="zh">记得当时年纪小(普)</title>
+	<programme channel="美亚电影" start="20260306022000 +0800" stop="20260306040000 +0800">
+		<title lang="zh">东方不败之风云再起[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305031000 +0800" stop="20260305041500 +0800">
-		<title lang="zh">少林寺十八铜人(普)</title>
+	<programme channel="美亚电影" start="20260306040000 +0800" stop="20260306053500 +0800">
+		<title lang="zh">神枪手与咖喱鸡[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305041500 +0800" stop="20260305045000 +0800">
-		<title lang="zh">蛮荒的童话(护)</title>
+	<programme channel="美亚电影" start="20260306053500 +0800" stop="20260306060000 +0800">
+		<title lang="zh">杀手再培训[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305045000 +0800" stop="20260305054500 +0800">
-		<title lang="zh">美男子(普)</title>
+	<programme channel="美亚电影" start="20260306060000 +0800" stop="20260306071500 +0800">
+		<title lang="zh">杀手再培训[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305054500 +0800" stop="20260305063000 +0800">
-		<title lang="zh">百份百感觉II(普)</title>
+	<programme channel="美亚电影" start="20260306071500 +0800" stop="20260306085000 +0800">
+		<title lang="zh">忠义群英[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305063000 +0800" stop="20260305073000 +0800">
-		<title lang="zh">夏日福星(护)</title>
+	<programme channel="美亚电影" start="20260306085000 +0800" stop="20260306102000 +0800">
+		<title lang="zh">妙探孖宝[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305073000 +0800" stop="20260305082000 +0800">
-		<title lang="zh">巡城马(护)</title>
+	<programme channel="美亚电影" start="20260306102000 +0800" stop="20260306123000 +0800">
+		<title lang="zh">一代宗师[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305082000 +0800" stop="20260305090500 +0800">
-		<title lang="zh">4x100水著份子(普)</title>
+	<programme channel="美亚电影" start="20260306123000 +0800" stop="20260306140000 +0800">
+		<title lang="zh">死神傻了[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305090500 +0800" stop="20260305100000 +0800">
-		<title lang="zh">起底组(护)</title>
+	<programme channel="美亚电影" start="20260306140000 +0800" stop="20260306153500 +0800">
+		<title lang="zh">千王之王2000[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305100000 +0800" stop="20260305103500 +0800">
-		<title lang="zh">人吓人(护)</title>
+	<programme channel="美亚电影" start="20260306153500 +0800" stop="20260306174500 +0800">
+		<title lang="zh">海角七号[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305103500 +0800" stop="20260305114500 +0800">
-		<title lang="zh">热带鱼(护)</title>
+	<programme channel="美亚电影" start="20260306174500 +0800" stop="20260306191500 +0800">
+		<title lang="zh">龙虎新风云[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305114500 +0800" stop="20260305123000 +0800">
-		<title lang="zh">化骨龙与千年虫(普)</title>
+	<programme channel="美亚电影" start="20260306191500 +0800" stop="20260306210000 +0800">
+		<title lang="zh">中华赌侠[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305123000 +0800" stop="20260305131500 +0800">
-		<title lang="zh">神雕侠侣(39)(护)</title>
+	<programme channel="美亚电影" start="20260306210000 +0800" stop="20260306230000 +0800">
+		<title lang="zh">决战江陵[韩]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305131500 +0800" stop="20260305132500 +0800">
-		<title lang="zh">八宝奇兵(普)</title>
+	<programme channel="美亚电影" start="20260306230000 +0800" stop="20260307004500 +0800">
+		<title lang="zh">海雾[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305132500 +0800" stop="20260305141000 +0800">
-		<title lang="zh">神雕侠侣(38)(护)</title>
+	<programme channel="美亚电影" start="20260307004500 +0800" stop="20260307022500 +0800">
+		<title lang="zh">伴我闯天涯[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305141000 +0800" stop="20260305145500 +0800">
-		<title lang="zh">大丈夫(普)</title>
+	<programme channel="美亚电影" start="20260307022500 +0800" stop="20260307035000 +0800">
+		<title lang="zh">洪兴大飞哥[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305145500 +0800" stop="20260305155500 +0800">
-		<title lang="zh">朝花夕拾(普)</title>
+	<programme channel="美亚电影" start="20260307035000 +0800" stop="20260307053000 +0800">
+		<title lang="zh">意外的恋爱时光[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305155500 +0800" stop="20260305163000 +0800">
-		<title lang="zh">龙的传人(普)</title>
+	<programme channel="美亚电影" start="20260307053000 +0800" stop="20260307060000 +0800">
+		<title lang="zh">功夫灌篮[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305163000 +0800" stop="20260305173500 +0800">
-		<title lang="zh">你情我愿(普)</title>
+	<programme channel="美亚电影" start="20260307060000 +0800" stop="20260307071000 +0800">
+		<title lang="zh">功夫灌篮[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305173500 +0800" stop="20260305181000 +0800">
-		<title lang="zh">双城故事(普)</title>
+	<programme channel="美亚电影" start="20260307071000 +0800" stop="20260307084500 +0800">
+		<title lang="zh">爱作战[粤]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305181000 +0800" stop="20260305191500 +0800">
-		<title lang="zh">红柿子(普)</title>
+	<programme channel="美亚电影" start="20260307084500 +0800" stop="20260307102000 +0800">
+		<title lang="zh">新半斤八两[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305191500 +0800" stop="20260305210000 +0800">
-		<title lang="zh">瘦虎肥龙(普)</title>
+	<programme channel="美亚电影" start="20260307102000 +0800" stop="20260307123500 +0800">
+		<title lang="zh">唐人街探案3[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305210000 +0800" stop="20260305214500 +0800">
-		<title lang="zh">神雕侠侣(4)(护)</title>
+	<programme channel="美亚电影" start="20260307123500 +0800" stop="20260307140500 +0800">
+		<title lang="zh">PTU[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305214500 +0800" stop="20260305232500 +0800">
-		<title lang="zh">皇家师姐IV之直击证人(护)</title>
+	<programme channel="美亚电影" start="20260307140500 +0800" stop="20260307154500 +0800">
+		<title lang="zh">加菲猫:勇闯世界[粤]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305232500 +0800" stop="20260305233000 +0800">
-		<title lang="zh">PTU(辅12)</title>
+	<programme channel="美亚电影" start="20260307154500 +0800" stop="20260307174500 +0800">
+		<title lang="zh">即使,这份爱今夜从世上消失[日]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260305233000 +0800" stop="20260306005500 +0800">
-		<title lang="zh">推手(普)</title>
+	<programme channel="美亚电影" start="20260307174500 +0800" stop="20260307192000 +0800">
+		<title lang="zh">至尊无赖[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306005500 +0800" stop="20260306012000 +0800">
-		<title lang="zh">赌圣3之无名小子(护)</title>
+	<programme channel="美亚电影" start="20260307192000 +0800" stop="20260307210000 +0800">
+		<title lang="zh">欧洲攻略[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306012000 +0800" stop="20260306023500 +0800">
-		<title lang="zh">勾魂恶梦(辅15)</title>
+	<programme channel="美亚电影" start="20260307210000 +0800" stop="20260307224500 +0800">
+		<title lang="zh">久别重逢[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306023500 +0800" stop="20260306024000 +0800">
-		<title lang="zh">又见操场(普)</title>
+	<programme channel="美亚电影" start="20260307224500 +0800" stop="20260308004500 +0800">
+		<title lang="zh">桃姐[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306024000 +0800" stop="20260306040500 +0800">
-		<title lang="zh">记得当时年纪小(普)</title>
+	<programme channel="美亚电影" start="20260308004500 +0800" stop="20260308023500 +0800">
+		<title lang="zh">双瞳[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306040500 +0800" stop="20260306041500 +0800">
-		<title lang="zh">爱上百分百英雄(普)</title>
+	<programme channel="美亚电影" start="20260308023500 +0800" stop="20260308040000 +0800">
+		<title lang="zh">林中小屋[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306041500 +0800" stop="20260306054500 +0800">
-		<title lang="zh">蛮荒的童话(护)</title>
+	<programme channel="美亚电影" start="20260308040000 +0800" stop="20260308054000 +0800">
+		<title lang="zh">甜丝丝[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306054500 +0800" stop="20260306055000 +0800">
-		<title lang="zh">百份百感觉II(普)</title>
+	<programme channel="美亚电影" start="20260308054000 +0800" stop="20260308060000 +0800">
+		<title lang="zh">第一茧[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306055000 +0800" stop="20260306073000 +0800">
-		<title lang="zh">圣诞快乐(普)</title>
+	<programme channel="美亚电影" start="20260308060000 +0800" stop="20260308071500 +0800">
+		<title lang="zh">第一茧[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306073000 +0800" stop="20260306090500 +0800">
-		<title lang="zh">煎酿叁宝(普)</title>
+	<programme channel="美亚电影" start="20260308071500 +0800" stop="20260308084000 +0800">
+		<title lang="zh">地域无门[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306090500 +0800" stop="20260306091500 +0800">
-		<title lang="zh">起底组(护)</title>
+	<programme channel="美亚电影" start="20260308084000 +0800" stop="20260308101000 +0800">
+		<title lang="zh">青苔[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306091500 +0800" stop="20260306103500 +0800">
-		<title lang="zh">拳精(普)</title>
+	<programme channel="美亚电影" start="20260308101000 +0800" stop="20260308123000 +0800">
+		<title lang="zh">艋舺[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306103500 +0800" stop="20260306110000 +0800">
-		<title lang="zh">热带鱼(护)</title>
+	<programme channel="美亚电影" start="20260308123000 +0800" stop="20260308141000 +0800">
+		<title lang="zh">窃听风云[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306110000 +0800" stop="20260306123000 +0800">
-		<title lang="zh">咖喱辣椒(护)</title>
+	<programme channel="美亚电影" start="20260308141000 +0800" stop="20260308155000 +0800">
+		<title lang="zh">大丈夫[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306123000 +0800" stop="20260306124500 +0800">
-		<title lang="zh">神雕侠侣(39)(护)</title>
+	<programme channel="美亚电影" start="20260308155000 +0800" stop="20260308174500 +0800">
+		<title lang="zh">激战[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306124500 +0800" stop="20260306131500 +0800">
-		<title lang="zh">神雕侠侣(4)(护)</title>
+	<programme channel="美亚电影" start="20260308174500 +0800" stop="20260308192000 +0800">
+		<title lang="zh">戆星先生[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306131500 +0800" stop="20260306133000 +0800">
-		<title lang="zh">八宝奇兵(普)</title>
+	<programme channel="美亚电影" start="20260308192000 +0800" stop="20260308210000 +0800">
+		<title lang="zh">一个人的武林[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306133000 +0800" stop="20260306145500 +0800">
-		<title lang="zh">卫斯理之霸王卸甲(护)</title>
+	<programme channel="美亚电影" start="20260308210000 +0800" stop="20260308230000 +0800">
+		<title lang="zh">窃听风云2[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306145500 +0800" stop="20260306151500 +0800">
-		<title lang="zh">朝花夕拾(普)</title>
+	<programme channel="美亚电影" start="20260308230000 +0800" stop="20260309003500 +0800">
+		<title lang="zh">烈火青春[粤]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306151500 +0800" stop="20260306163000 +0800">
-		<title lang="zh">忠义群英(普)</title>
+	<programme channel="美亚电影" start="20260309003500 +0800" stop="20260309020500 +0800">
+		<title lang="zh">英雄人物[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306163000 +0800" stop="20260306165500 +0800">
-		<title lang="zh">你情我愿(普)</title>
+	<programme channel="美亚电影" start="20260309020500 +0800" stop="20260309034500 +0800">
+		<title lang="zh">爱您爱到杀死您[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306165500 +0800" stop="20260306181000 +0800">
-		<title lang="zh">鬼马天师(普)</title>
+	<programme channel="美亚电影" start="20260309034500 +0800" stop="20260309052000 +0800">
+		<title lang="zh">就是闹著玩的[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306181000 +0800" stop="20260306183500 +0800">
-		<title lang="zh">红柿子(普)</title>
+	<programme channel="美亚电影" start="20260309052000 +0800" stop="20260309060000 +0800">
+		<title lang="zh">夺舍[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306183500 +0800" stop="20260306210000 +0800">
-		<title lang="zh">风再起时(护)</title>
+	<programme channel="美亚电影" start="20260309060000 +0800" stop="20260309070000 +0800">
+		<title lang="zh">夺舍[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306210000 +0800" stop="20260306214500 +0800">
-		<title lang="zh">金钱帝国：追虎擒龙(护)</title>
+	<programme channel="美亚电影" start="20260309070000 +0800" stop="20260309083500 +0800">
+		<title lang="zh">爱封了[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306214500 +0800" stop="20260306225000 +0800">
-		<title lang="zh">皇家师姐IV之直击证人(护)</title>
+	<programme channel="美亚电影" start="20260309083500 +0800" stop="20260309102000 +0800">
+		<title lang="zh">星月童话[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306225000 +0800" stop="20260306232500 +0800">
-		<title lang="zh">赌神(护)</title>
+	<programme channel="美亚电影" start="20260309102000 +0800" stop="20260309120000 +0800">
+		<title lang="zh">合家欢[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260306232500 +0800" stop="20260307005500 +0800">
-		<title lang="zh">PTU(辅12)</title>
+	<programme channel="美亚电影" start="20260309120000 +0800" stop="20260309140500 +0800">
+		<title lang="zh">热烈[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307005500 +0800" stop="20260307010000 +0800">
-		<title lang="zh">赌圣3之无名小子(护)</title>
+	<programme channel="美亚电影" start="20260309140500 +0800" stop="20260309161000 +0800">
+		<title lang="zh">辣手神探[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307010000 +0800" stop="20260307023500 +0800">
-		<title lang="zh">爱在娱乐圈的日子(护)</title>
+	<programme channel="美亚电影" start="20260309161000 +0800" stop="20260309174000 +0800">
+		<title lang="zh">绑架大明星[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307023500 +0800" stop="20260307024000 +0800">
-		<title lang="zh">又见操场(普)</title>
+	<programme channel="美亚电影" start="20260309174000 +0800" stop="20260309192500 +0800">
+		<title lang="zh">龙在边缘[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307024000 +0800" stop="20260307040500 +0800">
-		<title lang="zh">瘦身男女(普)</title>
+	<programme channel="美亚电影" start="20260309192500 +0800" stop="20260309210000 +0800">
+		<title lang="zh">后备甜心[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307040500 +0800" stop="20260307042000 +0800">
-		<title lang="zh">爱上百分百英雄(普)</title>
+	<programme channel="美亚电影" start="20260309210000 +0800" stop="20260309230000 +0800">
+		<title lang="zh">追击8月15[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307042000 +0800" stop="20260307055000 +0800">
-		<title lang="zh">猫头鹰与小飞象(普)</title>
+	<programme channel="美亚电影" start="20260309230000 +0800" stop="20260310010000 +0800">
+		<title lang="zh">新宿事件[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307055000 +0800" stop="20260307060500 +0800">
-		<title lang="zh">圣诞快乐(普)</title>
+	<programme channel="美亚电影" start="20260310010000 +0800" stop="20260310023000 +0800">
+		<title lang="zh">甜言蜜语[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307060500 +0800" stop="20260307073000 +0800">
-		<title lang="zh">虎豹龙蛇鹰(普)</title>
+	<programme channel="美亚电影" start="20260310023000 +0800" stop="20260310035500 +0800">
+		<title lang="zh">热血街头[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307073000 +0800" stop="20260307074000 +0800">
-		<title lang="zh">煎酿叁宝(普)</title>
+	<programme channel="美亚电影" start="20260310035500 +0800" stop="20260310053000 +0800">
+		<title lang="zh">前度[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307074000 +0800" stop="20260307091000 +0800">
-		<title lang="zh">少林小子(普)</title>
+	<programme channel="美亚电影" start="20260310053000 +0800" stop="20260310060000 +0800">
+		<title lang="zh">无极限之危情速递[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307091000 +0800" stop="20260307091500 +0800">
-		<title lang="zh">玉女添丁(普)</title>
+	<programme channel="美亚电影" start="20260310060000 +0800" stop="20260310070500 +0800">
+		<title lang="zh">无极限之危情速递[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307091500 +0800" stop="20260307104500 +0800">
-		<title lang="zh">拳精(普)</title>
+	<programme channel="美亚电影" start="20260310070500 +0800" stop="20260310084000 +0800">
+		<title lang="zh">孩子的天空[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307104500 +0800" stop="20260307110000 +0800">
-		<title lang="zh">秋天的童话(普)</title>
+	<programme channel="美亚电影" start="20260310084000 +0800" stop="20260310101000 +0800">
+		<title lang="zh">爱与诚[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307110000 +0800" stop="20260307123000 +0800">
-		<title lang="zh">咖喱辣椒(护)</title>
+	<programme channel="美亚电影" start="20260310101000 +0800" stop="20260310121000 +0800">
+		<title lang="zh">昨日的美食[日]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307123000 +0800" stop="20260307124500 +0800">
-		<title lang="zh">新精武门1991(普)</title>
+	<programme channel="美亚电影" start="20260310121000 +0800" stop="20260310135000 +0800">
+		<title lang="zh">每天爱您8小时&amp;nbsp;[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307124500 +0800" stop="20260307133000 +0800">
-		<title lang="zh">神雕侠侣(4)(护)</title>
+	<programme channel="美亚电影" start="20260310135000 +0800" stop="20260310154500 +0800">
+		<title lang="zh">20 30 40[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307133000 +0800" stop="20260307141000 +0800">
-		<title lang="zh">卫斯理之霸王卸甲(护)</title>
+	<programme channel="美亚电影" start="20260310154500 +0800" stop="20260310173000 +0800">
+		<title lang="zh">龙咁威2之皇母娘娘呢[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307141000 +0800" stop="20260307151500 +0800">
-		<title lang="zh">中华赌侠(护)</title>
+	<programme channel="美亚电影" start="20260310173000 +0800" stop="20260310192000 +0800">
+		<title lang="zh">五个小孩的校长[粤]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307151500 +0800" stop="20260307155500 +0800">
-		<title lang="zh">忠义群英(普)</title>
+	<programme channel="美亚电影" start="20260310192000 +0800" stop="20260310210000 +0800">
+		<title lang="zh">一见钟情[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307155500 +0800" stop="20260307165500 +0800">
-		<title lang="zh">无名小卒(普)</title>
+	<programme channel="美亚电影" start="20260310210000 +0800" stop="20260310231000 +0800">
+		<title lang="zh">让子弹飞[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307165500 +0800" stop="20260307173500 +0800">
-		<title lang="zh">鬼马天师(普)</title>
+	<programme channel="美亚电影" start="20260310231000 +0800" stop="20260311003500 +0800">
+		<title lang="zh">僵尸福星仔[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307173500 +0800" stop="20260307183500 +0800">
-		<title lang="zh">天使行动(普)</title>
+	<programme channel="美亚电影" start="20260311003500 +0800" stop="20260311022000 +0800">
+		<title lang="zh">AV(儿童不宜)[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307183500 +0800" stop="20260307191000 +0800">
-		<title lang="zh">风再起时(护)</title>
+	<programme channel="美亚电影" start="20260311022000 +0800" stop="20260311040500 +0800">
+		<title lang="zh">千机变II 花都大战[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307191000 +0800" stop="20260307204500 +0800">
-		<title lang="zh">黑猫(护)</title>
+	<programme channel="美亚电影" start="20260311040500 +0800" stop="20260311054500 +0800">
+		<title lang="zh">新妈妈再爱我一次[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307204500 +0800" stop="20260307210000 +0800">
-		<title lang="zh">千王之王2000(普)</title>
+	<programme channel="美亚电影" start="20260311054500 +0800" stop="20260311060000 +0800">
+		<title lang="zh">爱情维修站[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307210000 +0800" stop="20260307222000 +0800">
-		<title lang="zh">金钱帝国：追虎擒龙(护)</title>
+	<programme channel="美亚电影" start="20260311060000 +0800" stop="20260311073000 +0800">
+		<title lang="zh">爱情维修站[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307222000 +0800" stop="20260307225000 +0800">
-		<title lang="zh">高度戒备(护)</title>
+	<programme channel="美亚电影" start="20260311073000 +0800" stop="20260311091000 +0800">
+		<title lang="zh">那个傻瓜爱过你[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260307225000 +0800" stop="20260308000500 +0800">
-		<title lang="zh">赌神(护)</title>
+	<programme channel="美亚电影" start="20260311091000 +0800" stop="20260311103500 +0800">
+		<title lang="zh">午夜火车[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308000500 +0800" stop="20260308010000 +0800">
-		<title lang="zh">伟哥的故事(辅15)</title>
+	<programme channel="美亚电影" start="20260311103500 +0800" stop="20260311121500 +0800">
+		<title lang="zh">财叔之横扫千军[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308010000 +0800" stop="20260308013000 +0800">
-		<title lang="zh">爱在娱乐圈的日子(护)</title>
+	<programme channel="美亚电影" start="20260311121500 +0800" stop="20260311135500 +0800">
+		<title lang="zh">孤岛惊魂[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308013000 +0800" stop="20260308024000 +0800">
-		<title lang="zh">失业皇帝(普)</title>
+	<programme channel="美亚电影" start="20260311135500 +0800" stop="20260311153000 +0800">
+		<title lang="zh">超级无敌追女仔[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308024000 +0800" stop="20260308032000 +0800">
-		<title lang="zh">瘦身男女(普)</title>
+	<programme channel="美亚电影" start="20260311153000 +0800" stop="20260311174500 +0800">
+		<title lang="zh">唐人街探案[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308032000 +0800" stop="20260308042000 +0800">
-		<title lang="zh">黄飞鸿之二男儿当自强(护)</title>
+	<programme channel="美亚电影" start="20260311174500 +0800" stop="20260311192000 +0800">
+		<title lang="zh">追龙番外篇之十亿探长[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308042000 +0800" stop="20260308051500 +0800">
-		<title lang="zh">猫头鹰与小飞象(普)</title>
+	<programme channel="美亚电影" start="20260311192000 +0800" stop="20260311210000 +0800">
+		<title lang="zh">美丽密令[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308051500 +0800" stop="20260308060500 +0800">
-		<title lang="zh">小爸爸的天空(普)</title>
+	<programme channel="美亚电影" start="20260311210000 +0800" stop="20260311223000 +0800">
+		<title lang="zh">我爱扭纹柴[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308060500 +0800" stop="20260308070000 +0800">
-		<title lang="zh">虎豹龙蛇鹰(普)</title>
+	<programme channel="美亚电影" start="20260311223000 +0800" stop="20260312003500 +0800">
+		<title lang="zh">长空之王[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308070000 +0800" stop="20260308074000 +0800">
-		<title lang="zh">大车伕(护)</title>
+	<programme channel="美亚电影" start="20260312003500 +0800" stop="20260312021000 +0800">
+		<title lang="zh">爆裂刑警[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308074000 +0800" stop="20260308084000 +0800">
-		<title lang="zh">少林小子(普)</title>
+	<programme channel="美亚电影" start="20260312021000 +0800" stop="20260312034500 +0800">
+		<title lang="zh">极速僵尸[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308084000 +0800" stop="20260308091000 +0800">
-		<title lang="zh">恶女列传(护)</title>
+	<programme channel="美亚电影" start="20260312034500 +0800" stop="20260312053000 +0800">
+		<title lang="zh">祥赌必赢[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308091000 +0800" stop="20260308104000 +0800">
-		<title lang="zh">玉女添丁(普)</title>
+	<programme channel="美亚电影" start="20260312053000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">爱上百分百英雄[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308104000 +0800" stop="20260308104500 +0800">
-		<title lang="zh">天使行动III魔女末日(护)</title>
+	<programme channel="美亚电影" start="20260312060000 +0800" stop="20260312071000 +0800">
+		<title lang="zh">爱上百分百英雄[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308104500 +0800" stop="20260308121500 +0800">
-		<title lang="zh">秋天的童话(普)</title>
+	<programme channel="美亚电影" start="20260312071000 +0800" stop="20260312085500 +0800">
+		<title lang="zh">矮仔多情[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308121500 +0800" stop="20260308123000 +0800">
-		<title lang="zh">八両金(护)</title>
+	<programme channel="美亚电影" start="20260312085500 +0800" stop="20260312102500 +0800">
+		<title lang="zh">黄大仙乌鼠[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308123000 +0800" stop="20260308140500 +0800">
-		<title lang="zh">新精武门1991(普)</title>
+	<programme channel="美亚电影" start="20260312102500 +0800" stop="20260312122500 +0800">
+		<title lang="zh">猜猜我是谁[普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308140500 +0800" stop="20260308141000 +0800">
-		<title lang="zh">五爪十八翻(普)</title>
+	<programme channel="美亚电影" start="20260312122500 +0800" stop="20260312140000 +0800">
+		<title lang="zh">救僵清道夫[粤]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308141000 +0800" stop="20260308154000 +0800">
-		<title lang="zh">中华赌侠(护)</title>
+	<programme channel="美亚电影" start="20260312140000 +0800" stop="20260312161000 +0800">
+		<title lang="zh">无双[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308154000 +0800" stop="20260308155500 +0800">
-		<title lang="zh">龙拳(普)</title>
+	<programme channel="美亚电影" start="20260312161000 +0800" stop="20260312174000 +0800">
+		<title lang="zh">爱得起[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308155500 +0800" stop="20260308172000 +0800">
-		<title lang="zh">无名小卒(普)</title>
+	<programme channel="美亚电影" start="20260312174000 +0800" stop="20260312191000 +0800">
+		<title lang="zh">天使行动III魔女末日[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308172000 +0800" stop="20260308173500 +0800">
-		<title lang="zh">打工狂想曲(普)</title>
+	<programme channel="美亚电影" start="20260312191000 +0800" stop="20260312210000 +0800">
+		<title lang="zh">笑傲江湖之东方不败[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308173500 +0800" stop="20260308190000 +0800">
-		<title lang="zh">天使行动(普)</title>
+	<programme channel="美亚电影" start="20260312210000 +0800" stop="20260312223000 +0800">
+		<title lang="zh">长江7号[粤/普]</title>
 	</programme>
-	<programme channel="美亚电影" start="20260308190000 +0800" stop="20260308191000 +0800">
-		<title lang="zh">武侠(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308191000 +0800" stop="20260308204500 +0800">
-		<title lang="zh">黑猫(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308204500 +0800" stop="20260308210000 +0800">
-		<title lang="zh">千王之王2000(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308210000 +0800" stop="20260308214500 +0800">
-		<title lang="zh">神雕侠侣(41)(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308214500 +0800" stop="20260308222000 +0800">
-		<title lang="zh">大武当之天地密码(辅12)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308222000 +0800" stop="20260308233000 +0800">
-		<title lang="zh">高度戒备(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260308233000 +0800" stop="20260309001500 +0800">
-		<title lang="zh">侠骨仁心(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309001500 +0800" stop="20260309012000 +0800">
-		<title lang="zh">伟哥的故事(辅15)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309012000 +0800" stop="20260309013000 +0800">
-		<title lang="zh">三个夏天(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309013000 +0800" stop="20260309030000 +0800">
-		<title lang="zh">失业皇帝(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309030000 +0800" stop="20260309032000 +0800">
-		<title lang="zh">鬼新娘(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309032000 +0800" stop="20260309043500 +0800">
-		<title lang="zh">黄飞鸿之二男儿当自强(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309043500 +0800" stop="20260309051500 +0800">
-		<title lang="zh">汪洋中的一条船(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309051500 +0800" stop="20260309063000 +0800">
-		<title lang="zh">小爸爸的天空(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309063000 +0800" stop="20260309070000 +0800">
-		<title lang="zh">过埠新娘(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309070000 +0800" stop="20260309080500 +0800">
-		<title lang="zh">大车伕(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309080500 +0800" stop="20260309084000 +0800">
-		<title lang="zh">一招半式闯江湖(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309084000 +0800" stop="20260309094500 +0800">
-		<title lang="zh">恶女列传(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309094500 +0800" stop="20260309104000 +0800">
-		<title lang="zh">寂寞芳心俱乐部(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309104000 +0800" stop="20260309114500 +0800">
-		<title lang="zh">天使行动III魔女末日(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309114500 +0800" stop="20260309121500 +0800">
-		<title lang="zh">天地玄门(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309121500 +0800" stop="20260309132500 +0800">
-		<title lang="zh">八両金(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309132500 +0800" stop="20260309140500 +0800">
-		<title lang="zh">神雕侠侣(41)(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309140500 +0800" stop="20260309141000 +0800">
-		<title lang="zh">五爪十八翻(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309141000 +0800" stop="20260309154000 +0800">
-		<title lang="zh">飞龙猛将(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309154000 +0800" stop="20260309155000 +0800">
-		<title lang="zh">龙拳(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309155000 +0800" stop="20260309172000 +0800">
-		<title lang="zh">一见钟情(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309172000 +0800" stop="20260309173000 +0800">
-		<title lang="zh">打工狂想曲(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309173000 +0800" stop="20260309190000 +0800">
-		<title lang="zh">乱世儿女(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309190000 +0800" stop="20260309190500 +0800">
-		<title lang="zh">武侠(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309190500 +0800" stop="20260309210000 +0800">
-		<title lang="zh">黑狗来了(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309210000 +0800" stop="20260309214500 +0800">
-		<title lang="zh">射雕英雄传(1)(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309214500 +0800" stop="20260309215500 +0800">
-		<title lang="zh">大武当之天地密码(辅12)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309215500 +0800" stop="20260309233000 +0800">
-		<title lang="zh">条子阿不拉(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260309233000 +0800" stop="20260310001000 +0800">
-		<title lang="zh">侠骨仁心(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310001000 +0800" stop="20260310021500 +0800">
-		<title lang="zh">听风者(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310021500 +0800" stop="20260310043000 +0800">
-		<title lang="zh">黄飞鸿之英雄有梦(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310043000 +0800" stop="20260310060000 +0800">
-		<title lang="zh">极速先锋(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310060000 +0800" stop="20260310074000 +0800">
-		<title lang="zh">孩子的天空(又名 : 新鲁冰花)(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310074000 +0800" stop="20260310092000 +0800">
-		<title lang="zh">新半斤八两(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310092000 +0800" stop="20260310105500 +0800">
-		<title lang="zh">妙探孖宝(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310105500 +0800" stop="20260310124000 +0800">
-		<title lang="zh">新扎师妹II美丽任务(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310124000 +0800" stop="20260310133500 +0800">
-		<title lang="zh">射雕英雄传(1)(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310133500 +0800" stop="20260310153500 +0800">
-		<title lang="zh">八百壮士(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310153500 +0800" stop="20260310171500 +0800">
-		<title lang="zh">搏命单刀夺命枪(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310171500 +0800" stop="20260310190500 +0800">
-		<title lang="zh">少林木人巷(普)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310190500 +0800" stop="20260310210000 +0800">
-		<title lang="zh">报告班长7报告班长(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310210000 +0800" stop="20260310215000 +0800">
-		<title lang="zh">射雕英雄传(2)(护)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310215000 +0800" stop="20260310235500 +0800">
-		<title lang="zh">黑金(辅12)</title>
-	</programme>
-	<programme channel="美亚电影" start="20260310235500 +0800" stop="20260311000000 +0800">
-		<title lang="zh">老虎田鸡(普)</title>
+	<programme channel="美亚电影" start="20260312223000 +0800" stop="20260313000000 +0800">
+		<title lang="zh">化骨龙与千年虫[粤/普]</title>
 	</programme>
 	<channel id="TVBPlus">
 		<display-name lang="zh">TVBPlus</display-name>
 	</channel>
-	<programme channel="TVBPlus" start="20260305000500 +0800" stop="20260305003500 +0800">
-		<title lang="zh">DM 旅导游[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305003500 +0800" stop="20260305013500 +0800">
-		<title lang="zh">赛后你点睇[粤][马会]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305013500 +0800" stop="20260305014000 +0800">
-		<title lang="zh">劲歌推介[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305014000 +0800" stop="20260305023500 +0800">
-		<title lang="zh">家简尘除3[粤/普]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305023500 +0800" stop="20260305030500 +0800">
-		<title lang="zh">开火[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305030500 +0800" stop="20260305033500 +0800">
-		<title lang="zh">浪漫台湾48小时[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305033500 +0800" stop="20260305040500 +0800">
-		<title lang="zh">浪漫台湾48小时[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305040500 +0800" stop="20260305050000 +0800">
-		<title lang="zh">世界同步出游[粤/日][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305050000 +0800" stop="20260305060000 +0800">
-		<title lang="zh">水曜日Downtown[粤/日][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305060000 +0800" stop="20260305063000 +0800">
-		<title lang="zh">#后生仔倾吓偈[粤][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305063000 +0800" stop="20260305070000 +0800">
-		<title lang="zh">#后生仔倾吓偈[粤][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305070000 +0800" stop="20260305073000 +0800">
-		<title lang="zh">Blah Blah BLAH 试新室!![粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305073000 +0800" stop="20260305080000 +0800">
-		<title lang="zh">呢间老宅老过你老爷[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305080000 +0800" stop="20260305083000 +0800">
-		<title lang="zh">世界养生组织[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305083000 +0800" stop="20260305090000 +0800">
-		<title lang="zh">开火[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305090000 +0800" stop="20260305100000 +0800">
-		<title lang="zh">交易现场[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305100000 +0800" stop="20260305101000 +0800">
-		<title lang="zh">早市战报[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305101000 +0800" stop="20260305102000 +0800">
-		<title lang="zh">摩根大通特约 :通悉牛熊[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305102000 +0800" stop="20260305114000 +0800">
-		<title lang="zh">早市战报[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305114000 +0800" stop="20260305121500 +0800">
-		<title lang="zh">交易现场[粤] 及 警声百二秒 III[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305121500 +0800" stop="20260305124500 +0800">
-		<title lang="zh">浪漫台湾48小时[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305124500 +0800" stop="20260305131500 +0800">
-		<title lang="zh">浪漫台湾48小时[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305131500 +0800" stop="20260305134500 +0800">
-		<title lang="zh">世界养生组织[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305134500 +0800" stop="20260305141500 +0800">
-		<title lang="zh">DM 旅导游[粤] 及 保诚保险呈献:AI时代，让子女世界放大[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305141500 +0800" stop="20260305144500 +0800">
-		<title lang="zh">Blah Blah BLAH 试��室!![粤] 及 好嘢港多啲[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305144500 +0800" stop="20260305155000 +0800">
-		<title lang="zh">水曜日Downtown[粤/日][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305155000 +0800" stop="20260305162000 +0800">
-		<title lang="zh">交易现场[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305162000 +0800" stop="20260305165500 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约 :今日有楼睇[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305165500 +0800" stop="20260305175500 +0800">
-		<title lang="zh">家简尘除3[粤/普]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305175500 +0800" stop="20260305183000 +0800">
-		<title lang="zh">浪漫台湾48小时[粤] 及 保诚保险呈献:AI时代，让子女世界放大[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305183000 +0800" stop="20260305190000 +0800">
-		<title lang="zh">开火[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305190000 +0800" stop="20260305200000 +0800">
-		<title lang="zh">黄金面具#3[粤/韩]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305200000 +0800" stop="20260305203000 +0800">
-		<title lang="zh">美食新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305203000 +0800" stop="20260305210000 +0800">
-		<title lang="zh">极境之旅II[粤/普]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305210000 +0800" stop="20260305212000 +0800">
-		<title lang="zh">娱乐新闻报道</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305212000 +0800" stop="20260305213000 +0800">
-		<title lang="zh">富途证券特约:牛牛讲美股[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305213000 +0800" stop="20260305213500 +0800">
-		<title lang="zh">六合彩[粤][马会] 及 AI930:被出轨的人[粤][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305213500 +0800" stop="20260305220500 +0800">
-		<title lang="zh">医美直击 首尔篇[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305220500 +0800" stop="20260305223000 +0800">
-		<title lang="zh">马百良六宝灵芝呈献 :最强生命线[粤]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305223000 +0800" stop="20260305223500 +0800">
-		<title lang="zh">AI930:被出轨的人[粤][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305223500 +0800" stop="20260305225500 +0800">
-		<title lang="zh">锦绣宅心#16[粤/普][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305225500 +0800" stop="20260305231500 +0800">
-		<title lang="zh">锦绣宅心#17[粤/普][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305231500 +0800" stop="20260305233000 +0800">
-		<title lang="zh">锦绣宅心#18[粤/普][PG]</title>
-	</programme>
-	<programme channel="TVBPlus" start="20260305233000 +0800" stop="20260306001500 +0800">
-		<title lang="zh">灵活过三关[粤]</title>
-	</programme>
 	<programme channel="TVBPlus" start="20260306001500 +0800" stop="20260306004500 +0800">
 		<title lang="zh">美食新闻报道[粤]</title>
 	</programme>
@@ -2247,120 +1971,138 @@
 	<programme channel="TVBPlus" start="20260311230500 +0800" stop="20260311233500 +0800">
 		<title lang="zh">关注关注组[粤]</title>
 	</programme>
-	<programme channel="TVBPlus" start="20260311233500 +0800" stop="20260312000000 +0800">
+	<programme channel="TVBPlus" start="20260311233500 +0800" stop="20260312000500 +0800">
 		<title lang="zh">DM 旅导游[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312000500 +0800" stop="20260312003500 +0800">
+		<title lang="zh">DM 旅导游[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312003500 +0800" stop="20260312013500 +0800">
+		<title lang="zh">赛后你点睇[粤][马会]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312013500 +0800" stop="20260312014000 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312014000 +0800" stop="20260312030500 +0800">
+		<title lang="zh">梦想改造家[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312030500 +0800" stop="20260312033500 +0800">
+		<title lang="zh">背游摩洛哥[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312033500 +0800" stop="20260312040500 +0800">
+		<title lang="zh">背游摩洛哥[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312040500 +0800" stop="20260312050000 +0800">
+		<title lang="zh">世界同步出游[粤/日]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312050000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">水曜日Downtown[粤/日][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312060000 +0800" stop="20260312063000 +0800">
+		<title lang="zh">#后生仔倾吓偈[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312063000 +0800" stop="20260312070000 +0800">
+		<title lang="zh">#后生仔倾吓偈[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312070000 +0800" stop="20260312073000 +0800">
+		<title lang="zh">Blah Blah BLAH 试新室!![粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312073000 +0800" stop="20260312080000 +0800">
+		<title lang="zh">关注关注组[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312080000 +0800" stop="20260312083000 +0800">
+		<title lang="zh">世界养生组织[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312083000 +0800" stop="20260312090000 +0800">
+		<title lang="zh">开火[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312090000 +0800" stop="20260312100000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312100000 +0800" stop="20260312101000 +0800">
+		<title lang="zh">早市战报[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312101000 +0800" stop="20260312102000 +0800">
+		<title lang="zh">摩根大通特约 :通悉牛熊[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312102000 +0800" stop="20260312114000 +0800">
+		<title lang="zh">早市战报[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312114000 +0800" stop="20260312121500 +0800">
+		<title lang="zh">交易现场[粤] 及 警声百二秒 III[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312121500 +0800" stop="20260312124500 +0800">
+		<title lang="zh">浪漫台湾48小时[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312124500 +0800" stop="20260312131500 +0800">
+		<title lang="zh">浪漫台湾48小时[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312131500 +0800" stop="20260312134500 +0800">
+		<title lang="zh">世界养生组织[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312134500 +0800" stop="20260312141500 +0800">
+		<title lang="zh">医啲阿妈都唔知[粤][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312141500 +0800" stop="20260312144500 +0800">
+		<title lang="zh">Blah Blah BLAH 试新室!![粤] 及 好嘢港多啲[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312144500 +0800" stop="20260312155000 +0800">
+		<title lang="zh">水曜日Downtown[粤/日][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312155000 +0800" stop="20260312162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312162000 +0800" stop="20260312165500 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约 :今日有楼睇[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312165500 +0800" stop="20260312183000 +0800">
+		<title lang="zh">梦想改造家[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312183000 +0800" stop="20260312190000 +0800">
+		<title lang="zh">开火[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312190000 +0800" stop="20260312200000 +0800">
+		<title lang="zh">黄金面具#7[粤/韩]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312200000 +0800" stop="20260312203000 +0800">
+		<title lang="zh">美食新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312203000 +0800" stop="20260312210000 +0800">
+		<title lang="zh">极境之旅II[粤/普]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312210000 +0800" stop="20260312212000 +0800">
+		<title lang="zh">娱乐新闻报道</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312212000 +0800" stop="20260312213000 +0800">
+		<title lang="zh">富途证券特约:牛牛讲美股[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312213000 +0800" stop="20260312213500 +0800">
+		<title lang="zh">六合彩[粤][马会]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312213500 +0800" stop="20260312220500 +0800">
+		<title lang="zh">医啲阿妈都唔知[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312220500 +0800" stop="20260312223000 +0800">
+		<title lang="zh">马百良六宝灵芝呈献 :最强生命线[粤]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312223000 +0800" stop="20260312224500 +0800">
+		<title lang="zh">神都狐探#1[粤/普][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312224500 +0800" stop="20260312230000 +0800">
+		<title lang="zh">神都狐探#2[粤/普][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312230000 +0800" stop="20260312231500 +0800">
+		<title lang="zh">神都狐探#3[粤/普][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312231500 +0800" stop="20260312233000 +0800">
+		<title lang="zh">神都狐探#4[粤/普][PG]</title>
+	</programme>
+	<programme channel="TVBPlus" start="20260312233000 +0800" stop="20260313000000 +0800">
+		<title lang="zh">灵活过三关[粤]</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
-	<programme channel="明珠台" start="20260305001000 +0800" stop="20260305004000 +0800">
-		<title lang="zh">英国海岸铁路游[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305004000 +0800" stop="20260305012500 +0800">
-		<title lang="zh">中国24小时[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305012500 +0800" stop="20260305013000 +0800">
-		<title lang="zh">世界真细小[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305013000 +0800" stop="20260305020000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305020000 +0800" stop="20260305060000 +0800">
-		<title lang="zh">祝君晚安</title>
-	</programme>
-	<programme channel="明珠台" start="20260305060000 +0800" stop="20260305070000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305070000 +0800" stop="20260305073000 +0800">
-		<title lang="zh">新造电视[英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305073000 +0800" stop="20260305080000 +0800">
-		<title lang="zh">NBC 世界新闻[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305080000 +0800" stop="20260305090000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305090000 +0800" stop="20260305100000 +0800">
-		<title lang="zh">人大会议开幕 政府工作报告[直播][英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305100000 +0800" stop="20260305105000 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305105000 +0800" stop="20260305110000 +0800">
-		<title lang="zh">交易直播室[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305110000 +0800" stop="20260305120000 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305120000 +0800" stop="20260305130000 +0800">
-		<title lang="zh">CGTN环球瞭望[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305130000 +0800" stop="20260305133500 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305133500 +0800" stop="20260305134000 +0800">
-		<title lang="zh">交易直播室[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305134000 +0800" stop="20260305145500 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305145500 +0800" stop="20260305150000 +0800">
-		<title lang="zh">财经快讯[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305150000 +0800" stop="20260305153500 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305153500 +0800" stop="20260305154000 +0800">
-		<title lang="zh">交易直播室[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305154000 +0800" stop="20260305161500 +0800">
-		<title lang="zh">金融行情[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305161500 +0800" stop="20260305163000 +0800">
-		<title lang="zh">普通话新闻报道[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305163000 +0800" stop="20260305170000 +0800">
-		<title lang="zh">新造电视[英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305170000 +0800" stop="20260305173000 +0800">
-		<title lang="zh">芝麻街[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305173000 +0800" stop="20260305174500 +0800">
-		<title lang="zh">节拍小天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305174500 +0800" stop="20260305180000 +0800">
-		<title lang="zh">节拍小天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305180000 +0800" stop="20260305185500 +0800">
-		<title lang="zh">瑰丽地中海[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305185500 +0800" stop="20260305190000 +0800">
-		<title lang="zh">世界真细小[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305190000 +0800" stop="20260305193000 +0800">
-		<title lang="zh">型厨食游原始部落[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305193000 +0800" stop="20260305195500 +0800">
-		<title lang="zh">七点半新闻报道[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305195500 +0800" stop="20260305200000 +0800">
-		<title lang="zh">天气报告[英] 及 财经消息[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305200000 +0800" stop="20260305203000 +0800">
-		<title lang="zh">西班牙色香味[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305203000 +0800" stop="20260305214500 +0800">
-		<title lang="zh">西班牙庭园[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305214500 +0800" stop="20260305233500 +0800">
-		<title lang="zh">明珠930:异兽战2[英/粤][PG]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305233500 +0800" stop="20260305235500 +0800">
-		<title lang="zh">晚间新闻[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260305235500 +0800" stop="20260306002500 +0800">
-		<title lang="zh">西班牙色香味[英]</title>
-	</programme>
 	<programme channel="明珠台" start="20260306002500 +0800" stop="20260306005500 +0800">
 		<title lang="zh">动物天使[英]</title>
 	</programme>
@@ -2994,906 +2736,123 @@
 	<programme channel="明珠台" start="20260311213000 +0800" stop="20260311235000 +0800">
 		<title lang="zh">明珠930:天煞西部反击战[英/粤][PG]</title>
 	</programme>
-	<programme channel="明珠台" start="20260311235000 +0800" stop="20260312000000 +0800">
+	<programme channel="明珠台" start="20260311235000 +0800" stop="20260312001000 +0800">
 		<title lang="zh">晚间新闻[英]</title>
 	</programme>
-	<channel id="Viutv">
-		<display-name lang="zh">Viutv</display-name>
-	</channel>
-	<programme channel="Viutv" start="20260305003000 +0800" stop="20260305010000 +0800">
-		<title lang="zh">1 TAKE过 第3集 </title>
+	<programme channel="明珠台" start="20260312001000 +0800" stop="20260312004000 +0800">
+		<title lang="zh">型厨食游原始部落[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305010000 +0800" stop="20260305013000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1496集</title>
+	<programme channel="明珠台" start="20260312004000 +0800" stop="20260312011000 +0800">
+		<title lang="zh">英国海岸铁路游[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305013000 +0800" stop="20260305023000 +0800">
-		<title lang="zh">盗贼：七个朝鲜通宝 第3集</title>
+	<programme channel="明珠台" start="20260312011000 +0800" stop="20260312015500 +0800">
+		<title lang="zh">中国24小时[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305023000 +0800" stop="20260305030000 +0800">
-		<title lang="zh">深宵新闻</title>
+	<programme channel="明珠台" start="20260312015500 +0800" stop="20260312020000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305030000 +0800" stop="20260305040000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第4集</title>
+	<programme channel="明珠台" start="20260312020000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">祝君晚安</title>
 	</programme>
-	<programme channel="Viutv" start="20260305040000 +0800" stop="20260305042500 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 晚吹 - 空肚讲宵夜 第312集 </title>
+	<programme channel="明珠台" start="20260312060000 +0800" stop="20260312070000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305042500 +0800" stop="20260305043000 +0800">
-		<title lang="zh">3 分钟热度 第1312集</title>
+	<programme channel="明珠台" start="20260312070000 +0800" stop="20260312073000 +0800">
+		<title lang="zh">新造电视[英/粤]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305043000 +0800" stop="20260305050000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1496集</title>
+	<programme channel="明珠台" start="20260312073000 +0800" stop="20260312080000 +0800">
+		<title lang="zh">NBC 世界新闻[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305050000 +0800" stop="20260305060000 +0800">
-		<title lang="zh">惜花芷 第39集</title>
+	<programme channel="明珠台" start="20260312080000 +0800" stop="20260312090000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305060000 +0800" stop="20260305090000 +0800">
-		<title lang="zh">早晨新闻</title>
+	<programme channel="明珠台" start="20260312090000 +0800" stop="20260312091500 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305090000 +0800" stop="20260305093000 +0800">
-		<title lang="zh">文艺志 第49集 </title>
+	<programme channel="明珠台" start="20260312091500 +0800" stop="20260312093000 +0800">
+		<title lang="zh">交易直播室[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305093000 +0800" stop="20260305110000 +0800">
-		<title lang="zh">交易时段</title>
+	<programme channel="明珠台" start="20260312093000 +0800" stop="20260312095000 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305110000 +0800" stop="20260305113000 +0800">
-		<title lang="zh">智富通 第455集</title>
+	<programme channel="明珠台" start="20260312095000 +0800" stop="20260312100000 +0800">
+		<title lang="zh">财经快讯[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305113000 +0800" stop="20260305120000 +0800">
-		<title lang="zh">新年流流返乜工 第9集 </title>
+	<programme channel="明珠台" start="20260312100000 +0800" stop="20260312105000 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305120000 +0800" stop="20260305123000 +0800">
-		<title lang="zh">午间新闻</title>
+	<programme channel="明珠台" start="20260312105000 +0800" stop="20260312110000 +0800">
+		<title lang="zh">交易直播室[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305123000 +0800" stop="20260305125500 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1497集</title>
+	<programme channel="明珠台" start="20260312110000 +0800" stop="20260312120000 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305125500 +0800" stop="20260305130000 +0800">
-		<title lang="zh">3 分钟热度 第1312集</title>
+	<programme channel="明珠台" start="20260312120000 +0800" stop="20260312130000 +0800">
+		<title lang="zh">CGTN环球瞭望[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305130000 +0800" stop="20260305133000 +0800">
-		<title lang="zh">菁新力量 第10集</title>
+	<programme channel="明珠台" start="20260312130000 +0800" stop="20260312133500 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305133000 +0800" stop="20260305140000 +0800">
-		<title lang="zh">730 玩返转 第162集</title>
+	<programme channel="明珠台" start="20260312133500 +0800" stop="20260312134000 +0800">
+		<title lang="zh">交易直播室[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305140000 +0800" stop="20260305150000 +0800">
-		<title lang="zh">法与情 第6集</title>
+	<programme channel="明珠台" start="20260312134000 +0800" stop="20260312145500 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305150000 +0800" stop="20260305160000 +0800">
-		<title lang="zh">交易时段</title>
+	<programme channel="明珠台" start="20260312145500 +0800" stop="20260312150000 +0800">
+		<title lang="zh">财经快讯[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305160000 +0800" stop="20260305163000 +0800">
-		<title lang="zh">妖怪手表 第118集</title>
+	<programme channel="明珠台" start="20260312150000 +0800" stop="20260312153500 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305163000 +0800" stop="20260305170000 +0800">
-		<title lang="zh">恐龙大牧场 第13集 </title>
+	<programme channel="明珠台" start="20260312153500 +0800" stop="20260312154000 +0800">
+		<title lang="zh">交易直播室[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305170000 +0800" stop="20260305173000 +0800">
-		<title lang="zh">莫利地下冒险 第3集</title>
+	<programme channel="明珠台" start="20260312154000 +0800" stop="20260312161500 +0800">
+		<title lang="zh">金融行情[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305173000 +0800" stop="20260305180000 +0800">
-		<title lang="zh">设计新态度 第36集 </title>
+	<programme channel="明珠台" start="20260312161500 +0800" stop="20260312163000 +0800">
+		<title lang="zh">普通话新闻报道[普]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305180000 +0800" stop="20260305183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	<programme channel="明珠台" start="20260312163000 +0800" stop="20260312170000 +0800">
+		<title lang="zh">新造电视[英/粤]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305183000 +0800" stop="20260305190000 +0800">
-		<title lang="zh">熨斗家族 第75集</title>
+	<programme channel="明珠台" start="20260312170000 +0800" stop="20260312173000 +0800">
+		<title lang="zh">芝麻街[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305190000 +0800" stop="20260305193000 +0800">
-		<title lang="zh">7点新闻报道</title>
+	<programme channel="明珠台" start="20260312173000 +0800" stop="20260312180000 +0800">
+		<title lang="zh">节拍小天地[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305193000 +0800" stop="20260305200000 +0800">
-		<title lang="zh">730 玩返转 第163集</title>
+	<programme channel="明珠台" start="20260312180000 +0800" stop="20260312185500 +0800">
+		<title lang="zh">瑰丽地中海[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305200000 +0800" stop="20260305203000 +0800">
-		<title lang="zh">细事都被你看透 第56集</title>
+	<programme channel="明珠台" start="20260312185500 +0800" stop="20260312190000 +0800">
+		<title lang="zh">世界真细小[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305203000 +0800" stop="20260305213000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第5集</title>
+	<programme channel="明珠台" start="20260312190000 +0800" stop="20260312193000 +0800">
+		<title lang="zh">型厨食游原始部落[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305213000 +0800" stop="20260305223000 +0800">
-		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第4集 </title>
+	<programme channel="明珠台" start="20260312193000 +0800" stop="20260312195500 +0800">
+		<title lang="zh">七点半新闻报道[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305223000 +0800" stop="20260305230000 +0800">
-		<title lang="zh">大龙凤 第4集 </title>
+	<programme channel="明珠台" start="20260312195500 +0800" stop="20260312200000 +0800">
+		<title lang="zh">天气报告[英] 及 财经消息[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305230000 +0800" stop="20260305233000 +0800">
-		<title lang="zh">晚吹 - Chat KP 第64集 </title>
+	<programme channel="明珠台" start="20260312200000 +0800" stop="20260312203000 +0800">
+		<title lang="zh">食尽全世界[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305233000 +0800" stop="20260305233500 +0800">
-		<title lang="zh">3 分钟热度 第1313集</title>
+	<programme channel="明珠台" start="20260312203000 +0800" stop="20260312214500 +0800">
+		<title lang="zh">西班牙庭园[英]</title>
 	</programme>
-	<programme channel="Viutv" start="20260305233500 +0800" stop="20260306003000 +0800">
-		<title lang="zh">亲爱坏蛋 第1集</title>
+	<programme channel="明珠台" start="20260312214500 +0800" stop="20260313000000 +0800">
+		<title lang="zh">明珠930:加州大地震[英][PG]</title>
 	</programme>
-	<programme channel="Viutv" start="20260306003000 +0800" stop="20260306010000 +0800">
-		<title lang="zh">1 TAKE过 第4集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306010000 +0800" stop="20260306013000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1497集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306013000 +0800" stop="20260306023000 +0800">
-		<title lang="zh">盗贼：七个朝鲜通宝 第4集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306023000 +0800" stop="20260306030000 +0800">
-		<title lang="zh">深宵新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260306030000 +0800" stop="20260306040000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第5集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306040000 +0800" stop="20260306042500 +0800">
-		<title lang="zh">晚吹 - Chat KP 第64集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306042500 +0800" stop="20260306043000 +0800">
-		<title lang="zh">3 分钟热度 第1313集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306043000 +0800" stop="20260306050000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1497集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306050000 +0800" stop="20260306060000 +0800">
-		<title lang="zh">惜花芷 第40集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306060000 +0800" stop="20260306090000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260306090000 +0800" stop="20260306093000 +0800">
-		<title lang="zh">国识商通 第148集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306093000 +0800" stop="20260306110000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260306110000 +0800" stop="20260306113000 +0800">
-		<title lang="zh">智富通 第456集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306113000 +0800" stop="20260306120000 +0800">
-		<title lang="zh">新年流流返乜工 第10集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306120000 +0800" stop="20260306123000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260306123000 +0800" stop="20260306125500 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306125500 +0800" stop="20260306130000 +0800">
-		<title lang="zh">3 分钟热度 第1313集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306130000 +0800" stop="20260306133000 +0800">
-		<title lang="zh">环保发现号 第78集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306133000 +0800" stop="20260306140000 +0800">
-		<title lang="zh">730 玩返转 第163集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306140000 +0800" stop="20260306150000 +0800">
-		<title lang="zh">法与情 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306150000 +0800" stop="20260306160000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260306160000 +0800" stop="20260306163000 +0800">
-		<title lang="zh">妖怪手表 第119集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306163000 +0800" stop="20260306170000 +0800">
-		<title lang="zh">恐龙大牧场 第14集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306170000 +0800" stop="20260306173000 +0800">
-		<title lang="zh">莫利地下冒险 第4集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306173000 +0800" stop="20260306180000 +0800">
-		<title lang="zh">杏林在线 第507集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306180000 +0800" stop="20260306183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260306183000 +0800" stop="20260306190000 +0800">
-		<title lang="zh">熨斗家族 第76集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306190000 +0800" stop="20260306193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260306193000 +0800" stop="20260306200000 +0800">
-		<title lang="zh">730 玩返转 第164集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306200000 +0800" stop="20260306203000 +0800">
-		<title lang="zh">细事都被你看透 第57集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306203000 +0800" stop="20260306213000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306213000 +0800" stop="20260306223000 +0800">
-		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第5集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306223000 +0800" stop="20260306230000 +0800">
-		<title lang="zh">大龙凤 第5集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306230000 +0800" stop="20260306233000 +0800">
-		<title lang="zh">晚吹 - 总有一瓣喺左近 第429集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260306233000 +0800" stop="20260306233500 +0800">
-		<title lang="zh">3 分钟热度 第1314集</title>
-	</programme>
-	<programme channel="Viutv" start="20260306233500 +0800" stop="20260307003000 +0800">
-		<title lang="zh">亲爱坏蛋 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307003000 +0800" stop="20260307010000 +0800">
-		<title lang="zh">1 TAKE过 第5集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307010000 +0800" stop="20260307013000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307013000 +0800" stop="20260307023000 +0800">
-		<title lang="zh">盗贼：七个朝鲜通宝 第5集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307023000 +0800" stop="20260307030000 +0800">
-		<title lang="zh">深宵新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260307030000 +0800" stop="20260307040000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307040000 +0800" stop="20260307042500 +0800">
-		<title lang="zh">晚吹 - 总有一瓣喺左近 第429集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307042500 +0800" stop="20260307043000 +0800">
-		<title lang="zh">3 分钟热度 第1314集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307043000 +0800" stop="20260307050000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307050000 +0800" stop="20260307060000 +0800">
-		<title lang="zh">锦绣安宁 第1集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307060000 +0800" stop="20260307080000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260307080000 +0800" stop="20260307083000 +0800">
-		<title lang="zh">甜爷爷 第1集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307083000 +0800" stop="20260307090000 +0800">
-		<title lang="zh">执屋 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307090000 +0800" stop="20260307093000 +0800">
-		<title lang="zh">踢馆 第14集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307093000 +0800" stop="20260307100000 +0800">
-		<title lang="zh">超级守护者：拯救北极 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307100000 +0800" stop="20260307103000 +0800">
-		<title lang="zh">妳想生活 第13集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307103000 +0800" stop="20260307130000 +0800">
-		<title lang="zh">NBA 常规赛 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307130000 +0800" stop="20260307133000 +0800">
-		<title lang="zh">单车踩爆日本 -落山极限挑战</title>
-	</programme>
-	<programme channel="Viutv" start="20260307133000 +0800" stop="20260307143000 +0800">
-		<title lang="zh">FWD 富卫保险呈献: CHILL CLUB 第298集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307143000 +0800" stop="20260307150000 +0800">
-		<title lang="zh">手寻艺术 第24集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307150000 +0800" stop="20260307153000 +0800">
-		<title lang="zh">日本GAO芯假期 第10集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307153000 +0800" stop="20260307160000 +0800">
-		<title lang="zh">厨神奶奶是你妈 第15集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307160000 +0800" stop="20260307163000 +0800">
-		<title lang="zh">MM730 - 困兽斗 第2集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307163000 +0800" stop="20260307170000 +0800">
-		<title lang="zh">熊熊帮帮团 2 第24集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307170000 +0800" stop="20260307173000 +0800">
-		<title lang="zh">光之美少女偶像与你 第46集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307173000 +0800" stop="20260307180000 +0800">
-		<title lang="zh">世界之「趣」 第59集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307180000 +0800" stop="20260307183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260307183000 +0800" stop="20260307190000 +0800">
-		<title lang="zh">大鸣大放 第955集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307190000 +0800" stop="20260307193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260307193000 +0800" stop="20260307200000 +0800">
-		<title lang="zh">生活小贴士 第3集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307200000 +0800" stop="20260307203000 +0800">
-		<title lang="zh">本周快闪人口 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260307203000 +0800" stop="20260307224500 +0800">
-		<title lang="zh">宝矿力水特电解质水 ion water 呈献: 周六好戏势: 金鸡2</title>
-	</programme>
-	<programme channel="Viutv" start="20260307224500 +0800" stop="20260307234500 +0800">
-		<title lang="zh">恶作剧之王 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260307234500 +0800" stop="20260308001500 +0800">
-		<title lang="zh">僵尸100～在成为僵尸前要做的100件事～ 第10集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308001500 +0800" stop="20260308023000 +0800">
-		<title lang="zh">为你钟情</title>
-	</programme>
-	<programme channel="Viutv" start="20260308023000 +0800" stop="20260308030000 +0800">
-		<title lang="zh">返归啦俄仔 第10集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308030000 +0800" stop="20260308033000 +0800">
-		<title lang="zh">厨神奶奶是你妈 第15集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308033000 +0800" stop="20260308040000 +0800">
-		<title lang="zh">文艺志 第49集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308040000 +0800" stop="20260308043000 +0800">
-		<title lang="zh">菁新力量 第9集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308043000 +0800" stop="20260308050000 +0800">
-		<title lang="zh">环保发现号 第78集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308050000 +0800" stop="20260308053000 +0800">
-		<title lang="zh">执屋 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308053000 +0800" stop="20260308060000 +0800">
-		<title lang="zh">甜爷爷 第1集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308060000 +0800" stop="20260308080000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260308080000 +0800" stop="20260308083000 +0800">
-		<title lang="zh">GO！执！事务所 第15集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308083000 +0800" stop="20260308090000 +0800">
-		<title lang="zh">老友记实用手册 第31集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308090000 +0800" stop="20260308093000 +0800">
-		<title lang="zh">双线运动人生 第30集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308093000 +0800" stop="20260308100000 +0800">
-		<title lang="zh">Bandai 呈献: No.1战队五兽者 第41集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308100000 +0800" stop="20260308103000 +0800">
-		<title lang="zh">舔舔脷·讲讲理 第20集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308103000 +0800" stop="20260308110000 +0800">
-		<title lang="zh">返学啦老豆 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308110000 +0800" stop="20260308113000 +0800">
-		<title lang="zh">Bandai 呈献: 幪面超人 ZEZTZ 第24集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308113000 +0800" stop="20260308120000 +0800">
-		<title lang="zh">声的筑城者 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308120000 +0800" stop="20260308123000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260308123000 +0800" stop="20260308130000 +0800">
-		<title lang="zh">云端对谈 第四系列 第8集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308130000 +0800" stop="20260308133000 +0800">
-		<title lang="zh">为食家族 第5集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308133000 +0800" stop="20260308140000 +0800">
-		<title lang="zh">山旮旯拯救队 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308140000 +0800" stop="20260308143000 +0800">
-		<title lang="zh">瘾营人 第9集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308143000 +0800" stop="20260308153000 +0800">
-		<title lang="zh">瀛知有密 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308153000 +0800" stop="20260308160000 +0800">
-		<title lang="zh">巴丝Let’s go欧 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308160000 +0800" stop="20260308163000 +0800">
-		<title lang="zh">我哋都系香港人 第4集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308163000 +0800" stop="20260308170000 +0800">
-		<title lang="zh">爆旋陀螺X 第3季 第112集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308170000 +0800" stop="20260308173000 +0800">
-		<title lang="zh">菲梦少女 第12集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308173000 +0800" stop="20260308180000 +0800">
-		<title lang="zh">也文也武同学仔 第26集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308180000 +0800" stop="20260308183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260308183000 +0800" stop="20260308190000 +0800">
-		<title lang="zh">大鸣大放 第956集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308190000 +0800" stop="20260308193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260308193000 +0800" stop="20260308200000 +0800">
-		<title lang="zh">经纬线 第495集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308200000 +0800" stop="20260308203000 +0800">
-		<title lang="zh">别在蒙古蒙查查 第1集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308203000 +0800" stop="20260308213000 +0800">
-		<title lang="zh">我想身体健康 第117集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260308213000 +0800" stop="20260308223000 +0800">
-		<title lang="zh">FWD 富卫保险呈献: CHILL CLUB 第299集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308223000 +0800" stop="20260308233000 +0800">
-		<title lang="zh">人类观察学 第68集</title>
-	</programme>
-	<programme channel="Viutv" start="20260308233000 +0800" stop="20260309000000 +0800">
-		<title lang="zh">蜡笔小新 第247集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309000000 +0800" stop="20260309003000 +0800">
-		<title lang="zh">冲绳任你点 第15集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309003000 +0800" stop="20260309020000 +0800">
-		<title lang="zh">蹦蹦地球游戏室 第1集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309020000 +0800" stop="20260309033000 +0800">
-		<title lang="zh">蹦蹦地球游戏室 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309033000 +0800" stop="20260309040000 +0800">
-		<title lang="zh">环保发现号 第78集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309040000 +0800" stop="20260309043000 +0800">
-		<title lang="zh">声的筑城者 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309043000 +0800" stop="20260309050000 +0800">
-		<title lang="zh">我哋都系香港人 第4集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309050000 +0800" stop="20260309053000 +0800">
-		<title lang="zh">双线运动人生 第30集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309053000 +0800" stop="20260309060000 +0800">
-		<title lang="zh">设计新态度 第36集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309060000 +0800" stop="20260309090000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260309090000 +0800" stop="20260309093000 +0800">
-		<title lang="zh">菁新力量 第10集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309093000 +0800" stop="20260309110000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260309110000 +0800" stop="20260309113000 +0800">
-		<title lang="zh">智富通 第457集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309113000 +0800" stop="20260309120000 +0800">
-		<title lang="zh">新年流流返乜工 第11集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309120000 +0800" stop="20260309123000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260309123000 +0800" stop="20260309125500 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309125500 +0800" stop="20260309130000 +0800">
-		<title lang="zh">3 分钟热度 第1314集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309130000 +0800" stop="20260309133000 +0800">
-		<title lang="zh">设计新浪潮II 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309133000 +0800" stop="20260309140000 +0800">
-		<title lang="zh">730 玩返转 第164集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309140000 +0800" stop="20260309150000 +0800">
-		<title lang="zh">法与情 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309150000 +0800" stop="20260309160000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260309160000 +0800" stop="20260309163000 +0800">
-		<title lang="zh">百变小露露8 第9集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309163000 +0800" stop="20260309170000 +0800">
-		<title lang="zh">冲锋战士 第4集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309170000 +0800" stop="20260309173000 +0800">
-		<title lang="zh">超级小熊布迷 第5集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309173000 +0800" stop="20260309180000 +0800">
-		<title lang="zh">一语千金 第4集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309180000 +0800" stop="20260309183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260309183000 +0800" stop="20260309190000 +0800">
-		<title lang="zh">熨斗家族 第77集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309190000 +0800" stop="20260309193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260309193000 +0800" stop="20260309200000 +0800">
-		<title lang="zh">730 玩返转 第165集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309200000 +0800" stop="20260309203000 +0800">
-		<title lang="zh">斗煮对对碰 第1集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309203000 +0800" stop="20260309213000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309213000 +0800" stop="20260309223000 +0800">
-		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309223000 +0800" stop="20260309230000 +0800">
-		<title lang="zh">大龙凤 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309230000 +0800" stop="20260309233000 +0800">
-		<title lang="zh">晚吹 - 怨女俱乐部 第46集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260309233000 +0800" stop="20260309233500 +0800">
-		<title lang="zh">3 分钟热度 第1315集</title>
-	</programme>
-	<programme channel="Viutv" start="20260309233500 +0800" stop="20260310003000 +0800">
-		<title lang="zh">亲爱坏蛋 第3集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310003000 +0800" stop="20260310010000 +0800">
-		<title lang="zh">1 TAKE过 第6集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310010000 +0800" stop="20260310013000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310013000 +0800" stop="20260310023000 +0800">
-		<title lang="zh">盗贼：七个朝鲜通宝 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310023000 +0800" stop="20260310030000 +0800">
-		<title lang="zh">深宵新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260310030000 +0800" stop="20260310040000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310040000 +0800" stop="20260310042500 +0800">
-		<title lang="zh">晚吹 - 怨女俱乐部 第46集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310042500 +0800" stop="20260310043000 +0800">
-		<title lang="zh">3 分钟热度 第1315集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310043000 +0800" stop="20260310050000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310050000 +0800" stop="20260310060000 +0800">
-		<title lang="zh">锦绣安宁 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310060000 +0800" stop="20260310090000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260310090000 +0800" stop="20260310093000 +0800">
-		<title lang="zh">设计新态度 第36集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310093000 +0800" stop="20260310110000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260310110000 +0800" stop="20260310113000 +0800">
-		<title lang="zh">智富通 第458集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310113000 +0800" stop="20260310120000 +0800">
-		<title lang="zh">新年流流返乜工 第12集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310120000 +0800" stop="20260310123000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260310123000 +0800" stop="20260310125500 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310125500 +0800" stop="20260310130000 +0800">
-		<title lang="zh">3 分钟热度 第1315集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310130000 +0800" stop="20260310133000 +0800">
-		<title lang="zh">文艺志 第50集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310133000 +0800" stop="20260310140000 +0800">
-		<title lang="zh">730 玩返转 第165集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310140000 +0800" stop="20260310150000 +0800">
-		<title lang="zh">法与情 第9集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310150000 +0800" stop="20260310160000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260310160000 +0800" stop="20260310163000 +0800">
-		<title lang="zh">百变小露露8 第10集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310163000 +0800" stop="20260310170000 +0800">
-		<title lang="zh">冲锋战士 第5集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310170000 +0800" stop="20260310173000 +0800">
-		<title lang="zh">超级小熊布迷 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310173000 +0800" stop="20260310180000 +0800">
-		<title lang="zh">一周睇楼团 第269集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310180000 +0800" stop="20260310183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260310183000 +0800" stop="20260310190000 +0800">
-		<title lang="zh">熨斗家族 第78集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310190000 +0800" stop="20260310193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260310193000 +0800" stop="20260310200000 +0800">
-		<title lang="zh">730 玩返转 第166集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310200000 +0800" stop="20260310203000 +0800">
-		<title lang="zh">斗煮对对碰 第2集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310203000 +0800" stop="20260310213000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310213000 +0800" stop="20260310223000 +0800">
-		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310223000 +0800" stop="20260310230000 +0800">
-		<title lang="zh">大龙凤 第7集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310230000 +0800" stop="20260310233000 +0800">
-		<title lang="zh">晚吹 </title>
-	</programme>
-	<programme channel="Viutv" start="20260310233000 +0800" stop="20260310233500 +0800">
-		<title lang="zh">3 分钟热度 第1316集</title>
-	</programme>
-	<programme channel="Viutv" start="20260310233500 +0800" stop="20260311003000 +0800">
-		<title lang="zh">亲爱坏蛋 第4集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311003000 +0800" stop="20260311010000 +0800">
-		<title lang="zh">1 TAKE过 第7集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311010000 +0800" stop="20260311013000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311013000 +0800" stop="20260311023000 +0800">
-		<title lang="zh">盗贼：七个朝鲜通宝 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311023000 +0800" stop="20260311030000 +0800">
-		<title lang="zh">深宵新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260311030000 +0800" stop="20260311040000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第8集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311040000 +0800" stop="20260311042500 +0800">
-		<title lang="zh">晚吹 - 男人乱讲嘢 第21集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311042500 +0800" stop="20260311043000 +0800">
-		<title lang="zh">3 分钟热度 第1316集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311043000 +0800" stop="20260311050000 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311050000 +0800" stop="20260311060000 +0800">
-		<title lang="zh">锦绣安宁 第3集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311060000 +0800" stop="20260311090000 +0800">
-		<title lang="zh">早晨新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260311090000 +0800" stop="20260311093000 +0800">
-		<title lang="zh">环保发现号 第78集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311093000 +0800" stop="20260311110000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260311110000 +0800" stop="20260311113000 +0800">
-		<title lang="zh">智富通 第459集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311113000 +0800" stop="20260311120000 +0800">
-		<title lang="zh">新年流流返乜工 第13集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311120000 +0800" stop="20260311123000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="Viutv" start="20260311123000 +0800" stop="20260311125500 +0800">
-		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1501集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311125500 +0800" stop="20260311130000 +0800">
-		<title lang="zh">3 分钟热度 第1316集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311130000 +0800" stop="20260311133000 +0800">
-		<title lang="zh">给香港的情书 第9集 -香港本地毡酒品牌始创人 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311133000 +0800" stop="20260311140000 +0800">
-		<title lang="zh">730 玩返转 第166集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311140000 +0800" stop="20260311150000 +0800">
-		<title lang="zh">法与情 第10集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311150000 +0800" stop="20260311160000 +0800">
-		<title lang="zh">交易时段</title>
-	</programme>
-	<programme channel="Viutv" start="20260311160000 +0800" stop="20260311163000 +0800">
-		<title lang="zh">百变小露露8 第11集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311163000 +0800" stop="20260311170000 +0800">
-		<title lang="zh">冲锋战士 第6集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311170000 +0800" stop="20260311173000 +0800">
-		<title lang="zh">超级小熊布迷 第7集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311173000 +0800" stop="20260311180000 +0800">
-		<title lang="zh">双线运动人生 第31集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311180000 +0800" stop="20260311183000 +0800">
-		<title lang="zh">6点新闻报道 (手语新闻)</title>
-	</programme>
-	<programme channel="Viutv" start="20260311183000 +0800" stop="20260311190000 +0800">
-		<title lang="zh">熨斗家族 第79集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311190000 +0800" stop="20260311193000 +0800">
-		<title lang="zh">7点新闻报道</title>
-	</programme>
-	<programme channel="Viutv" start="20260311193000 +0800" stop="20260311200000 +0800">
-		<title lang="zh">730 玩返转 第167集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311200000 +0800" stop="20260311203000 +0800">
-		<title lang="zh">斗煮对对碰 第3集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311203000 +0800" stop="20260311213000 +0800">
-		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第9集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311213000 +0800" stop="20260311223000 +0800">
-		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第8集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311223000 +0800" stop="20260311230000 +0800">
-		<title lang="zh">大龙凤 第8集 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311230000 +0800" stop="20260311233000 +0800">
-		<title lang="zh">晚吹 </title>
-	</programme>
-	<programme channel="Viutv" start="20260311233000 +0800" stop="20260311233500 +0800">
-		<title lang="zh">3 分钟热度 第1317集</title>
-	</programme>
-	<programme channel="Viutv" start="20260311233500 +0800" stop="20260312000000 +0800">
-		<title lang="zh">亲爱坏蛋 第5集</title>
+	<programme channel="明珠台" start="20260313000000 +0800" stop="20260314000000 +0800">
+		<title lang="zh">晚间新闻[英]</title>
 	</programme>
 	<channel id="TVB娱乐新闻">
 		<display-name lang="zh">TVB娱乐新闻</display-name>
 	</channel>
-	<programme channel="TVB娱乐新闻" start="20260305000000 +0800" stop="20260305003000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305003000 +0800" stop="20260305010000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305010000 +0800" stop="20260305013000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305013000 +0800" stop="20260305020000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305020000 +0800" stop="20260305023000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305023000 +0800" stop="20260305030000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305030000 +0800" stop="20260305033000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305033000 +0800" stop="20260305040000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305040000 +0800" stop="20260305043000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305043000 +0800" stop="20260305050000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305050000 +0800" stop="20260305053000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305053000 +0800" stop="20260305060000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305060000 +0800" stop="20260305063000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305063000 +0800" stop="20260305070000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305070000 +0800" stop="20260305073000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305073000 +0800" stop="20260305080000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305080000 +0800" stop="20260305083000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305083000 +0800" stop="20260305090000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305090000 +0800" stop="20260305093000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305093000 +0800" stop="20260305100000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305100000 +0800" stop="20260305103000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305103000 +0800" stop="20260305110000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305110000 +0800" stop="20260305113000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305113000 +0800" stop="20260305120000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305120000 +0800" stop="20260305123000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305123000 +0800" stop="20260305130000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305130000 +0800" stop="20260305133000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305133000 +0800" stop="20260305140000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305140000 +0800" stop="20260305143000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305143000 +0800" stop="20260305150000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305150000 +0800" stop="20260305153000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305153000 +0800" stop="20260305160000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305160000 +0800" stop="20260305163000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305163000 +0800" stop="20260305170000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305170000 +0800" stop="20260305173000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305173000 +0800" stop="20260305180000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305180000 +0800" stop="20260305183000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305183000 +0800" stop="20260305190000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305190000 +0800" stop="20260305193000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305193000 +0800" stop="20260305200000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305200000 +0800" stop="20260305203000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305203000 +0800" stop="20260305210000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305210000 +0800" stop="20260305213000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305213000 +0800" stop="20260305220000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305220000 +0800" stop="20260305223000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305223000 +0800" stop="20260305230000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305230000 +0800" stop="20260305233000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB娱乐新闻" start="20260305233000 +0800" stop="20260306000000 +0800">
-		<title lang="zh">娱乐新闻报道[粤]</title>
-	</programme>
 	<programme channel="TVB娱乐新闻" start="20260306000000 +0800" stop="20260306003000 +0800">
 		<title lang="zh">娱乐新闻报道[粤]</title>
 	</programme>
@@ -4758,171 +3717,156 @@
 	<programme channel="TVB娱乐新闻" start="20260311233000 +0800" stop="20260312000000 +0800">
 		<title lang="zh">娱乐新闻报道[粤]</title>
 	</programme>
-	<programme channel="TVB娱乐新闻" start="20260312000000 +0800" stop="20260313000000 +0800">
+	<programme channel="TVB娱乐新闻" start="20260312000000 +0800" stop="20260312003000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312003000 +0800" stop="20260312010000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312010000 +0800" stop="20260312013000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312013000 +0800" stop="20260312020000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312020000 +0800" stop="20260312023000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312023000 +0800" stop="20260312030000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312030000 +0800" stop="20260312033000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312033000 +0800" stop="20260312040000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312040000 +0800" stop="20260312043000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312043000 +0800" stop="20260312050000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312050000 +0800" stop="20260312053000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312053000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312060000 +0800" stop="20260312063000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312063000 +0800" stop="20260312070000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312070000 +0800" stop="20260312073000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312073000 +0800" stop="20260312080000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312080000 +0800" stop="20260312083000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312083000 +0800" stop="20260312090000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312090000 +0800" stop="20260312093000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312093000 +0800" stop="20260312100000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312100000 +0800" stop="20260312103000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312103000 +0800" stop="20260312110000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312110000 +0800" stop="20260312113000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312113000 +0800" stop="20260312120000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312120000 +0800" stop="20260312123000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312123000 +0800" stop="20260312130000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312130000 +0800" stop="20260312133000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312133000 +0800" stop="20260312140000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312140000 +0800" stop="20260312143000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312143000 +0800" stop="20260312150000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312150000 +0800" stop="20260312153000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312153000 +0800" stop="20260312160000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312160000 +0800" stop="20260312163000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312163000 +0800" stop="20260312170000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312170000 +0800" stop="20260312173000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312173000 +0800" stop="20260312180000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312180000 +0800" stop="20260312183000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312183000 +0800" stop="20260312190000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312190000 +0800" stop="20260312193000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312193000 +0800" stop="20260312200000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312200000 +0800" stop="20260312203000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312203000 +0800" stop="20260312210000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312210000 +0800" stop="20260312213000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312213000 +0800" stop="20260312220000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312220000 +0800" stop="20260312223000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312223000 +0800" stop="20260312230000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312230000 +0800" stop="20260312233000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260312233000 +0800" stop="20260313000000 +0800">
+		<title lang="zh">娱乐新闻报道[粤]</title>
+	</programme>
+	<programme channel="TVB娱乐新闻" start="20260313000000 +0800" stop="20260314000000 +0800">
 		<title lang="zh">娱乐新闻报道[粤]</title>
 	</programme>
 	<channel id="无线新闻">
 		<display-name lang="zh">无线新闻</display-name>
 	</channel>
-	<programme channel="无线新闻" start="20260305000000 +0800" stop="20260305003000 +0800">
-		<title lang="zh">深宵新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305003000 +0800" stop="20260305010000 +0800">
-		<title lang="zh">深宵新闻报道 及 航拍中国 及 时事中国 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305010000 +0800" stop="20260305013000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305013000 +0800" stop="20260305020000 +0800">
-		<title lang="zh">深宵新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305020000 +0800" stop="20260305023000 +0800">
-		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305023000 +0800" stop="20260305030000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305030000 +0800" stop="20260305033000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305033000 +0800" stop="20260305040000 +0800">
-		<title lang="zh">深宵新闻报道 及 航拍中国 及 时事中国</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305040000 +0800" stop="20260305043000 +0800">
-		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305043000 +0800" stop="20260305050000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305050000 +0800" stop="20260305053000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305053000 +0800" stop="20260305060000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305060000 +0800" stop="20260305063000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305063000 +0800" stop="20260305070000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305070000 +0800" stop="20260305073000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305073000 +0800" stop="20260305074000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305074000 +0800" stop="20260305074500 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305074500 +0800" stop="20260305083000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305083000 +0800" stop="20260305085500 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305085500 +0800" stop="20260305093000 +0800">
-		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305093000 +0800" stop="20260305100000 +0800">
-		<title lang="zh">开市第一击 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305100000 +0800" stop="20260305103000 +0800">
-		<title lang="zh">新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305103000 +0800" stop="20260305104500 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305104500 +0800" stop="20260305110000 +0800">
-		<title lang="zh">新闻报道 及 环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305110000 +0800" stop="20260305113000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305113000 +0800" stop="20260305120000 +0800">
-		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报 及 时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305120000 +0800" stop="20260305123000 +0800">
-		<title lang="zh">午间新闻 及 好嘢港多啲</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305123000 +0800" stop="20260305130000 +0800">
-		<title lang="zh">午间新闻 及 时事多面睇</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305130000 +0800" stop="20260305133000 +0800">
-		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影 及 时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305133000 +0800" stop="20260305140000 +0800">
-		<title lang="zh">新闻报道 及 保诚保险呈献: AI时代,让子女世界放大 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305140000 +0800" stop="20260305143000 +0800">
-		<title lang="zh">新闻报道 及 楼盘新视野之走进黄金海湾 及 新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305143000 +0800" stop="20260305150000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305150000 +0800" stop="20260305153000 +0800">
-		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305153000 +0800" stop="20260305160000 +0800">
-		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305160000 +0800" stop="20260305163000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305163000 +0800" stop="20260305170000 +0800">
-		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305170000 +0800" stop="20260305173000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305173000 +0800" stop="20260305180000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305180000 +0800" stop="20260305183000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305183000 +0800" stop="20260305190000 +0800">
-		<title lang="zh">手语新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305190000 +0800" stop="20260305193000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305193000 +0800" stop="20260305200000 +0800">
-		<title lang="zh">无线7:30 一小时新闻</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305200000 +0800" stop="20260305203000 +0800">
-		<title lang="zh">时事中国 及 无线7:30 一小时新闻 及 立桥人寿特约: 天气报告</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305203000 +0800" stop="20260305210000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305210000 +0800" stop="20260305212000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305212000 +0800" stop="20260305213000 +0800">
-		<title lang="zh">富途证券特约: 牛牛讲美股</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305213000 +0800" stop="20260305215500 +0800">
-		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305215500 +0800" stop="20260305220000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305220000 +0800" stop="20260305223000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 保诚保险呈献: AI时代,让子女世界放大 及 时事通识</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305223000 +0800" stop="20260305224000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305224000 +0800" stop="20260305230000 +0800">
-		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305230000 +0800" stop="20260305233000 +0800">
-		<title lang="zh">晚间新闻 及 有理说得清 及 大国外交</title>
-	</programme>
-	<programme channel="无线新闻" start="20260305233000 +0800" stop="20260306000000 +0800">
-		<title lang="zh">晚间新闻 及 时事通识</title>
-	</programme>
 	<programme channel="无线新闻" start="20260306000000 +0800" stop="20260306003000 +0800">
 		<title lang="zh">深宵新闻报道 及 新闻档案</title>
 	</programme>
@@ -5895,7 +4839,916 @@
 	<programme channel="无线新闻" start="20260311233000 +0800" stop="20260312000000 +0800">
 		<title lang="zh">晚间新闻 及 时事通识</title>
 	</programme>
-	<programme channel="无线新闻" start="20260312000000 +0800" stop="20260313000000 +0800">
+	<programme channel="无线新闻" start="20260312000000 +0800" stop="20260312003000 +0800">
 		<title lang="zh">深宵新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312003000 +0800" stop="20260312010000 +0800">
+		<title lang="zh">深宵新闻报道 及 航拍中国 及 时事中国 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312010000 +0800" stop="20260312013000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312013000 +0800" stop="20260312020000 +0800">
+		<title lang="zh">深宵新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312020000 +0800" stop="20260312023000 +0800">
+		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312023000 +0800" stop="20260312030000 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312030000 +0800" stop="20260312033000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312033000 +0800" stop="20260312040000 +0800">
+		<title lang="zh">深宵新闻报道 及 航拍中国 及 时事中国</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312040000 +0800" stop="20260312043000 +0800">
+		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312043000 +0800" stop="20260312050000 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312050000 +0800" stop="20260312053000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312053000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312060000 +0800" stop="20260312063000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312063000 +0800" stop="20260312070000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312070000 +0800" stop="20260312073000 +0800">
+		<title lang="zh">香港早晨</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312073000 +0800" stop="20260312074000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312074000 +0800" stop="20260312074500 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312074500 +0800" stop="20260312083000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312083000 +0800" stop="20260312090000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312090000 +0800" stop="20260312093000 +0800">
+		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312093000 +0800" stop="20260312100000 +0800">
+		<title lang="zh">开市第一击 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312100000 +0800" stop="20260312103000 +0800">
+		<title lang="zh">新闻报道 及 时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312103000 +0800" stop="20260312104500 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312104500 +0800" stop="20260312110000 +0800">
+		<title lang="zh">新闻报道 及 环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312110000 +0800" stop="20260312113000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312113000 +0800" stop="20260312120000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报 及 时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312120000 +0800" stop="20260312123000 +0800">
+		<title lang="zh">午间新闻 及 好嘢港多啲</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312123000 +0800" stop="20260312130000 +0800">
+		<title lang="zh">午间新闻 及 时事多面睇</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312130000 +0800" stop="20260312133000 +0800">
+		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影 及 时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312133000 +0800" stop="20260312140000 +0800">
+		<title lang="zh">新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312140000 +0800" stop="20260312143000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312143000 +0800" stop="20260312150000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312150000 +0800" stop="20260312153000 +0800">
+		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312153000 +0800" stop="20260312160000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312160000 +0800" stop="20260312163000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312163000 +0800" stop="20260312170000 +0800">
+		<title lang="zh">新闻报道 及 航拍中国 及 中华掠影</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312170000 +0800" stop="20260312173000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312173000 +0800" stop="20260312180000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312180000 +0800" stop="20260312183000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312183000 +0800" stop="20260312190000 +0800">
+		<title lang="zh">手语新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312190000 +0800" stop="20260312193000 +0800">
+		<title lang="zh">新闻报道</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312193000 +0800" stop="20260312200000 +0800">
+		<title lang="zh">无线7:30 一小时新闻</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312200000 +0800" stop="20260312203000 +0800">
+		<title lang="zh">时事中国 及 无线7:30 一小时新闻 及 立桥人寿特约: 天气报告</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312203000 +0800" stop="20260312210000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312210000 +0800" stop="20260312212000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312212000 +0800" stop="20260312213000 +0800">
+		<title lang="zh">富途证券特约: 牛牛讲美股</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312213000 +0800" stop="20260312215500 +0800">
+		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312215500 +0800" stop="20260312220000 +0800">
+		<title lang="zh">环球新闻档案</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312220000 +0800" stop="20260312223000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312223000 +0800" stop="20260312224000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312224000 +0800" stop="20260312230000 +0800">
+		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312230000 +0800" stop="20260312233000 +0800">
+		<title lang="zh">晚间新闻 及 有理说得清 及 大国外交</title>
+	</programme>
+	<programme channel="无线新闻" start="20260312233000 +0800" stop="20260313000000 +0800">
+		<title lang="zh">晚间新闻 及 时事通识</title>
+	</programme>
+	<programme channel="无线新闻" start="20260313000000 +0800" stop="20260314000000 +0800">
+		<title lang="zh">深宵新闻报道 及 新闻档案</title>
+	</programme>
+	<channel id="Viutv">
+		<display-name lang="zh">Viutv</display-name>
+	</channel>
+	<programme channel="Viutv" start="20260306003000 +0800" stop="20260306010000 +0800">
+		<title lang="zh">1 TAKE过 第4集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306010000 +0800" stop="20260306013000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1497集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306013000 +0800" stop="20260306023000 +0800">
+		<title lang="zh">盗贼：七个朝鲜通宝 第4集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306023000 +0800" stop="20260306030000 +0800">
+		<title lang="zh">深宵新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260306030000 +0800" stop="20260306040000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306040000 +0800" stop="20260306042500 +0800">
+		<title lang="zh">晚吹 - Chat KP 第64集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306042500 +0800" stop="20260306043000 +0800">
+		<title lang="zh">3 分钟热度 第1313集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306043000 +0800" stop="20260306050000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1497集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306050000 +0800" stop="20260306060000 +0800">
+		<title lang="zh">惜花芷 第40集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306060000 +0800" stop="20260306090000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260306090000 +0800" stop="20260306093000 +0800">
+		<title lang="zh">国识商通 第148集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306093000 +0800" stop="20260306110000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260306110000 +0800" stop="20260306113000 +0800">
+		<title lang="zh">智富通 第456集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306113000 +0800" stop="20260306120000 +0800">
+		<title lang="zh">新年流流返乜工 第10集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306120000 +0800" stop="20260306123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260306123000 +0800" stop="20260306125500 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306125500 +0800" stop="20260306130000 +0800">
+		<title lang="zh">3 分钟热度 第1313集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306130000 +0800" stop="20260306133000 +0800">
+		<title lang="zh">环保发现号 第78集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306133000 +0800" stop="20260306140000 +0800">
+		<title lang="zh">730 玩返转 第163集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306140000 +0800" stop="20260306150000 +0800">
+		<title lang="zh">法与情 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306150000 +0800" stop="20260306160000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260306160000 +0800" stop="20260306163000 +0800">
+		<title lang="zh">妖怪手表 第119集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306163000 +0800" stop="20260306170000 +0800">
+		<title lang="zh">恐龙大牧场 第14集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306170000 +0800" stop="20260306173000 +0800">
+		<title lang="zh">莫利地下冒险 第4集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306173000 +0800" stop="20260306180000 +0800">
+		<title lang="zh">杏林在线 第507集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306180000 +0800" stop="20260306183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260306183000 +0800" stop="20260306190000 +0800">
+		<title lang="zh">熨斗家族 第76集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306190000 +0800" stop="20260306193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260306193000 +0800" stop="20260306200000 +0800">
+		<title lang="zh">730 玩返转 第164集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306200000 +0800" stop="20260306203000 +0800">
+		<title lang="zh">细事都被你看透 第57集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306203000 +0800" stop="20260306213000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306213000 +0800" stop="20260306223000 +0800">
+		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306223000 +0800" stop="20260306230000 +0800">
+		<title lang="zh">大龙凤 第5集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306230000 +0800" stop="20260306233000 +0800">
+		<title lang="zh">晚吹 - 总有一瓣喺左近 第429集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260306233000 +0800" stop="20260306233500 +0800">
+		<title lang="zh">3 分钟热度 第1314集</title>
+	</programme>
+	<programme channel="Viutv" start="20260306233500 +0800" stop="20260307003000 +0800">
+		<title lang="zh">亲爱坏蛋 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307003000 +0800" stop="20260307010000 +0800">
+		<title lang="zh">1 TAKE过 第5集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307010000 +0800" stop="20260307013000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307013000 +0800" stop="20260307023000 +0800">
+		<title lang="zh">盗贼：七个朝鲜通宝 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307023000 +0800" stop="20260307030000 +0800">
+		<title lang="zh">深宵新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260307030000 +0800" stop="20260307040000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307040000 +0800" stop="20260307042500 +0800">
+		<title lang="zh">晚吹 - 总有一瓣喺左近 第429集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307042500 +0800" stop="20260307043000 +0800">
+		<title lang="zh">3 分钟热度 第1314集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307043000 +0800" stop="20260307050000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1498集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307050000 +0800" stop="20260307060000 +0800">
+		<title lang="zh">锦绣安宁 第1集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307060000 +0800" stop="20260307080000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260307080000 +0800" stop="20260307083000 +0800">
+		<title lang="zh">甜爷爷 第1集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307083000 +0800" stop="20260307090000 +0800">
+		<title lang="zh">执屋 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307090000 +0800" stop="20260307093000 +0800">
+		<title lang="zh">踢馆 第14集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307093000 +0800" stop="20260307100000 +0800">
+		<title lang="zh">超级守护者：拯救北极 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307100000 +0800" stop="20260307103000 +0800">
+		<title lang="zh">妳想生活 第13集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307103000 +0800" stop="20260307130000 +0800">
+		<title lang="zh">NBA 常规赛 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307130000 +0800" stop="20260307133000 +0800">
+		<title lang="zh">单车踩爆日本 -落山极限挑战</title>
+	</programme>
+	<programme channel="Viutv" start="20260307133000 +0800" stop="20260307143000 +0800">
+		<title lang="zh">FWD 富卫保险呈献: CHILL CLUB 第298集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307143000 +0800" stop="20260307150000 +0800">
+		<title lang="zh">手寻艺术 第24集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307150000 +0800" stop="20260307153000 +0800">
+		<title lang="zh">日本GAO芯假期 第10集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307153000 +0800" stop="20260307160000 +0800">
+		<title lang="zh">厨神奶奶是你妈 第15集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307160000 +0800" stop="20260307163000 +0800">
+		<title lang="zh">MM730 - 困兽斗 第2集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307163000 +0800" stop="20260307170000 +0800">
+		<title lang="zh">熊熊帮帮团 2 第24集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307170000 +0800" stop="20260307173000 +0800">
+		<title lang="zh">光之美少女偶像与你 第46集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307173000 +0800" stop="20260307180000 +0800">
+		<title lang="zh">世界之「趣」 第59集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307180000 +0800" stop="20260307183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260307183000 +0800" stop="20260307190000 +0800">
+		<title lang="zh">大鸣大放 第955集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307190000 +0800" stop="20260307193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260307193000 +0800" stop="20260307200000 +0800">
+		<title lang="zh">生活小贴士 第3集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307200000 +0800" stop="20260307203000 +0800">
+		<title lang="zh">本周快闪人口 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260307203000 +0800" stop="20260307224500 +0800">
+		<title lang="zh">宝矿力水特电解质水 ion water 呈献: 周六好戏势: 金鸡2</title>
+	</programme>
+	<programme channel="Viutv" start="20260307224500 +0800" stop="20260307234500 +0800">
+		<title lang="zh">恶作剧之王 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260307234500 +0800" stop="20260308001500 +0800">
+		<title lang="zh">僵尸100～在成为僵尸前要做的100件事～ 第10集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308001500 +0800" stop="20260308023000 +0800">
+		<title lang="zh">为你钟情</title>
+	</programme>
+	<programme channel="Viutv" start="20260308023000 +0800" stop="20260308030000 +0800">
+		<title lang="zh">返归啦俄仔 第10集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308030000 +0800" stop="20260308033000 +0800">
+		<title lang="zh">厨神奶奶是你妈 第15集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308033000 +0800" stop="20260308040000 +0800">
+		<title lang="zh">文艺志 第49集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308040000 +0800" stop="20260308043000 +0800">
+		<title lang="zh">菁新力量 第9集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308043000 +0800" stop="20260308050000 +0800">
+		<title lang="zh">环保发现号 第78集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308050000 +0800" stop="20260308053000 +0800">
+		<title lang="zh">执屋 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308053000 +0800" stop="20260308060000 +0800">
+		<title lang="zh">甜爷爷 第1集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308060000 +0800" stop="20260308080000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260308080000 +0800" stop="20260308083000 +0800">
+		<title lang="zh">GO！执！事务所 第15集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308083000 +0800" stop="20260308090000 +0800">
+		<title lang="zh">老友记实用手册 第31集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308090000 +0800" stop="20260308093000 +0800">
+		<title lang="zh">双线运动人生 第30集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308093000 +0800" stop="20260308100000 +0800">
+		<title lang="zh">Bandai 呈献: No.1战队五兽者 第41集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308100000 +0800" stop="20260308103000 +0800">
+		<title lang="zh">舔舔脷·讲讲理 第20集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308103000 +0800" stop="20260308110000 +0800">
+		<title lang="zh">返学啦老豆 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308110000 +0800" stop="20260308113000 +0800">
+		<title lang="zh">Bandai 呈献: 幪面超人 ZEZTZ 第24集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308113000 +0800" stop="20260308120000 +0800">
+		<title lang="zh">声的筑城者 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308120000 +0800" stop="20260308123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260308123000 +0800" stop="20260308130000 +0800">
+		<title lang="zh">云端对谈 第四系列 第8集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308130000 +0800" stop="20260308133000 +0800">
+		<title lang="zh">为食家族 第5集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308133000 +0800" stop="20260308140000 +0800">
+		<title lang="zh">山旮旯拯救队 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308140000 +0800" stop="20260308143000 +0800">
+		<title lang="zh">瘾营人 第9集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308143000 +0800" stop="20260308153000 +0800">
+		<title lang="zh">瀛知有密 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308153000 +0800" stop="20260308160000 +0800">
+		<title lang="zh">巴丝Let’s go欧 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308160000 +0800" stop="20260308163000 +0800">
+		<title lang="zh">我哋都系香港人 第4集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308163000 +0800" stop="20260308170000 +0800">
+		<title lang="zh">爆旋陀螺X 第3季 第112集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308170000 +0800" stop="20260308173000 +0800">
+		<title lang="zh">菲梦少女 第12集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308173000 +0800" stop="20260308180000 +0800">
+		<title lang="zh">也文也武同学仔 第26集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308180000 +0800" stop="20260308183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260308183000 +0800" stop="20260308190000 +0800">
+		<title lang="zh">大鸣大放 第956集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308190000 +0800" stop="20260308193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260308193000 +0800" stop="20260308200000 +0800">
+		<title lang="zh">经纬线 第495集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308200000 +0800" stop="20260308203000 +0800">
+		<title lang="zh">别在蒙古蒙查查 第1集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308203000 +0800" stop="20260308213000 +0800">
+		<title lang="zh">我想身体健康 第117集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260308213000 +0800" stop="20260308223000 +0800">
+		<title lang="zh">FWD 富卫保险呈献: CHILL CLUB 第299集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308223000 +0800" stop="20260308233000 +0800">
+		<title lang="zh">人类观察学 第68集</title>
+	</programme>
+	<programme channel="Viutv" start="20260308233000 +0800" stop="20260309000000 +0800">
+		<title lang="zh">蜡笔小新 第247集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309000000 +0800" stop="20260309003000 +0800">
+		<title lang="zh">冲绳任你点 第15集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309003000 +0800" stop="20260309020000 +0800">
+		<title lang="zh">蹦蹦地球游戏室 第1集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309020000 +0800" stop="20260309033000 +0800">
+		<title lang="zh">蹦蹦地球游戏室 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309033000 +0800" stop="20260309040000 +0800">
+		<title lang="zh">环保发现号 第78集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309040000 +0800" stop="20260309043000 +0800">
+		<title lang="zh">声的筑城者 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309043000 +0800" stop="20260309050000 +0800">
+		<title lang="zh">我哋都系香港人 第4集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309050000 +0800" stop="20260309053000 +0800">
+		<title lang="zh">双线运动人生 第30集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309053000 +0800" stop="20260309060000 +0800">
+		<title lang="zh">设计新态度 第36集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309060000 +0800" stop="20260309090000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260309090000 +0800" stop="20260309093000 +0800">
+		<title lang="zh">菁新力量 第10集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309093000 +0800" stop="20260309110000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260309110000 +0800" stop="20260309113000 +0800">
+		<title lang="zh">智富通 第457集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309113000 +0800" stop="20260309120000 +0800">
+		<title lang="zh">新年流流返乜工 第11集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309120000 +0800" stop="20260309123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260309123000 +0800" stop="20260309125500 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309125500 +0800" stop="20260309130000 +0800">
+		<title lang="zh">3 分钟热度 第1314集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309130000 +0800" stop="20260309133000 +0800">
+		<title lang="zh">设计新浪潮II 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309133000 +0800" stop="20260309140000 +0800">
+		<title lang="zh">730 玩返转 第164集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309140000 +0800" stop="20260309150000 +0800">
+		<title lang="zh">法与情 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309150000 +0800" stop="20260309160000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260309160000 +0800" stop="20260309163000 +0800">
+		<title lang="zh">百变小露露8 第9集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309163000 +0800" stop="20260309170000 +0800">
+		<title lang="zh">冲锋战士 第4集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309170000 +0800" stop="20260309173000 +0800">
+		<title lang="zh">超级小熊布迷 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309173000 +0800" stop="20260309180000 +0800">
+		<title lang="zh">一语千金 第4集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309180000 +0800" stop="20260309183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260309183000 +0800" stop="20260309190000 +0800">
+		<title lang="zh">熨斗家族 第77集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309190000 +0800" stop="20260309193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260309193000 +0800" stop="20260309200000 +0800">
+		<title lang="zh">730 玩返转 第165集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309200000 +0800" stop="20260309203000 +0800">
+		<title lang="zh">斗煮对对碰 第1集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309203000 +0800" stop="20260309213000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309213000 +0800" stop="20260309223000 +0800">
+		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309223000 +0800" stop="20260309230000 +0800">
+		<title lang="zh">大龙凤 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309230000 +0800" stop="20260309233000 +0800">
+		<title lang="zh">晚吹 - 怨女俱乐部 第46集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260309233000 +0800" stop="20260309233500 +0800">
+		<title lang="zh">3 分钟热度 第1315集</title>
+	</programme>
+	<programme channel="Viutv" start="20260309233500 +0800" stop="20260310003000 +0800">
+		<title lang="zh">亲爱坏蛋 第3集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310003000 +0800" stop="20260310010000 +0800">
+		<title lang="zh">1 TAKE过 第6集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310010000 +0800" stop="20260310013000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310013000 +0800" stop="20260310023000 +0800">
+		<title lang="zh">盗贼：七个朝鲜通宝 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310023000 +0800" stop="20260310030000 +0800">
+		<title lang="zh">深宵新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260310030000 +0800" stop="20260310040000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310040000 +0800" stop="20260310042500 +0800">
+		<title lang="zh">晚吹 - 怨女俱乐部 第46集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310042500 +0800" stop="20260310043000 +0800">
+		<title lang="zh">3 分钟热度 第1315集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310043000 +0800" stop="20260310050000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1499集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310050000 +0800" stop="20260310060000 +0800">
+		<title lang="zh">锦绣安宁 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310060000 +0800" stop="20260310090000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260310090000 +0800" stop="20260310093000 +0800">
+		<title lang="zh">设计新态度 第36集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310093000 +0800" stop="20260310110000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260310110000 +0800" stop="20260310113000 +0800">
+		<title lang="zh">智富通 第458集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310113000 +0800" stop="20260310120000 +0800">
+		<title lang="zh">新年流流返乜工 第12集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310120000 +0800" stop="20260310123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260310123000 +0800" stop="20260310125500 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310125500 +0800" stop="20260310130000 +0800">
+		<title lang="zh">3 分钟热度 第1315集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310130000 +0800" stop="20260310133000 +0800">
+		<title lang="zh">文艺志 第50集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310133000 +0800" stop="20260310140000 +0800">
+		<title lang="zh">730 玩返转 第165集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310140000 +0800" stop="20260310150000 +0800">
+		<title lang="zh">法与情 第9集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310150000 +0800" stop="20260310160000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260310160000 +0800" stop="20260310163000 +0800">
+		<title lang="zh">百变小露露8 第10集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310163000 +0800" stop="20260310170000 +0800">
+		<title lang="zh">冲锋战士 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310170000 +0800" stop="20260310173000 +0800">
+		<title lang="zh">超级小熊布迷 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310173000 +0800" stop="20260310180000 +0800">
+		<title lang="zh">一周睇楼团 第269集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310180000 +0800" stop="20260310183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260310183000 +0800" stop="20260310190000 +0800">
+		<title lang="zh">熨斗家族 第78集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310190000 +0800" stop="20260310193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260310193000 +0800" stop="20260310200000 +0800">
+		<title lang="zh">730 玩返转 第166集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310200000 +0800" stop="20260310203000 +0800">
+		<title lang="zh">斗煮对对碰 第2集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310203000 +0800" stop="20260310213000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310213000 +0800" stop="20260310223000 +0800">
+		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310223000 +0800" stop="20260310230000 +0800">
+		<title lang="zh">大龙凤 第7集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310230000 +0800" stop="20260310233000 +0800">
+		<title lang="zh">晚吹 </title>
+	</programme>
+	<programme channel="Viutv" start="20260310233000 +0800" stop="20260310233500 +0800">
+		<title lang="zh">3 分钟热度 第1316集</title>
+	</programme>
+	<programme channel="Viutv" start="20260310233500 +0800" stop="20260311003000 +0800">
+		<title lang="zh">亲爱坏蛋 第4集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311003000 +0800" stop="20260311010000 +0800">
+		<title lang="zh">1 TAKE过 第7集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311010000 +0800" stop="20260311013000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311013000 +0800" stop="20260311023000 +0800">
+		<title lang="zh">盗贼：七个朝鲜通宝 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311023000 +0800" stop="20260311030000 +0800">
+		<title lang="zh">深宵新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260311030000 +0800" stop="20260311040000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311040000 +0800" stop="20260311042500 +0800">
+		<title lang="zh">晚吹 - 男人乱讲嘢 第21集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311042500 +0800" stop="20260311043000 +0800">
+		<title lang="zh">3 分钟热度 第1316集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311043000 +0800" stop="20260311050000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1500集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311050000 +0800" stop="20260311060000 +0800">
+		<title lang="zh">锦绣安宁 第3集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311060000 +0800" stop="20260311090000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260311090000 +0800" stop="20260311093000 +0800">
+		<title lang="zh">环保发现号 第78集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311093000 +0800" stop="20260311110000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260311110000 +0800" stop="20260311113000 +0800">
+		<title lang="zh">智富通 第459集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311113000 +0800" stop="20260311120000 +0800">
+		<title lang="zh">新年流流返乜工 第13集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311120000 +0800" stop="20260311123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260311123000 +0800" stop="20260311125500 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1501集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311125500 +0800" stop="20260311130000 +0800">
+		<title lang="zh">3 分钟热度 第1316集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311130000 +0800" stop="20260311133000 +0800">
+		<title lang="zh">给香港的情书 第9集 -香港本地毡酒品牌始创人 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311133000 +0800" stop="20260311140000 +0800">
+		<title lang="zh">730 玩返转 第166集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311140000 +0800" stop="20260311150000 +0800">
+		<title lang="zh">法与情 第10集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311150000 +0800" stop="20260311160000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260311160000 +0800" stop="20260311163000 +0800">
+		<title lang="zh">百变小露露8 第11集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311163000 +0800" stop="20260311170000 +0800">
+		<title lang="zh">冲锋战士 第6集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311170000 +0800" stop="20260311173000 +0800">
+		<title lang="zh">超级小熊布迷 第7集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311173000 +0800" stop="20260311180000 +0800">
+		<title lang="zh">双线运动人生 第31集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311180000 +0800" stop="20260311183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260311183000 +0800" stop="20260311190000 +0800">
+		<title lang="zh">熨斗家族 第79集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311190000 +0800" stop="20260311193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260311193000 +0800" stop="20260311200000 +0800">
+		<title lang="zh">730 玩返转 第167集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311200000 +0800" stop="20260311203000 +0800">
+		<title lang="zh">斗煮对对碰 第3集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311203000 +0800" stop="20260311213000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第9集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311213000 +0800" stop="20260311223000 +0800">
+		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第8集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311223000 +0800" stop="20260311230000 +0800">
+		<title lang="zh">大龙凤 第8集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311230000 +0800" stop="20260311233000 +0800">
+		<title lang="zh">晚吹 </title>
+	</programme>
+	<programme channel="Viutv" start="20260311233000 +0800" stop="20260311233500 +0800">
+		<title lang="zh">3 分钟热度 第1317集</title>
+	</programme>
+	<programme channel="Viutv" start="20260311233500 +0800" stop="20260312003000 +0800">
+		<title lang="zh">亲爱坏蛋 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312003000 +0800" stop="20260312010000 +0800">
+		<title lang="zh">1 TAKE过 第8集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312010000 +0800" stop="20260312013000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1501集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312013000 +0800" stop="20260312023000 +0800">
+		<title lang="zh">盗贼：七个朝鲜通宝 第8集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312023000 +0800" stop="20260312030000 +0800">
+		<title lang="zh">深宵新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260312030000 +0800" stop="20260312040000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第9集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312040000 +0800" stop="20260312042500 +0800">
+		<title lang="zh">晚吹 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312042500 +0800" stop="20260312043000 +0800">
+		<title lang="zh">3 分钟热度 第1317集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312043000 +0800" stop="20260312050000 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1501集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312050000 +0800" stop="20260312060000 +0800">
+		<title lang="zh">锦绣安宁 第4集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312060000 +0800" stop="20260312090000 +0800">
+		<title lang="zh">早晨新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260312090000 +0800" stop="20260312093000 +0800">
+		<title lang="zh">文艺志 第50集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312093000 +0800" stop="20260312110000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260312110000 +0800" stop="20260312113000 +0800">
+		<title lang="zh">智富通 第460集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312113000 +0800" stop="20260312120000 +0800">
+		<title lang="zh">新年流流返乜工 第14集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312120000 +0800" stop="20260312123000 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="Viutv" start="20260312123000 +0800" stop="20260312125500 +0800">
+		<title lang="zh">FWD富卫保险呈献: CHILL CLUB 推介 第1502集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312125500 +0800" stop="20260312130000 +0800">
+		<title lang="zh">3 分钟热度 第1317集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312130000 +0800" stop="20260312133000 +0800">
+		<title lang="zh">菁新力量 第11集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312133000 +0800" stop="20260312140000 +0800">
+		<title lang="zh">730 玩返转 第167集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312140000 +0800" stop="20260312150000 +0800">
+		<title lang="zh">法与情 第11集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312150000 +0800" stop="20260312160000 +0800">
+		<title lang="zh">交易时段</title>
+	</programme>
+	<programme channel="Viutv" start="20260312160000 +0800" stop="20260312163000 +0800">
+		<title lang="zh">妖怪手表 第120集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312163000 +0800" stop="20260312170000 +0800">
+		<title lang="zh">恐龙大牧场 第15集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312170000 +0800" stop="20260312173000 +0800">
+		<title lang="zh">莫利地下冒险 第5集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312173000 +0800" stop="20260312180000 +0800">
+		<title lang="zh">设计新态度 第37集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312180000 +0800" stop="20260312183000 +0800">
+		<title lang="zh">6点新闻报道 (手语新闻)</title>
+	</programme>
+	<programme channel="Viutv" start="20260312183000 +0800" stop="20260312190000 +0800">
+		<title lang="zh">熨斗家族 第80集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312190000 +0800" stop="20260312193000 +0800">
+		<title lang="zh">7点新闻报道</title>
+	</programme>
+	<programme channel="Viutv" start="20260312193000 +0800" stop="20260312200000 +0800">
+		<title lang="zh">730 玩返转 第168集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312200000 +0800" stop="20260312203000 +0800">
+		<title lang="zh">斗煮对对碰 第4集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312203000 +0800" stop="20260312213000 +0800">
+		<title lang="zh">德国宝入伙专家呈献: 我夺走了公爵的初夜 第10集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312213000 +0800" stop="20260312223000 +0800">
+		<title lang="zh">UA 亚洲联合财务呈献: 足球女将 2 第9集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312223000 +0800" stop="20260312230000 +0800">
+		<title lang="zh">大龙凤 第9集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312230000 +0800" stop="20260312233000 +0800">
+		<title lang="zh">晚吹 - Chat KP 第65集 </title>
+	</programme>
+	<programme channel="Viutv" start="20260312233000 +0800" stop="20260312233500 +0800">
+		<title lang="zh">3 分钟热度 第1318集</title>
+	</programme>
+	<programme channel="Viutv" start="20260312233500 +0800" stop="20260313000000 +0800">
+		<title lang="zh">亲爱坏蛋 第6集</title>
 	</programme>
 </tv>
