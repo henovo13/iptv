@@ -60,9 +60,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/TVBPlus.png",TVBPlus
 https://stream1.freetv.fun/tvb-j2-2.ctv
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/HOY77.png",HOY77
-http://rihou.cc:555/tv/[Pd]有线综合
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/HOY77.png",HOY77
 http://rihou.cc:555/tv/[Cx]有线综合
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/HOY77.png",HOY77
+http://rihou.cc:555/tv/[Pd]有线综合
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/HOY77.png",HOY77
 http://r.jdshipin.com/sFw4S
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/HOY77.png",HOY77
