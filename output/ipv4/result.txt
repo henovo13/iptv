@@ -1,12 +1,11 @@
 ,#genre#
-CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
 CCTV16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-CCTV16,http://111.56.90.5/000000000000/1000000006000233001/1.m3u8
 翡翠台,rtmp://nowast.net/live/yifatv-jade01
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 TVBPlus,http://rihou.cc:555/tv/[Pd]Plus综合
