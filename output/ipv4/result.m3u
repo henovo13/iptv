@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
+http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
@@ -15,21 +15,7 @@ rtmp://nowast.net/live/yifatv-jade01
 rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/翡翠台.png",翡翠台
 rtmp://223.76.215.33/live/xaingjiaoge-jade
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/翡翠台.png",翡翠台
-https://test.946985.filegear-sg.me/proxy/ae913627eb638594
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/翡翠台.png",翡翠台
-https://pixman.passwdwork.cc.cd/proxy/57f2ebcfe2785671.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/TVBPlus.png",TVBPlus
 http://rihou.cc:555/tv/[Pd]Plus综合
-#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/TVBPlus.png",TVBPlus
-https://test.946985.filegear-sg.me/proxy/fc3a00da73d24429
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/美亚电影.png",美亚电影
-https://pixman.passwdwork.cc.cd/proxy/55cea032f24219d7.m3u8
-#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/美亚电影.png",美亚电影
-https://test.946985.filegear-sg.me/proxy/c1ef89d2aa5924f0
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/无线新闻.png",无线新闻
 rtmp://nowast.net/live/yifatv-wxxw01
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/无线新闻.png",无线新闻
-https://test.946985.filegear-sg.me/proxy/0018347af31503c6
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/无线新闻.png",无线新闻
-https://pixman.passwdwork.cc.cd/proxy/f7d0685ecbdf1d5e.m3u8
