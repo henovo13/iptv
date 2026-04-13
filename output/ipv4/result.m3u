@@ -5,8 +5,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV16.png",CCTV16
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/翡翠台.png",翡翠台
