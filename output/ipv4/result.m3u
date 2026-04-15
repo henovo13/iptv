@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5.png",CCTV5
+http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/refs/heads/main/png/CCTV5+.png",CCTV5+
