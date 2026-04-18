@@ -2,9 +2,8 @@ Name: 翡翠台, URL: rtmp://nowast.net/live/yifatv-jade01, From: subscribe, IPv
 Name: 翡翠台, URL: rtmp://demo2.anj365.com/live/xiangjiaoge-fc, From: subscribe, IPv_Type: ipv4, Location: 中国-浙江, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: rtmp://223.76.215.33/live/xaingjiaoge-jade, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-黄石, ISP: 移动, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 无线新闻, URL: rtmp://nowast.net/live/yifatv-wxxw01, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-苏州, ISP: 电信, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV5+, URL: http://107.150.60.122/live/cctv5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 1067 ms, Speed: 4.53 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1014 ms, Speed: 4.96 M/s, Resolution: 1920x1080
-Name: TVBPlus, URL: http://rihou.cc:555/tv/[Pd]Plus综合, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 142 ms, Speed: 5.52 M/s, Resolution: None
-Name: CCTV16, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1115 ms, Speed: 3.68 M/s, Resolution: 1920x1080
-Name: CCTV5+, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 1169 ms, Speed: 3.83 M/s, Resolution: 1920x1080
-Name: CCTV5, URL: http://107.150.60.122/live/cctv5hd.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 5769 ms, Speed: 0.16 M/s, Resolution: 1920x1080
+Name: CCTV5, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 397 ms, Speed: 10.02 M/s, Resolution: 1920x1080
+Name: CCTV5+, URL: http://107.150.60.122/live/cctv5p.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国-密苏里州-杰克逊县, ISP: NOCIX数据中心, Date: None, Delay: 501 ms, Speed: 9.34 M/s, Resolution: 1920x1080
+Name: CCTV16, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 585 ms, Speed: 6.40 M/s, Resolution: 1920x1080
+Name: CCTV5+, URL: http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 692 ms, Speed: 6.09 M/s, Resolution: 1920x1080
+Name: TVBPlus, URL: http://rihou.cc:555/tv/[Pd]Plus综合, From: subscribe, IPv_Type: ipv4, Location: 中国-福建-福州, ISP: 电信, Date: None, Delay: 43 ms, Speed: 20.19 M/s, Resolution: None
