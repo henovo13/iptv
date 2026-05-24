@@ -4,7 +4,7 @@
 
 <p>
   <br>
-  精减到只剩下寥寥几个台，体育台+粤语台；都设置好了，docker-compose也都修改过了直接用docker跑就行，docker compose up -d >>>>> ip:8888
+  精减到只剩下寥寥几个台，体育台+粤语台；都设置好了，docker-compose也都修改过了直接用docker跑就行，docker compose up -d 然后 ip:8888 
   
   ⚡️IPTV直播源自动更新平台，『🤖全自动采集、筛选、测速、生成🚀』，支持丰富的个性化配置，将结果地址输入播放器即可观看
 </p>
