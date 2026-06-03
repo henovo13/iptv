@@ -22,8 +22,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
 http://rihou.cc:555/tv/[Pd]Plus综合
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
 http://r.jdshipin.com/ndGgS
@@ -39,6 +37,8 @@ http://cdn.132.us.kg/live/tvbp/stream.m3u8
 https://hls-gateway.vpstv.net/streams/476932.m3u8
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
 https://hls-gateway.vpstv.net/streams/476923.m3u8
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/TVBPlus.png" group-title="喜爱的台",TVBPlus
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
 #EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/Viutv.png" group-title="喜爱的台",Viutv
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/Viutv.png" group-title="喜爱的台",Viutv
@@ -106,27 +106,25 @@ https://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/明珠台.png" group-title="喜爱的台",明珠台
 https://hls-gateway.vpstv.net/streams/476936.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-https://iptv.catvod.com/live.php?id=CCTV5&line=6
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+https://iptv.catvod.com/live.php?id=CCTV5&line=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
 https://iptv.catvod.com/live.php?id=CCTV5&line=8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
 https://iptv.catvod.com/live.php?id=CCTV5&line=10
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-https://iptv.catvod.com/live.php?id=CCTV5&line=1
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://iptv.catvod.com/live.php?id=CCTV5&line=6
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
-http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
-https://iptv.catvod.com/catvod?id=CCTV5%2B&line=1
+http://120.76.248.139/live/bfgd/4200000064.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
 http://107.150.60.122/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
@@ -134,55 +132,57 @@ http://198.204.228.26/live/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
+http://192.151.150.154/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
+https://iptv.catvod.com/catvod?id=CCTV5%2B&line=1
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
 http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
-https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
 https://live.264788.xyz/channel/cctv5p?streamid=223e1dc8d7606f14f535ccfca40dd137&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
-http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+https://live.264788.xyz/channel/cctv5p?streamid=98657a78f17179c4239d0009df18455c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
-http://74.91.26.218:82/live/cctv5p.m3u8
+http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://iptv.catvod.com/live.php?id=CCTV9&line=3
+http://198.204.228.26/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://iptv.catvod.com/live.php?id=CCTV9&line=5
+http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://iptv.catvod.com/live.php?id=CCTV9&line=4
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=25c0a56523dc33289ca79cb0ce6876f5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=9fb9358174c897392a181a9405abdfdc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=965471f22871b869185fa44895550cf6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-http://74.91.26.218:82/live/cctv9hd.m3u8
+http://107.150.60.122/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=556ccb45c4511efcbc1ed351b4b5651a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
-https://live.264788.xyz/channel/cctv9?streamid=849c59eb8f64e0b008b7d63ed949bd9a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://iptv.catvod.com/live.php?id=CCTV9&line=4
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+https://iptv.catvod.com/live.php?id=CCTV9&line=3
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+https://iptv.catvod.com/live.php?id=CCTV9&line=5
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
+http://198.204.228.26/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
 https://iptv.catvod.com/live.php?id=CCTV16&line=2
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-https://iptv.catvod.com/live.php?id=CCTV16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
 https://iptv.catvod.com/live.php?id=CCTV16&line=1
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=d1ef1cb15a9781aecd1fa91d03ab41ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://173.208.212.130:8181/1080p/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=8eb5a3dee64a6f1b00b9eb5c7cd2573a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/无线新闻.png" group-title="喜爱的台",无线新闻
