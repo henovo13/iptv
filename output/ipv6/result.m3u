@@ -1,4 +1,28 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5.png" group-title="喜爱的台",CCTV5
+https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV5+.png" group-title="喜爱的台",CCTV5+
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=8ffbfb6c71ef4dc9f9b61db4a55e6238&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260607070028&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=39.98.82.147&SecurityKey=20260607070028&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=af7bb04d970e8c461747f7b3d6444607&ddCalcu=7a0fv67a4bd4ba4064dd39b770fe784c7416&sv=10004&ct=android
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV9.png" group-title="喜爱的台",CCTV9
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
+https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
+https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CCTV16.png" group-title="喜爱的台",CCTV16
+http://emby.xlangnan.cn:10316/rtp/239.254.200.61:6344
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/翡翠台.png" group-title="喜爱的台",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/翡翠台.png" group-title="喜爱的台",翡翠台
