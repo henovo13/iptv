@@ -88,12 +88,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/明珠台.png" group-title="喜爱的台",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="亞洲新聞" tvg-name="亞洲新聞" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/亞洲新聞.png" group-title="喜爱的台",亞洲新聞
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
