@@ -1,221 +1,140 @@
 <?xml version="1.0" ?>
-<tv date="20260726054341 +0800">
+<tv date="20260727060239 +0800">
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
-	<programme channel="翡翠台" start="20260726000000 +0800" stop="20260726003500 +0800">
-		<title lang="zh">嘉里世界剑击锦标赛2026 中国香港[粤]</title>
+	<programme channel="翡翠台" start="20260727000000 +0800" stop="20260727011000 +0800">
+		<title lang="zh">廉政狙击#17[粤][PG]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726003500 +0800" stop="20260726010500 +0800">
-		<title lang="zh">美食新闻周报[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726010500 +0800" stop="20260726013500 +0800">
+	<programme channel="翡翠台" start="20260727011000 +0800" stop="20260727014000 +0800">
 		<title lang="zh">东张西望[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726013500 +0800" stop="20260726020500 +0800">
-		<title lang="zh">豪游咖啡[粤]</title>
+	<programme channel="翡翠台" start="20260727014000 +0800" stop="20260727031000 +0800">
+		<title lang="zh">初入职场·中医季[粤/普]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726020500 +0800" stop="20260726023500 +0800">
-		<title lang="zh">仨心友行 3[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726023500 +0800" stop="20260726030500 +0800">
-		<title lang="zh">寻找世界另一个我 台湾篇[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726030500 +0800" stop="20260726033500 +0800">
-		<title lang="zh">寻找世界另一个我 台湾篇[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726033500 +0800" stop="20260726040500 +0800">
-		<title lang="zh">我们的骄傲[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726040500 +0800" stop="20260726050000 +0800">
-		<title lang="zh">开心大综艺[粤][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726050000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">开心大综艺[粤][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726060000 +0800" stop="20260726063000 +0800">
-		<title lang="zh">粤讲粤㜺鬼[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726063000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">疯狂历史补习社[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726070000 +0800" stop="20260726073000 +0800">
-		<title lang="zh">Do姐有问题[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726073000 +0800" stop="20260726080000 +0800">
-		<title lang="zh">Do姐有问题[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726080000 +0800" stop="20260726090000 +0800">
-		<title lang="zh">文明启航[粤/英][PG]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726090000 +0800" stop="20260726093000 +0800">
-		<title lang="zh">星梦频道[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726093000 +0800" stop="20260726094500 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726094500 +0800" stop="20260726100000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊羊趣冒险[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726100000 +0800" stop="20260726103000 +0800">
-		<title lang="zh">多啦A梦[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726103000 +0800" stop="20260726110000 +0800">
-		<title lang="zh">LETS CAMP! 露营少女[粤/日]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726110000 +0800" stop="20260726113000 +0800">
-		<title lang="zh">讲清讲楚[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726113000 +0800" stop="20260726120000 +0800">
-		<title lang="zh">嫁到这世界边端[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726120000 +0800" stop="20260726123000 +0800">
-		<title lang="zh">教煮争霸[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726123000 +0800" stop="20260726130000 +0800">
-		<title lang="zh">教煮争霸[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726130000 +0800" stop="20260726131500 +0800">
-		<title lang="zh">午间新闻[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726131500 +0800" stop="20260726145000 +0800">
-		<title lang="zh">初入职场b7中医季[粤/普]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726145000 +0800" stop="20260726152000 +0800">
-		<title lang="zh">澳洲潮什么[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726152000 +0800" stop="20260726155500 +0800">
+	<programme channel="翡翠台" start="20260727031000 +0800" stop="20260727034000 +0800">
 		<title lang="zh">甜心先生[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726155500 +0800" stop="20260726160000 +0800">
+	<programme channel="翡翠台" start="20260727034000 +0800" stop="20260727040500 +0800">
+		<title lang="zh">嫁到这世界边端[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727040500 +0800" stop="20260727043500 +0800">
+		<title lang="zh">教煮争霸[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727043500 +0800" stop="20260727050000 +0800">
+		<title lang="zh">教煮争霸[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727050000 +0800" stop="20260727060000 +0800">
+		<title lang="zh">文明启航[粤/英][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727060000 +0800" stop="20260727074000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727074000 +0800" stop="20260727081000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727081000 +0800" stop="20260727084000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727084000 +0800" stop="20260727090000 +0800">
+		<title lang="zh">香港早晨[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727090000 +0800" stop="20260727100000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727100000 +0800" stop="20260727100500 +0800">
 		<title lang="zh">劲歌推介[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726160000 +0800" stop="20260726163000 +0800">
-		<title lang="zh">魔神创造传[粤/日]</title>
+	<programme channel="翡翠台" start="20260727100500 +0800" stop="20260727103500 +0800">
+		<title lang="zh">高朋满座#149[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726163000 +0800" stop="20260726170000 +0800">
+	<programme channel="翡翠台" start="20260727103500 +0800" stop="20260727114000 +0800">
+		<title lang="zh">命转皇后#24[粤/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727114000 +0800" stop="20260727121500 +0800">
+		<title lang="zh">交易现场[粤] 及 卓正医疗呈献：全家健康攻略[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727121500 +0800" stop="20260727130000 +0800">
+		<title lang="zh">食平3D[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727130000 +0800" stop="20260727132000 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727132000 +0800" stop="20260727141000 +0800">
+		<title lang="zh">流行都市[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727141000 +0800" stop="20260727145000 +0800">
+		<title lang="zh">吃货横扫深圳[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727145000 +0800" stop="20260727155000 +0800">
+		<title lang="zh">东坡家事#11[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727155000 +0800" stop="20260727162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727162000 +0800" stop="20260727165000 +0800">
+		<title lang="zh">科学d7冒险 绝境求生手册[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727165000 +0800" stop="20260727172000 +0800">
 		<title lang="zh">Hands Up[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726170000 +0800" stop="20260726173000 +0800">
-		<title lang="zh">屁屁侦探[粤/日]</title>
+	<programme channel="翡翠台" start="20260727172000 +0800" stop="20260727175000 +0800">
+		<title lang="zh">多啦A梦[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726173000 +0800" stop="20260726175500 +0800">
-		<title lang="zh">樱桃小丸子[粤/日]</title>
+	<programme channel="翡翠台" start="20260727175000 +0800" stop="20260727180000 +0800">
+		<title lang="zh">财经新闻[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726175500 +0800" stop="20260726180000 +0800">
-		<title lang="zh">好嘢港多啲[粤]</title>
+	<programme channel="翡翠台" start="20260727180000 +0800" stop="20260727182500 +0800">
+		<title lang="zh">利嘉阁地产45 周年真盘源特约：今日有楼睇[粤] 及 卓正医疗呈献：全家健康攻略[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726180000 +0800" stop="20260726183000 +0800">
-		<title lang="zh">财经透视[粤]</title>
+	<programme channel="翡翠台" start="20260727182500 +0800" stop="20260727183000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726183000 +0800" stop="20260726185500 +0800">
+	<programme channel="翡翠台" start="20260727183000 +0800" stop="20260727191500 +0800">
 		<title lang="zh">六点半新闻报道[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726185500 +0800" stop="20260726190000 +0800">
+	<programme channel="翡翠台" start="20260727191500 +0800" stop="20260727192500 +0800">
+		<title lang="zh">世界观[粤] 及 农本方参苓白术散呈献:天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727192500 +0800" stop="20260727193000 +0800">
+		<title lang="zh">有理说得清[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727193000 +0800" stop="20260727193500 +0800">
+		<title lang="zh">才骏HASHTAG 「私人财富」─ 财富+[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727193500 +0800" stop="20260727200000 +0800">
+		<title lang="zh">东张西望[粤] 及 富途证券特约:富途讲美股[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727200000 +0800" stop="20260727203000 +0800">
+		<title lang="zh">黄道益活络油呈献：爱． 回家之开心速递#2859[粤] 及 保诚精选「宠爱宝」呈献：社畜求生101[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727203000 +0800" stop="20260727213000 +0800">
+		<title lang="zh">森下仁丹Bifina Si 益生菌呈献：非份之罪#21[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727213000 +0800" stop="20260727220000 +0800">
+		<title lang="zh">宏利保险呈献：重症解密[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727220000 +0800" stop="20260727230000 +0800">
+		<title lang="zh">翻身蜜语#1[粤/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727230000 +0800" stop="20260727231500 +0800">
+		<title lang="zh">娱乐头条[粤] 及 环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727231500 +0800" stop="20260727234500 +0800">
+		<title lang="zh">晚间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727234500 +0800" stop="20260727235000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260727235000 +0800" stop="20260727235500 +0800">
 		<title lang="zh">农本方参苓白术散呈献:天气报告[粤]</title>
 	</programme>
-	<programme channel="翡翠台" start="20260726190000 +0800" stop="20260726193000 +0800">
-		<title lang="zh">星期日档案[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726193000 +0800" stop="20260726200000 +0800">
-		<title lang="zh">东张西望[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726200000 +0800" stop="20260726220500 +0800">
-		<title lang="zh">保济丸130 周年呈献：中年好声音4[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726220500 +0800" stop="20260726223500 +0800">
-		<title lang="zh">专业旅运40周年呈献：香港小姐湘遇记[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726223500 +0800" stop="20260726231500 +0800">
-		<title lang="zh">一周星星[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726231500 +0800" stop="20260726233000 +0800">
-		<title lang="zh">晚间新闻[粤] 及 农本方参苓白术散呈献:天气报告[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726233000 +0800" stop="20260726233500 +0800">
-		<title lang="zh">嘉里世界剑击锦标赛2026 中国香港[粤]</title>
-	</programme>
-	<programme channel="翡翠台" start="20260726233500 +0800" stop="20260727000000 +0800">
-		<title lang="zh">J Sport[粤]</title>
+	<programme channel="翡翠台" start="20260727235500 +0800" stop="20260728000000 +0800">
+		<title lang="zh">嘉里世界剑击锦标赛2026 中国香港[粤] 及 卓正医疗呈献：全家健康攻略[粤]</title>
 	</programme>
 	<channel id="CCTV5">
 		<display-name lang="zh">CCTV5</display-name>
 	</channel>
-	<programme channel="CCTV5" start="20260726003500 +0800" stop="20260726010600 +0800">
-		<title lang="zh">实况录像-2026年艺术体操世界杯 巴库站25分钟版</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726010600 +0800" stop="20260726023600 +0800">
-		<title lang="zh">实况录像-2026世界杯 1/8决赛 葡萄牙队-西班牙队</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726023600 +0800" stop="20260726040000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 1</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726040000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛  决赛</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726060000 +0800" stop="20260726063000 +0800">
-		<title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726063000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">健身动起来</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726070000 +0800" stop="20260726080300 +0800">
-		<title lang="zh">体坛晨报</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726080300 +0800" stop="20260726090000 +0800">
-		<title lang="zh">2026年环法自行车赛-第19赛段</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726090000 +0800" stop="20260726103000 +0800">
-		<title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726103000 +0800" stop="20260726104000 +0800">
-		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 10分钟版</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726104000 +0800" stop="20260726115500 +0800">
-		<title lang="zh">实况录像-2026年世界女排联赛总决赛 半决赛 1</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726115500 +0800" stop="20260726120000 +0800">
-		<title lang="zh">健身动起来</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726120000 +0800" stop="20260726123500 +0800">
-		<title lang="zh">体坛快讯</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726123500 +0800" stop="20260726125500 +0800">
-		<title lang="zh">艺术里的奥林匹克(4K)</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726125500 +0800" stop="20260726140000 +0800">
-		<title lang="zh">2026世界职业拳王争霸赛</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726140000 +0800" stop="20260726150000 +0800">
-		<title lang="zh">实况录像-2026年世界击剑锦标赛 男子花剑、女子重剑个人赛（录播）</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726150000 +0800" stop="20260726153000 +0800">
-		<title lang="zh">实况录像-2026年射箭世界杯 西班牙站 1</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726153000 +0800" stop="20260726173000 +0800">
-		<title lang="zh">2026年世界女排联赛总决赛-三、四名决赛</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726173000 +0800" stop="20260726180000 +0800">
-		<title lang="zh">2026年世界泳联花样游泳世界杯总决赛-精彩</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726180000 +0800" stop="20260726183000 +0800">
-		<title lang="zh">体育新闻</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726183000 +0800" stop="20260726193000 +0800">
-		<title lang="zh">实况录像-WTT美国大满贯2026 比赛5</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726193000 +0800" stop="20260726213500 +0800">
-		<title lang="zh">2026年世界女排联赛总决赛-决赛</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726213500 +0800" stop="20260726220500 +0800">
-		<title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726220500 +0800" stop="20260726233500 +0800">
-		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
-	</programme>
-	<programme channel="CCTV5" start="20260726233500 +0800" stop="20260727003500 +0800">
-		<title lang="zh">2026年赛艇世界杯-卢塞恩站（4K）</title>
-	</programme>
 	<programme channel="CCTV5" start="20260727003500 +0800" stop="20260727010600 +0800">
 		<title lang="zh">实况录像-2026年体操世界杯 科特布斯站 25分钟版</title>
 	</programme>
@@ -633,72 +552,75 @@
 	<programme channel="CCTV5" start="20260801213500 +0800" stop="20260801230500 +0800">
 		<title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
 	</programme>
-	<programme channel="CCTV5" start="20260801230500 +0800" stop="20260802000000 +0800">
+	<programme channel="CCTV5" start="20260801230500 +0800" stop="20260802010600 +0800">
 		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802010600 +0800" stop="20260802023600 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/4决赛 挪威队-英格兰队</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802023600 +0800" stop="20260802040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  半决赛 8</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802040000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛  决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802060000 +0800" stop="20260802063000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802063000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802070000 +0800" stop="20260802080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802080300 +0800" stop="20260802090000 +0800">
+		<title lang="zh">2026年赛艇世界杯-卢塞恩站（4K）</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802090000 +0800" stop="20260802103000 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802103000 +0800" stop="20260802115500 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802115500 +0800" stop="20260802120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802120000 +0800" stop="20260802123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802123500 +0800" stop="20260802125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802125500 +0800" stop="20260802140000 +0800">
+		<title lang="zh">2026年世界职业拳王争霸赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802140000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">实况录像-2026年世界击剑锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802150000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">2026年世界男排联赛总决赛-三、四名决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802170000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">2026年蹦床世界杯-科英布拉站</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802180000 +0800" stop="20260802183000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802183000 +0800" stop="20260802193000 +0800">
+		<title lang="zh">2026年世界泳联花样游泳世界杯总决赛-3</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802193000 +0800" stop="20260802213500 +0800">
+		<title lang="zh">2026年世界男排联赛总决赛-决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802213500 +0800" stop="20260802230500 +0800">
+		<title lang="zh">实况录像-2026世界杯 决赛 西班牙队-阿根廷队</title>
+	</programme>
+	<programme channel="CCTV5" start="20260802230500 +0800" stop="20260803000000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛（4K）</title>
 	</programme>
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
 	</channel>
-	<programme channel="CCTV5+" start="20260726005100 +0800" stop="20260726010600 +0800">
-		<title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726010600 +0800" stop="20260726023600 +0800">
-		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 1</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726023600 +0800" stop="20260726040000 +0800">
-		<title lang="zh">实况录像-2026世界杯小组赛K组第二轮 葡萄牙队—乌兹别克斯坦队</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726040000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">实况录像-2025/2026赛季斯诺克国际锦标赛 决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726060000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">2026年环法自行车赛-第19赛段</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726070000 +0800" stop="20260726083100 +0800">
-		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726083100 +0800" stop="20260726090200 +0800">
-		<title lang="zh">燃动金杯-2026年世界杯1/16决赛进球集锦</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726090200 +0800" stop="20260726093200 +0800">
-		<title lang="zh">2026年射箭世界杯-土耳其站2（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726093200 +0800" stop="20260726110200 +0800">
-		<title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队（4K）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726110200 +0800" stop="20260726123200 +0800">
-		<title lang="zh">实况录像-2026世界杯 1/8决赛 瑞士队-哥伦比亚队</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726123200 +0800" stop="20260726135400 +0800">
-		<title lang="zh">实况录像-2026年世界女排联赛总决赛 半决赛 1</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726135400 +0800" stop="20260726141500 +0800">
-		<title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726141500 +0800" stop="20260726154500 +0800">
-		<title lang="zh">2026年世界泳联水球世界杯-女子决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726154500 +0800" stop="20260726160000 +0800">
-		<title lang="zh">实况录像-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726160000 +0800" stop="20260726173000 +0800">
-		<title lang="zh">2026年世界泳联水球世界杯-男子决赛</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726173000 +0800" stop="20260726180000 +0800">
-		<title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站 25分钟版</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726180000 +0800" stop="20260726193000 +0800">
-		<title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726193000 +0800" stop="20260726214000 +0800">
-		<title lang="zh">2026中国足球超级联赛-第20轮（成都蓉城—北京国安）</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726214000 +0800" stop="20260726224100 +0800">
-		<title lang="zh">2026年环法自行车赛-第20赛段</title>
-	</programme>
-	<programme channel="CCTV5+" start="20260726224100 +0800" stop="20260727000500 +0800">
-		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛（4K）</title>
-	</programme>
 	<programme channel="CCTV5+" start="20260727000500 +0800" stop="20260727003000 +0800">
 		<title lang="zh">实况录像-2026年世界田联钻石联赛 摩纳哥站</title>
 	</programme>
@@ -1062,93 +984,69 @@
 	<programme channel="CCTV5+" start="20260801225800 +0800" stop="20260801233000 +0800">
 		<title lang="zh">2026年世界泳联花样游泳世界杯总决赛-精彩</title>
 	</programme>
-	<programme channel="CCTV5+" start="20260801233000 +0800" stop="20260802000000 +0800">
+	<programme channel="CCTV5+" start="20260801233000 +0800" stop="20260802010100 +0800">
 		<title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 4</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802010100 +0800" stop="20260802023100 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛  半决赛 3</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802023100 +0800" stop="20260802040000 +0800">
+		<title lang="zh">实况录像-2026世界杯小组赛K组第三轮 哥伦比亚队—葡萄牙队</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802040000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季斯诺克西安大奖赛 决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802060000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">2026年环法自行车赛-第10赛段</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802070000 +0800" stop="20260802083000 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 奥斯陆站</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802083000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">2026年射箭世界杯-土耳其站2（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802090000 +0800" stop="20260802102100 +0800">
+		<title lang="zh">实况录像-2026年世界女排联赛总决赛 决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802102100 +0800" stop="20260802112200 +0800">
+		<title lang="zh">实况录像-2026年中国羽毛球公开赛 2</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802112200 +0800" stop="20260802125200 +0800">
+		<title lang="zh">2026年国际篮联U17世界杯-决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802125200 +0800" stop="20260802135300 +0800">
+		<title lang="zh">2026年世界艺术体操挑战杯系列赛-克卢日纳波卡站</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802135300 +0800" stop="20260802152500 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-女单决赛（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802152500 +0800" stop="20260802165700 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛  斯德哥尔摩站</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802165700 +0800" stop="20260802175900 +0800">
+		<title lang="zh">实况录像-2026年世界击剑锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802175900 +0800" stop="20260802193000 +0800">
+		<title lang="zh">实况录像-2026年世界男排联赛总决赛 半决赛 1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802193000 +0800" stop="20260802210100 +0800">
+		<title lang="zh">实况录像-2026世界杯 决赛 西班牙队-阿根廷队</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802210100 +0800" stop="20260802220400 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2（4K）</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802220400 +0800" stop="20260802230500 +0800">
+		<title lang="zh">2026年世界泳联水球世界杯- 女子决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802230500 +0800" stop="20260802233500 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年世界泳联跳水世界杯总决赛 中国队金牌</title>
+	</programme>
+	<programme channel="CCTV5+" start="20260802233500 +0800" stop="20260803000000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 决赛</title>
 	</programme>
 	<channel id="CCTV9">
 		<display-name lang="zh">CCTV9</display-name>
 	</channel>
-	<programme channel="CCTV9" start="20260726003100 +0800" stop="20260726012700 +0800">
-		<title lang="zh">全景自然2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726012700 +0800" stop="20260726022300 +0800">
-		<title lang="zh">魅力万象2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726022300 +0800" stop="20260726025330 +0800">
-		<title lang="zh">活力·源2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726025330 +0800" stop="20260726035400 +0800">
-		<title lang="zh">特别呈现2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726035400 +0800" stop="20260726041100 +0800">
-		<title lang="zh">9视频2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726041100 +0800" stop="20260726044630 +0800">
-		<title lang="zh">活力·源2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726044630 +0800" stop="20260726054600 +0800">
-		<title lang="zh">故事中国2026-179</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726054600 +0800" stop="20260726064700 +0800">
-		<title lang="zh">全景自然2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726064700 +0800" stop="20260726074300 +0800">
-		<title lang="zh">魅力万象2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726074300 +0800" stop="20260726075930 +0800">
-		<title lang="zh">9视频2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726075930 +0800" stop="20260726083100 +0800">
-		<title lang="zh">活力·源2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726083100 +0800" stop="20260726092700 +0800">
-		<title lang="zh">特别呈现2026-206</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726092700 +0800" stop="20260726102600 +0800">
-		<title lang="zh">魅力万象2026-184</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726102600 +0800" stop="20260726112400 +0800">
-		<title lang="zh">全景自然2026-149</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726112400 +0800" stop="20260726122700 +0800">
-		<title lang="zh">魅力万象2026-149</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726122700 +0800" stop="20260726133100 +0800">
-		<title lang="zh">全景自然2026-121</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726133100 +0800" stop="20260726143000 +0800">
-		<title lang="zh">魅力万象2026-121</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726143000 +0800" stop="20260726152800 +0800">
-		<title lang="zh">全景自然2026-122</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726152800 +0800" stop="20260726162700 +0800">
-		<title lang="zh">魅力万象2026-122</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726162700 +0800" stop="20260726172800 +0800">
-		<title lang="zh">全景自然2026-123</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726172800 +0800" stop="20260726182700 +0800">
-		<title lang="zh">全景自然2026-207</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726182700 +0800" stop="20260726192700 +0800">
-		<title lang="zh">魅力万象2026-207</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726192700 +0800" stop="20260726200000 +0800">
-		<title lang="zh">活力·源2026-207</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726200000 +0800" stop="20260726210000 +0800">
-		<title lang="zh">特别呈现2026-207</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726210000 +0800" stop="20260726220430 +0800">
-		<title lang="zh">寰宇视野2026-207</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726220430 +0800" stop="20260726233830 +0800">
-		<title lang="zh">纪录影院2026-29</title>
-	</programme>
-	<programme channel="CCTV9" start="20260726233830 +0800" stop="20260727000000 +0800">
-		<title lang="zh">9视频2026-207</title>
-	</programme>
 	<programme channel="CCTV9" start="20260727000000 +0800" stop="20260727010330 +0800">
 		<title lang="zh">寰宇视野2026-207</title>
 	</programme>
@@ -1647,84 +1545,93 @@
 	<programme channel="CCTV9" start="20260801230600 +0800" stop="20260801232730 +0800">
 		<title lang="zh">9视频2026-213</title>
 	</programme>
-	<programme channel="CCTV9" start="20260801232730 +0800" stop="20260802000000 +0800">
+	<programme channel="CCTV9" start="20260801232730 +0800" stop="20260802003100 +0800">
 		<title lang="zh">寰宇视野2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802003100 +0800" stop="20260802012700 +0800">
+		<title lang="zh">全景自然2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802012700 +0800" stop="20260802022300 +0800">
+		<title lang="zh">魅力万象2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802022300 +0800" stop="20260802025330 +0800">
+		<title lang="zh">活力·源2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802025330 +0800" stop="20260802035400 +0800">
+		<title lang="zh">特别呈现2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802035400 +0800" stop="20260802041100 +0800">
+		<title lang="zh">9视频2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802041100 +0800" stop="20260802044630 +0800">
+		<title lang="zh">活力·源2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802044630 +0800" stop="20260802054600 +0800">
+		<title lang="zh">故事中国2026-185</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802054600 +0800" stop="20260802064700 +0800">
+		<title lang="zh">全景自然2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802064700 +0800" stop="20260802074300 +0800">
+		<title lang="zh">魅力万象2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802074300 +0800" stop="20260802075930 +0800">
+		<title lang="zh">9视频2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802075930 +0800" stop="20260802083100 +0800">
+		<title lang="zh">活力·源2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802083100 +0800" stop="20260802092700 +0800">
+		<title lang="zh">特别呈现2026-213</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802092700 +0800" stop="20260802102600 +0800">
+		<title lang="zh">寰宇视野2026-180</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802102600 +0800" stop="20260802112400 +0800">
+		<title lang="zh">寰宇视野2026-181</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802112400 +0800" stop="20260802122700 +0800">
+		<title lang="zh">全景自然2026-198</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802122700 +0800" stop="20260802133100 +0800">
+		<title lang="zh">魅力万象2026-198</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802133100 +0800" stop="20260802143000 +0800">
+		<title lang="zh">全景自然2026-199</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802143000 +0800" stop="20260802152800 +0800">
+		<title lang="zh">魅力万象2026-199</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802152800 +0800" stop="20260802162700 +0800">
+		<title lang="zh">全景自然2026-200</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802162700 +0800" stop="20260802172800 +0800">
+		<title lang="zh">魅力万象2026-200</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802172800 +0800" stop="20260802182700 +0800">
+		<title lang="zh">全景自然2026-214</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802182700 +0800" stop="20260802192700 +0800">
+		<title lang="zh">魅力万象2026-214</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802192700 +0800" stop="20260802200000 +0800">
+		<title lang="zh">活力·源2026-214</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802200000 +0800" stop="20260802210000 +0800">
+		<title lang="zh">特别呈现2026-214</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802210000 +0800" stop="20260802220430 +0800">
+		<title lang="zh">寰宇视野2026-214</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802220430 +0800" stop="20260802233830 +0800">
+		<title lang="zh">纪录影院2026-30</title>
+	</programme>
+	<programme channel="CCTV9" start="20260802233830 +0800" stop="20260803000000 +0800">
+		<title lang="zh">9视频2026-214</title>
 	</programme>
 	<channel id="CCTV16">
 		<display-name lang="zh">CCTV16</display-name>
 	</channel>
-	<programme channel="CCTV16" start="20260726001500 +0800" stop="20260726014000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年世界田联钻石联赛 奥斯陆站</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726014000 +0800" stop="20260726021000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年射箭世界杯 中国站1</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726021000 +0800" stop="20260726040000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年汤姆斯杯羽毛球赛  决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726040000 +0800" stop="20260726052500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛 总决赛5</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726052500 +0800" stop="20260726055500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子回转</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726055500 +0800" stop="20260726061500 +0800">
-		<title lang="zh">艺术里的奥林匹克2026-45</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726061500 +0800" stop="20260726071500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 单板滑雪男子大跳台决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726071500 +0800" stop="20260726074500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-精品赛事记录-2026世界泳联跳水世界杯总决赛 中国队金牌</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726074500 +0800" stop="20260726091000 +0800">
-		<title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726091000 +0800" stop="20260726101000 +0800">
-		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726101000 +0800" stop="20260726120000 +0800">
-		<title lang="zh">2026年温布尔登网球锦标赛-男单决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726120000 +0800" stop="20260726122000 +0800">
-		<title lang="zh">艺术里的奥林匹克2026-46</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726122000 +0800" stop="20260726135000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年世界乒乓球团体锦标赛 男团决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726135000 +0800" stop="20260726151000 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年世界女排联赛总决赛 1/4决赛3</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726151000 +0800" stop="20260726161000 +0800">
-		<title lang="zh">2026年世界艺术体操挑战杯系列赛-北京站</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726161000 +0800" stop="20260726163000 +0800">
-		<title lang="zh">艺术里的奥林匹克2026-47</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726163000 +0800" stop="20260726175500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026世界杯 半决赛 法国队-西班牙队</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726175500 +0800" stop="20260726182500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年国际篮联三人篮球世界杯 女子决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726182500 +0800" stop="20260726195500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026年世界田联钻石联赛 伦敦站</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726195500 +0800" stop="20260726201000 +0800">
-		<title lang="zh">奥秘无穷-2026-21</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726201000 +0800" stop="20260726203000 +0800">
-		<title lang="zh">艺术里的奥林匹克2026-49</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726203000 +0800" stop="20260726215500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2026世界杯 决赛</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726215500 +0800" stop="20260726225200 +0800">
-		<title lang="zh">实况录像（奥林匹克）-WTT美国大满贯2026 比赛1</title>
-	</programme>
-	<programme channel="CCTV16" start="20260726225200 +0800" stop="20260727001500 +0800">
-		<title lang="zh">2026年国际篮联U17世界杯-决赛</title>
-	</programme>
 	<programme channel="CCTV16" start="20260727001500 +0800" stop="20260727011300 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子空中技巧决赛</title>
 	</programme>
@@ -2136,108 +2043,723 @@
 	<programme channel="CCTV16" start="20260801214500 +0800" stop="20260801231000 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2026世界杯 1/16决赛 巴西队-日本队</title>
 	</programme>
-	<programme channel="CCTV16" start="20260801231000 +0800" stop="20260802000000 +0800">
+	<programme channel="CCTV16" start="20260801231000 +0800" stop="20260802003000 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2026年世界女排联赛总决赛 1/4决赛2</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802003000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年国际篮联三人篮球世界杯 男子决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802010000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 速度滑冰比赛2</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802020000 +0800" stop="20260802040000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年尤伯杯羽毛球赛  半决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802040000 +0800" stop="20260802052500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2025/2026赛季中国男子篮球职业联赛 1/4决赛 第三场1</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802052500 +0800" stop="20260802055500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 高山滑雪男子超级大回转</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802055500 +0800" stop="20260802061200 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802061200 +0800" stop="20260802071000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子U型场地技巧决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802071000 +0800" stop="20260802074000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802074000 +0800" stop="20260802090500 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-女单决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802090500 +0800" stop="20260802103000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年世界田联钻石联赛 摩纳哥站</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802103000 +0800" stop="20260802120000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026世界杯小组赛I组第一轮 法国队—塞内加尔队</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802120000 +0800" stop="20260802122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-48</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802122000 +0800" stop="20260802134500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年世界男排联赛总决赛 1/4决赛3</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802134500 +0800" stop="20260802151000 +0800">
+		<title lang="zh">2027年国际篮联世界杯预选赛-中国队—中国台北队</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802151000 +0800" stop="20260802161000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802161000 +0800" stop="20260802163000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-49</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802163000 +0800" stop="20260802175500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026世界杯 1/16决赛 葡萄牙队-克罗地亚队</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802175500 +0800" stop="20260802185500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-WTT美国大满贯2026 比赛5</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802185500 +0800" stop="20260802195500 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年世界击剑锦标赛2</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802195500 +0800" stop="20260802201000 +0800">
+		<title lang="zh">奥秘无穷-2026-22</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802201000 +0800" stop="20260802203000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-51</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802203000 +0800" stop="20260802220000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年世界乒乓球团体锦标赛 女团决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802220000 +0800" stop="20260802232000 +0800">
+		<title lang="zh">实况录像（奥林匹克）-2026年世界女排联赛总决赛 1/4决赛3</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802232000 +0800" stop="20260802235000 +0800">
+		<title lang="zh">2026年三对三篮球世界巡回赛-法国站</title>
+	</programme>
+	<programme channel="CCTV16" start="20260802235000 +0800" stop="20260803000000 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+	</programme>
+	<channel id="亞洲新聞">
+		<display-name lang="zh">亞洲新聞</display-name>
+	</channel>
+	<programme channel="亞洲新聞" start="20260727000000 +0800" stop="20260727000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727000300 +0800" stop="20260727010000 +0800">
+		<title lang="zh">The Nuclear Option 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727010000 +0800" stop="20260727020000 +0800">
+		<title lang="zh">Insight 第10集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727020000 +0800" stop="20260727023000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727023000 +0800" stop="20260727030000 +0800">
+		<title lang="zh">Talking Point 第12集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727030000 +0800" stop="20260727033000 +0800">
+		<title lang="zh">Money Mind 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727033000 +0800" stop="20260727040000 +0800">
+		<title lang="zh">On The Red Dot 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727040000 +0800" stop="20260727043000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727043000 +0800" stop="20260727050000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727050000 +0800" stop="20260727060000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727060000 +0800" stop="20260727063000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727063000 +0800" stop="20260727070000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727070000 +0800" stop="20260727100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727100000 +0800" stop="20260727110000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727110000 +0800" stop="20260727130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727130000 +0800" stop="20260727140000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727140000 +0800" stop="20260727160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727160000 +0800" stop="20260727170000 +0800">
+		<title lang="zh">The Nuclear Option 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727170000 +0800" stop="20260727170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727170200 +0800" stop="20260727180000 +0800">
+		<title lang="zh">Insight 第10集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727180000 +0800" stop="20260727190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727190000 +0800" stop="20260727193000 +0800">
+		<title lang="zh">Money Mind 第13集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727193000 +0800" stop="20260727200000 +0800">
+		<title lang="zh">On The Red Dot 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727200000 +0800" stop="20260727210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727210000 +0800" stop="20260727220000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727220000 +0800" stop="20260727230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260727230000 +0800" stop="20260728000000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728000000 +0800" stop="20260728000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728000300 +0800" stop="20260728010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728010000 +0800" stop="20260728020000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728020000 +0800" stop="20260728030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728030000 +0800" stop="20260728040000 +0800">
+		<title lang="zh">Insight 第10集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728040000 +0800" stop="20260728050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728050000 +0800" stop="20260728060000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728060000 +0800" stop="20260728070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728070000 +0800" stop="20260728100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728100000 +0800" stop="20260728110000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728110000 +0800" stop="20260728130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728130000 +0800" stop="20260728140000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728140000 +0800" stop="20260728160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728160000 +0800" stop="20260728163000 +0800">
+		<title lang="zh">Money Mind 第13集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728163000 +0800" stop="20260728170000 +0800">
+		<title lang="zh">Cna Correspondent 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728170000 +0800" stop="20260728170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728170200 +0800" stop="20260728180000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728180000 +0800" stop="20260728190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728190000 +0800" stop="20260728200000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728200000 +0800" stop="20260728210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728210000 +0800" stop="20260728220000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728220000 +0800" stop="20260728230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260728230000 +0800" stop="20260729000000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729000000 +0800" stop="20260729000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729000300 +0800" stop="20260729010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729010000 +0800" stop="20260729020000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729020000 +0800" stop="20260729030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729030000 +0800" stop="20260729040000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729040000 +0800" stop="20260729050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729050000 +0800" stop="20260729060000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729060000 +0800" stop="20260729070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729070000 +0800" stop="20260729100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729100000 +0800" stop="20260729110000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729110000 +0800" stop="20260729130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729130000 +0800" stop="20260729140000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729140000 +0800" stop="20260729160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729160000 +0800" stop="20260729170000 +0800">
+		<title lang="zh">Insight 第10集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729170000 +0800" stop="20260729170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729170200 +0800" stop="20260729180000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729180000 +0800" stop="20260729190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729190000 +0800" stop="20260729200000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729200000 +0800" stop="20260729210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729210000 +0800" stop="20260729213000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729213000 +0800" stop="20260729220000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729220000 +0800" stop="20260729230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260729230000 +0800" stop="20260730000000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730000000 +0800" stop="20260730000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730000300 +0800" stop="20260730010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730010000 +0800" stop="20260730020000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730020000 +0800" stop="20260730030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730030000 +0800" stop="20260730040000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730040000 +0800" stop="20260730050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730050000 +0800" stop="20260730053000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730053000 +0800" stop="20260730060000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730060000 +0800" stop="20260730070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730070000 +0800" stop="20260730100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730100000 +0800" stop="20260730103000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730103000 +0800" stop="20260730110000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730110000 +0800" stop="20260730130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730130000 +0800" stop="20260730140000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730140000 +0800" stop="20260730160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730160000 +0800" stop="20260730170000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730170000 +0800" stop="20260730170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730170200 +0800" stop="20260730173000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730173000 +0800" stop="20260730180000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730180000 +0800" stop="20260730190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730190000 +0800" stop="20260730200000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730200000 +0800" stop="20260730210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730210000 +0800" stop="20260730220000 +0800">
+		<title lang="zh">Insight 第11集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730220000 +0800" stop="20260730230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730230000 +0800" stop="20260730233000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260730233000 +0800" stop="20260731000000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731000000 +0800" stop="20260731000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731000300 +0800" stop="20260731010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731010000 +0800" stop="20260731020000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731020000 +0800" stop="20260731030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731030000 +0800" stop="20260731040000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731040000 +0800" stop="20260731050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731050000 +0800" stop="20260731060000 +0800">
+		<title lang="zh">Insight 第11集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731060000 +0800" stop="20260731070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731070000 +0800" stop="20260731100000 +0800">
+		<title lang="zh">Asia First</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731100000 +0800" stop="20260731110000 +0800">
+		<title lang="zh">Insight 第11集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731110000 +0800" stop="20260731130000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731130000 +0800" stop="20260731133000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731133000 +0800" stop="20260731140000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731140000 +0800" stop="20260731160000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731160000 +0800" stop="20260731170000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731170000 +0800" stop="20260731170200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731170200 +0800" stop="20260731180000 +0800">
+		<title lang="zh">Insight 第11集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731180000 +0800" stop="20260731190000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731190000 +0800" stop="20260731200000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731200000 +0800" stop="20260731210000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731210000 +0800" stop="20260731220000 +0800">
+		<title lang="zh">Japan Hour 第30集 -Cycle Around Japan </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731220000 +0800" stop="20260731230000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260731230000 +0800" stop="20260801000000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801000000 +0800" stop="20260801000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801000300 +0800" stop="20260801010000 +0800">
+		<title lang="zh">East Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801010000 +0800" stop="20260801020000 +0800">
+		<title lang="zh">Lost Plantations</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801020000 +0800" stop="20260801030000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801030000 +0800" stop="20260801040000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801040000 +0800" stop="20260801050000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801050000 +0800" stop="20260801060000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801060000 +0800" stop="20260801070000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801070000 +0800" stop="20260801073000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801073000 +0800" stop="20260801080000 +0800">
+		<title lang="zh">On The Red Dot 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801080000 +0800" stop="20260801083000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801083000 +0800" stop="20260801090000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801090000 +0800" stop="20260801093000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801093000 +0800" stop="20260801100000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801100000 +0800" stop="20260801100200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801100200 +0800" stop="20260801110000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801110000 +0800" stop="20260801113000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801113000 +0800" stop="20260801120000 +0800">
+		<title lang="zh">On The Red Dot 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801120000 +0800" stop="20260801123000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801123000 +0800" stop="20260801130000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801130000 +0800" stop="20260801130200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801130200 +0800" stop="20260801140000 +0800">
+		<title lang="zh">Insight 第11集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801140000 +0800" stop="20260801143000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801143000 +0800" stop="20260801150000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801150000 +0800" stop="20260801153000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801153000 +0800" stop="20260801160000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801160000 +0800" stop="20260801160200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801160200 +0800" stop="20260801170000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801170000 +0800" stop="20260801173000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801173000 +0800" stop="20260801180000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801180000 +0800" stop="20260801183000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801183000 +0800" stop="20260801190000 +0800">
+		<title lang="zh">On The Red Dot 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801190000 +0800" stop="20260801190200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801190200 +0800" stop="20260801200000 +0800">
+		<title lang="zh">Japan Hour 第31集 -Cycle Around Japan </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801200000 +0800" stop="20260801203000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801203000 +0800" stop="20260801210000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801210000 +0800" stop="20260801210200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801210200 +0800" stop="20260801220000 +0800">
+		<title lang="zh">Being Singaporean 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801220000 +0800" stop="20260801223000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801223000 +0800" stop="20260801230000 +0800">
+		<title lang="zh">On The Red Dot 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801230000 +0800" stop="20260801230300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260801230300 +0800" stop="20260802000000 +0800">
+		<title lang="zh">Lost Plantations </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802000000 +0800" stop="20260802000300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802000300 +0800" stop="20260802003000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802003000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802010000 +0800" stop="20260802013000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802013000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802020000 +0800" stop="20260802023000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802023000 +0800" stop="20260802030000 +0800">
+		<title lang="zh">On The Red Dot 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802030000 +0800" stop="20260802040000 +0800">
+		<title lang="zh">Lost Plantations </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802040000 +0800" stop="20260802043000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802043000 +0800" stop="20260802050000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802050000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">Being Singaporean 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802060000 +0800" stop="20260802063000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802063000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802070000 +0800" stop="20260802073000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802073000 +0800" stop="20260802080000 +0800">
+		<title lang="zh">On The Red Dot 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802080000 +0800" stop="20260802083000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802083000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802090000 +0800" stop="20260802093000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802093000 +0800" stop="20260802100000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802100000 +0800" stop="20260802100200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802100200 +0800" stop="20260802110000 +0800">
+		<title lang="zh">Being Singaporean 第1集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802110000 +0800" stop="20260802113000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802113000 +0800" stop="20260802120000 +0800">
+		<title lang="zh">Money Mind 第14集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802120000 +0800" stop="20260802123000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802123000 +0800" stop="20260802130000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802130000 +0800" stop="20260802130200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802130200 +0800" stop="20260802140000 +0800">
+		<title lang="zh">Japan Hour 第31集 -Cycle Around Japan </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802140000 +0800" stop="20260802143000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802143000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">A Street Like This 第4集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802150000 +0800" stop="20260802153000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802153000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">On The Red Dot 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802160000 +0800" stop="20260802160200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802160200 +0800" stop="20260802170000 +0800">
+		<title lang="zh">Let Me Tell You A Story S2 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802170000 +0800" stop="20260802173000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802173000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">Cna Correspondent 第13集</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802180000 +0800" stop="20260802183000 +0800">
+		<title lang="zh">Asia Now</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802183000 +0800" stop="20260802190000 +0800">
+		<title lang="zh">Talking Point 第12集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802190000 +0800" stop="20260802190200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802190200 +0800" stop="20260802200000 +0800">
+		<title lang="zh">Singapore Hour</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802200000 +0800" stop="20260802203000 +0800">
+		<title lang="zh">Asia Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802203000 +0800" stop="20260802210000 +0800">
+		<title lang="zh">A Street Like This 第5集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802210000 +0800" stop="20260802210200 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802210200 +0800" stop="20260802220000 +0800">
+		<title lang="zh">Being Singaporean 第2集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802220000 +0800" stop="20260802223000 +0800">
+		<title lang="zh">Singapore Tonight</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802223000 +0800" stop="20260802230000 +0800">
+		<title lang="zh">Sour, Salty &amp; Alive 第3集 </title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802230000 +0800" stop="20260802230300 +0800">
+		<title lang="zh">Headline News</title>
+	</programme>
+	<programme channel="亞洲新聞" start="20260802230300 +0800" stop="20260803000000 +0800">
+		<title lang="zh">Being Singaporean 第1集 </title>
 	</programme>
 	<channel id="TVB Plus">
 		<display-name lang="zh">TVB Plus</display-name>
 	</channel>
-	<programme channel="TVB Plus" start="20260726003000 +0800" stop="20260726003500 +0800">
-		<title lang="zh">劲歌推介[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726003500 +0800" stop="20260726010500 +0800">
-		<title lang="zh">食尚玩家[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726010500 +0800" stop="20260726013500 +0800">
-		<title lang="zh">食尚玩家[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726013500 +0800" stop="20260726020500 +0800">
-		<title lang="zh">意料之踪[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726020500 +0800" stop="20260726023500 +0800">
-		<title lang="zh">意料之踪[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726023500 +0800" stop="20260726030000 +0800">
-		<title lang="zh">美食新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726030000 +0800" stop="20260726033000 +0800">
-		<title lang="zh">美食新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726033000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">OT无限loop</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726060000 +0800" stop="20260726063000 +0800">
-		<title lang="zh">#后生仔倾吓偈[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726063000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">#后生仔倾吓偈[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726070000 +0800" stop="20260726070500 +0800">
-		<title lang="zh">台湾潮点图鉴[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726070500 +0800" stop="20260726071000 +0800">
-		<title lang="zh">台湾潮点图鉴[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726071000 +0800" stop="20260726071500 +0800">
-		<title lang="zh">台湾潮点图鉴[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726071500 +0800" stop="20260726074500 +0800">
-		<title lang="zh">我要瞓斗[粤][PG]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726074500 +0800" stop="20260726081500 +0800">
-		<title lang="zh">我要瞓斗[粤][PG]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726081500 +0800" stop="20260726101500 +0800">
-		<title lang="zh">光开门就很忙了[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726101500 +0800" stop="20260726103000 +0800">
-		<title lang="zh">保诚精选「宠爱宝」呈献：社畜求生101[粤][PG]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726103000 +0800" stop="20260726110000 +0800">
-		<title lang="zh">大梦想家[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726110000 +0800" stop="20260726113000 +0800">
-		<title lang="zh">东方表行 Take Your Time 呈献:自然系女子旅行[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726113000 +0800" stop="20260726120000 +0800">
-		<title lang="zh">东方表行 Take Your Time 呈献:自然系女子旅行[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726120000 +0800" stop="20260726123000 +0800">
-		<title lang="zh">美食新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726123000 +0800" stop="20260726130000 +0800">
-		<title lang="zh">美食新闻报道[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726130000 +0800" stop="20260726133000 +0800">
-		<title lang="zh">食尚玩家[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726133000 +0800" stop="20260726140000 +0800">
-		<title lang="zh">食尚玩家[粤/普]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726140000 +0800" stop="20260726150000 +0800">
-		<title lang="zh">帮紧你医紧你[粤/日]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726150000 +0800" stop="20260726153000 +0800">
-		<title lang="zh">梦中·情·人[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726153000 +0800" stop="20260726160000 +0800">
-		<title lang="zh">开卷[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726160000 +0800" stop="20260726163000 +0800">
-		<title lang="zh">大梦想家[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726163000 +0800" stop="20260726170000 +0800">
-		<title lang="zh">意外步出[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726170000 +0800" stop="20260726173000 +0800">
-		<title lang="zh">意外步出[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726173000 +0800" stop="20260726180000 +0800">
-		<title lang="zh">关注关注组[粤]</title>
-	</programme>
-	<programme channel="TVB Plus" start="20260726180000 +0800" stop="20260727010000 +0800">
-		<title lang="zh">节目待定#1</title>
-	</programme>
 	<programme channel="TVB Plus" start="20260727010000 +0800" stop="20260727010500 +0800">
 		<title lang="zh">劲歌推介[粤]</title>
 	</programme>
@@ -2916,105 +3438,105 @@
 	<programme channel="TVB Plus" start="20260801233000 +0800" stop="20260802000000 +0800">
 		<title lang="zh">冇人性教育[粤][M]</title>
 	</programme>
-	<programme channel="TVB Plus" start="20260802000000 +0800" stop="20260803000000 +0800">
+	<programme channel="TVB Plus" start="20260802000000 +0800" stop="20260802003000 +0800">
 		<title lang="zh">食尚玩家[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802003000 +0800" stop="20260802003500 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802003500 +0800" stop="20260802020500 +0800">
+		<title lang="zh">梦想改造家[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802020500 +0800" stop="20260802023500 +0800">
+		<title lang="zh">利嘉阁地产45周年真盘源特约 :楼计专家[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802023500 +0800" stop="20260802030000 +0800">
+		<title lang="zh">原住台湾之铁道行[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802030000 +0800" stop="20260802033000 +0800">
+		<title lang="zh">原住台湾之铁道行[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802033000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">OT无限loop</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802060000 +0800" stop="20260802063000 +0800">
+		<title lang="zh">#后生仔倾吓偈[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802063000 +0800" stop="20260802063500 +0800">
+		<title lang="zh">台湾潮点图鉴[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802063500 +0800" stop="20260802064000 +0800">
+		<title lang="zh">台湾潮点图鉴[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802064000 +0800" stop="20260802064500 +0800">
+		<title lang="zh">台湾潮点图鉴[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802064500 +0800" stop="20260802071500 +0800">
+		<title lang="zh">我要瞓斗[粤][PG]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802071500 +0800" stop="20260802074500 +0800">
+		<title lang="zh">我要瞓斗[粤][PG]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802074500 +0800" stop="20260802081500 +0800">
+		<title lang="zh">我要瞓斗[粤][PG]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802081500 +0800" stop="20260802101500 +0800">
+		<title lang="zh">光开门就很忙了[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802101500 +0800" stop="20260802103000 +0800">
+		<title lang="zh">保诚精选「宠爱宝」呈献：社畜求生101[粤][PG]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802103000 +0800" stop="20260802110000 +0800">
+		<title lang="zh">大梦想家[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802110000 +0800" stop="20260802113000 +0800">
+		<title lang="zh">3日2夜[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802113000 +0800" stop="20260802120000 +0800">
+		<title lang="zh">3日2夜[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802120000 +0800" stop="20260802123000 +0800">
+		<title lang="zh">唔滚唔知有料到[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802123000 +0800" stop="20260802130000 +0800">
+		<title lang="zh">唔滚唔知有料到[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802130000 +0800" stop="20260802133000 +0800">
+		<title lang="zh">食尚玩家[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802133000 +0800" stop="20260802140000 +0800">
+		<title lang="zh">食尚玩家[粤/普]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802140000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">帮紧你医紧你[粤/日]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802150000 +0800" stop="20260802153000 +0800">
+		<title lang="zh">梦中·情·人[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802153000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">开卷[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802160000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">PET PET 观察团[粤/日]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802170000 +0800" stop="20260802173000 +0800">
+		<title lang="zh">意外步出[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802173000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">意外步出[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802180000 +0800" stop="20260802183000 +0800">
+		<title lang="zh">冲游泰国9[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802183000 +0800" stop="20260802190000 +0800">
+		<title lang="zh">冲游泰国9[粤]</title>
+	</programme>
+	<programme channel="TVB Plus" start="20260802190000 +0800" stop="20260803000000 +0800">
+		<title lang="zh">节目待定#1</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
-	<programme channel="明珠台" start="20260726003500 +0800" stop="20260726005500 +0800">
-		<title lang="zh">晚间新闻[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726005500 +0800" stop="20260726014000 +0800">
-		<title lang="zh">中国24小时[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726014000 +0800" stop="20260726020000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726020000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">猫咪小夜曲</title>
-	</programme>
-	<programme channel="明珠台" start="20260726060000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726070000 +0800" stop="20260726073000 +0800">
-		<title lang="zh">新造电视[英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726073000 +0800" stop="20260726080000 +0800">
-		<title lang="zh">金融概要[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726080000 +0800" stop="20260726090000 +0800">
-		<title lang="zh">权能时间[英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726090000 +0800" stop="20260726093500 +0800">
-		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726093500 +0800" stop="20260726104000 +0800">
-		<title lang="zh">香港都会大学提供:知识新天地[粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726104000 +0800" stop="20260726113500 +0800">
-		<title lang="zh">香港都会大学提供:知识新天地[粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726113500 +0800" stop="20260726121500 +0800">
-		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726121500 +0800" stop="20260726130000 +0800">
-		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726130000 +0800" stop="20260726140000 +0800">
-		<title lang="zh">天与地III[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726140000 +0800" stop="20260726145000 +0800">
-		<title lang="zh">笑笑小电影 动物反斗篇[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726145000 +0800" stop="20260726150000 +0800">
-		<title lang="zh">世界真细小[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726150000 +0800" stop="20260726153000 +0800">
-		<title lang="zh">Mia Cucina by Towngas Lifestyle特约:清心直说[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726153000 +0800" stop="20260726160000 +0800">
-		<title lang="zh">恩雨之声[普/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726160000 +0800" stop="20260726161500 +0800">
-		<title lang="zh">花生动画[英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726161500 +0800" stop="20260726163000 +0800">
-		<title lang="zh">普通话新闻报道[普]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726163000 +0800" stop="20260726170000 +0800">
-		<title lang="zh">节拍小天地[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726170000 +0800" stop="20260726171000 +0800">
-		<title lang="zh">Pingu 出城记[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726171000 +0800" stop="20260726172000 +0800">
-		<title lang="zh">Pingu 出城记[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726172000 +0800" stop="20260726174000 +0800">
-		<title lang="zh">Pingu 出城记[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726174000 +0800" stop="20260726175000 +0800">
-		<title lang="zh">童游野生世界[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726175000 +0800" stop="20260726204000 +0800">
-		<title lang="zh">嘉里世界剑击锦标赛2026 中国香港[直播][英/粤]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726204000 +0800" stop="20260726210500 +0800">
-		<title lang="zh">七点半新闻报道[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726210500 +0800" stop="20260726211000 +0800">
-		<title lang="zh">天气报告[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726211000 +0800" stop="20260726212000 +0800">
-		<title lang="zh">100道风味[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726212000 +0800" stop="20260726213000 +0800">
-		<title lang="zh">世界真细小[英]</title>
-	</programme>
-	<programme channel="明珠台" start="20260726213000 +0800" stop="20260727002500 +0800">
-		<title lang="zh">明珠930:美国队长3 英雄内战[英][PG]</title>
-	</programme>
 	<programme channel="明珠台" start="20260727002500 +0800" stop="20260727004500 +0800">
 		<title lang="zh">晚间新闻[英]</title>
 	</programme>
@@ -3600,646 +4122,106 @@
 	<programme channel="明珠台" start="20260801213000 +0800" stop="20260801234500 +0800">
 		<title lang="zh">明珠930:奇异博士[英][PG]</title>
 	</programme>
-	<programme channel="明珠台" start="20260801234500 +0800" stop="20260802000000 +0800">
+	<programme channel="明珠台" start="20260801234500 +0800" stop="20260802000500 +0800">
 		<title lang="zh">晚间新闻[英]</title>
 	</programme>
-	<channel id="亞洲新聞">
-		<display-name lang="zh">亞洲新聞</display-name>
-	</channel>
-	<programme channel="亞洲新聞" start="20260726000000 +0800" stop="20260726000300 +0800">
-		<title lang="zh">Headline News</title>
+	<programme channel="明珠台" start="20260802000500 +0800" stop="20260802010500 +0800">
+		<title lang="zh">环保铁路游[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726000300 +0800" stop="20260726003000 +0800">
-		<title lang="zh">CNA Correspondent</title>
+	<programme channel="明珠台" start="20260802010500 +0800" stop="20260802015000 +0800">
+		<title lang="zh">中国24小时[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726003000 +0800" stop="20260726010000 +0800">
-		<title lang="zh">A Street Like This</title>
+	<programme channel="明珠台" start="20260802015000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726010000 +0800" stop="20260726013000 +0800">
-		<title lang="zh">Money Mind</title>
+	<programme channel="明珠台" start="20260802020000 +0800" stop="20260802050000 +0800">
+		<title lang="zh">猫咪小夜曲</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726013000 +0800" stop="20260726020000 +0800">
-		<title lang="zh">Talking Point</title>
+	<programme channel="明珠台" start="20260802050000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">是日播映完毕</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726020000 +0800" stop="20260726023000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
+	<programme channel="明珠台" start="20260802060000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726023000 +0800" stop="20260726030000 +0800">
-		<title lang="zh">On The Red Dot</title>
+	<programme channel="明珠台" start="20260802070000 +0800" stop="20260802073000 +0800">
+		<title lang="zh">新造电视[英/粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726030000 +0800" stop="20260726040000 +0800">
-		<title lang="zh">The Nuclear Option S2</title>
+	<programme channel="明珠台" start="20260802073000 +0800" stop="20260802080000 +0800">
+		<title lang="zh">金融概要[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726040000 +0800" stop="20260726043000 +0800">
-		<title lang="zh">Asia Tonight</title>
+	<programme channel="明珠台" start="20260802080000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">权能时间[英/粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726043000 +0800" stop="20260726050000 +0800">
-		<title lang="zh">A Street Like This</title>
+	<programme channel="明珠台" start="20260802090000 +0800" stop="20260802093000 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726050000 +0800" stop="20260726060000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
+	<programme channel="明珠台" start="20260802093000 +0800" stop="20260802102500 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726060000 +0800" stop="20260726063000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
+	<programme channel="明珠台" start="20260802102500 +0800" stop="20260802112500 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726063000 +0800" stop="20260726070000 +0800">
-		<title lang="zh">CNA Correspondent</title>
+	<programme channel="明珠台" start="20260802112500 +0800" stop="20260802120000 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726070000 +0800" stop="20260726073000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802120000 +0800" stop="20260802125500 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726073000 +0800" stop="20260726080000 +0800">
-		<title lang="zh">On The Red Dot</title>
+	<programme channel="明珠台" start="20260802125500 +0800" stop="20260802130000 +0800">
+		<title lang="zh">香港都会大学提供:知识新天地[粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726080000 +0800" stop="20260726083000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802130000 +0800" stop="20260802140000 +0800">
+		<title lang="zh">天与地III[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726083000 +0800" stop="20260726090000 +0800">
-		<title lang="zh">A Street Like This</title>
+	<programme channel="明珠台" start="20260802140000 +0800" stop="20260802145000 +0800">
+		<title lang="zh">笑笑小电影 动物反斗篇[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726090000 +0800" stop="20260726093000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802145000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">世界真细小[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726093000 +0800" stop="20260726100000 +0800">
-		<title lang="zh">Talking Point</title>
+	<programme channel="明珠台" start="20260802150000 +0800" stop="20260802153000 +0800">
+		<title lang="zh">Mia Cucina by Towngas Lifestyle特约:清心直说[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726100000 +0800" stop="20260726100200 +0800">
-		<title lang="zh">Headline News</title>
+	<programme channel="明珠台" start="20260802153000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">恩雨之声[普/粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726100200 +0800" stop="20260726110000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
+	<programme channel="明珠台" start="20260802160000 +0800" stop="20260802161500 +0800">
+		<title lang="zh">花生动画[英/粤]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726110000 +0800" stop="20260726113000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802161500 +0800" stop="20260802163000 +0800">
+		<title lang="zh">普通话新闻报道[普]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726113000 +0800" stop="20260726120000 +0800">
-		<title lang="zh">Money Mind</title>
+	<programme channel="明珠台" start="20260802163000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">节拍小天地[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726120000 +0800" stop="20260726123000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802170000 +0800" stop="20260802173000 +0800">
+		<title lang="zh">Pingu 出城记[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726123000 +0800" stop="20260726130000 +0800">
-		<title lang="zh">CNA Correspondent</title>
+	<programme channel="明珠台" start="20260802173000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">童游野生世界[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726130000 +0800" stop="20260726130200 +0800">
-		<title lang="zh">Headline News</title>
+	<programme channel="明珠台" start="20260802180000 +0800" stop="20260802190000 +0800">
+		<title lang="zh">猎食战场[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726130200 +0800" stop="20260726140000 +0800">
-		<title lang="zh">Japan Hour</title>
+	<programme channel="明珠台" start="20260802190000 +0800" stop="20260802193000 +0800">
+		<title lang="zh">蓝海世界[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726140000 +0800" stop="20260726143000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802193000 +0800" stop="20260802195500 +0800">
+		<title lang="zh">七点半新闻报道[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726143000 +0800" stop="20260726150000 +0800">
-		<title lang="zh">A Street Like This</title>
+	<programme channel="明珠台" start="20260802195500 +0800" stop="20260802200000 +0800">
+		<title lang="zh">天气报告[英] 及 100道风味[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726150000 +0800" stop="20260726153000 +0800">
-		<title lang="zh">Asia Now</title>
+	<programme channel="明珠台" start="20260802200000 +0800" stop="20260802203000 +0800">
+		<title lang="zh">奇珍异兽[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726153000 +0800" stop="20260726160000 +0800">
-		<title lang="zh">On The Red Dot</title>
+	<programme channel="明珠台" start="20260802203000 +0800" stop="20260802212000 +0800">
+		<title lang="zh">笑笑小电影[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726160000 +0800" stop="20260726160200 +0800">
-		<title lang="zh">Headline News</title>
+	<programme channel="明珠台" start="20260802212000 +0800" stop="20260802213000 +0800">
+		<title lang="zh">世界真细小[英]</title>
 	</programme>
-	<programme channel="亞洲新聞" start="20260726160200 +0800" stop="20260726170000 +0800">
-		<title lang="zh">The Nuclear Option S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726170000 +0800" stop="20260726173000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726173000 +0800" stop="20260726180000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726180000 +0800" stop="20260726183000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726183000 +0800" stop="20260726190000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726190000 +0800" stop="20260726190200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726190200 +0800" stop="20260726200000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726200000 +0800" stop="20260726203000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726203000 +0800" stop="20260726210000 +0800">
-		<title lang="zh">A Street Like This</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726210000 +0800" stop="20260726210200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726210200 +0800" stop="20260726220000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726220000 +0800" stop="20260726223000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726223000 +0800" stop="20260726230000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726230000 +0800" stop="20260726230300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260726230300 +0800" stop="20260727000000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727000000 +0800" stop="20260727000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727000300 +0800" stop="20260727010000 +0800">
-		<title lang="zh">The Nuclear Option S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727010000 +0800" stop="20260727020000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727020000 +0800" stop="20260727023000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727023000 +0800" stop="20260727030000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727030000 +0800" stop="20260727033000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727033000 +0800" stop="20260727040000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727040000 +0800" stop="20260727043000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727043000 +0800" stop="20260727050000 +0800">
-		<title lang="zh">A Street Like This</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727050000 +0800" stop="20260727060000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727060000 +0800" stop="20260727063000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727063000 +0800" stop="20260727070000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727070000 +0800" stop="20260727100000 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727100000 +0800" stop="20260727110000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727110000 +0800" stop="20260727130000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727130000 +0800" stop="20260727140000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727140000 +0800" stop="20260727160000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727160000 +0800" stop="20260727170000 +0800">
-		<title lang="zh">The Nuclear Option S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727170000 +0800" stop="20260727170200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727170200 +0800" stop="20260727180000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727180000 +0800" stop="20260727190000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727190000 +0800" stop="20260727193000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727193000 +0800" stop="20260727200000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727200000 +0800" stop="20260727210000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727210000 +0800" stop="20260727220000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727220000 +0800" stop="20260727230000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260727230000 +0800" stop="20260728000000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728000000 +0800" stop="20260728000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728000300 +0800" stop="20260728010000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728010000 +0800" stop="20260728020000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728020000 +0800" stop="20260728030000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728030000 +0800" stop="20260728040000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728040000 +0800" stop="20260728050000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728050000 +0800" stop="20260728060000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728060000 +0800" stop="20260728070000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728070000 +0800" stop="20260728100000 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728100000 +0800" stop="20260728110000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728110000 +0800" stop="20260728130000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728130000 +0800" stop="20260728140000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728140000 +0800" stop="20260728160000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728160000 +0800" stop="20260728163000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728163000 +0800" stop="20260728170000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728170000 +0800" stop="20260728170200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728170200 +0800" stop="20260728180000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728180000 +0800" stop="20260728190000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728190000 +0800" stop="20260728200000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728200000 +0800" stop="20260728210000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728210000 +0800" stop="20260728220000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728220000 +0800" stop="20260728230000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260728230000 +0800" stop="20260729000000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729000000 +0800" stop="20260729000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729000300 +0800" stop="20260729010000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729010000 +0800" stop="20260729020000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729020000 +0800" stop="20260729030000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729030000 +0800" stop="20260729040000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729040000 +0800" stop="20260729050000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729050000 +0800" stop="20260729060000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729060000 +0800" stop="20260729070000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729070000 +0800" stop="20260729100000 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729100000 +0800" stop="20260729110000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729110000 +0800" stop="20260729130000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729130000 +0800" stop="20260729140000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729140000 +0800" stop="20260729160000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729160000 +0800" stop="20260729170000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729170000 +0800" stop="20260729170200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729170200 +0800" stop="20260729180000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729180000 +0800" stop="20260729190000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729190000 +0800" stop="20260729200000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729200000 +0800" stop="20260729210000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729210000 +0800" stop="20260729213000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729213000 +0800" stop="20260729220000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729220000 +0800" stop="20260729230000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260729230000 +0800" stop="20260730000000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730000000 +0800" stop="20260730000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730000300 +0800" stop="20260730010000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730010000 +0800" stop="20260730020000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730020000 +0800" stop="20260730030000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730030000 +0800" stop="20260730040000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730040000 +0800" stop="20260730050000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730050000 +0800" stop="20260730053000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730053000 +0800" stop="20260730060000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730060000 +0800" stop="20260730070000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730070000 +0800" stop="20260730100000 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730100000 +0800" stop="20260730103000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730103000 +0800" stop="20260730110000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730110000 +0800" stop="20260730130000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730130000 +0800" stop="20260730140000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730140000 +0800" stop="20260730160000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730160000 +0800" stop="20260730170000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730170000 +0800" stop="20260730170200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730170200 +0800" stop="20260730180000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730180000 +0800" stop="20260730190000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730190000 +0800" stop="20260730200000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730200000 +0800" stop="20260730210000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730210000 +0800" stop="20260730220000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730220000 +0800" stop="20260730230000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730230000 +0800" stop="20260730233000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260730233000 +0800" stop="20260731000000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731000000 +0800" stop="20260731000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731000300 +0800" stop="20260731010000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731010000 +0800" stop="20260731020000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731020000 +0800" stop="20260731030000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731030000 +0800" stop="20260731040000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731040000 +0800" stop="20260731050000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731050000 +0800" stop="20260731060000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731060000 +0800" stop="20260731070000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731070000 +0800" stop="20260731100000 +0800">
-		<title lang="zh">Asia First</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731100000 +0800" stop="20260731110000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731110000 +0800" stop="20260731130000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731130000 +0800" stop="20260731133000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731133000 +0800" stop="20260731140000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731140000 +0800" stop="20260731160000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731160000 +0800" stop="20260731170000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731170000 +0800" stop="20260731170200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731170200 +0800" stop="20260731173000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731173000 +0800" stop="20260731180000 +0800">
-		<title lang="zh">A Street Like This</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731180000 +0800" stop="20260731190000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731190000 +0800" stop="20260731200000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731200000 +0800" stop="20260731210000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731210000 +0800" stop="20260731220000 +0800">
-		<title lang="zh">Japan Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731220000 +0800" stop="20260731230000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260731230000 +0800" stop="20260801000000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801000000 +0800" stop="20260801000300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801000300 +0800" stop="20260801010000 +0800">
-		<title lang="zh">East Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801010000 +0800" stop="20260801020000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801020000 +0800" stop="20260801030000 +0800">
-		<title lang="zh">Singapore Tonight 2026/2027</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801030000 +0800" stop="20260801040000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801040000 +0800" stop="20260801050000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801050000 +0800" stop="20260801060000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801060000 +0800" stop="20260801070000 +0800">
-		<title lang="zh">Singapore Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801070000 +0800" stop="20260801073000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801073000 +0800" stop="20260801080000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801080000 +0800" stop="20260801083000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801083000 +0800" stop="20260801090000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801090000 +0800" stop="20260801093000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801093000 +0800" stop="20260801100000 +0800">
-		<title lang="zh">A Street Like This</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801100000 +0800" stop="20260801100200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801100200 +0800" stop="20260801110000 +0800">
-		<title lang="zh">Singapore Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801110000 +0800" stop="20260801113000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801113000 +0800" stop="20260801120000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801120000 +0800" stop="20260801123000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801123000 +0800" stop="20260801130000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801130000 +0800" stop="20260801130200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801130200 +0800" stop="20260801140000 +0800">
-		<title lang="zh">Insight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801140000 +0800" stop="20260801143000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801143000 +0800" stop="20260801150000 +0800">
-		<title lang="zh">CNA Correspondent</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801150000 +0800" stop="20260801153000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801153000 +0800" stop="20260801160000 +0800">
-		<title lang="zh">A Street Like This</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801160000 +0800" stop="20260801160200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801160200 +0800" stop="20260801170000 +0800">
-		<title lang="zh">Let Me Tell You A Story S2</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801170000 +0800" stop="20260801173000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801173000 +0800" stop="20260801180000 +0800">
-		<title lang="zh">Talking Point</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801180000 +0800" stop="20260801183000 +0800">
-		<title lang="zh">Asia Now</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801183000 +0800" stop="20260801190000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801190000 +0800" stop="20260801190200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801190200 +0800" stop="20260801200000 +0800">
-		<title lang="zh">Japan Hour</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801200000 +0800" stop="20260801203000 +0800">
-		<title lang="zh">Asia Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801203000 +0800" stop="20260801210000 +0800">
-		<title lang="zh">Money Mind</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801210000 +0800" stop="20260801210200 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801210200 +0800" stop="20260801220000 +0800">
-		<title lang="zh">Being Singaporean</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801220000 +0800" stop="20260801223000 +0800">
-		<title lang="zh">Singapore Tonight</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801223000 +0800" stop="20260801230000 +0800">
-		<title lang="zh">On The Red Dot</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801230000 +0800" stop="20260801230300 +0800">
-		<title lang="zh">Headline News</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260801230300 +0800" stop="20260802000000 +0800">
-		<title lang="zh">Lost Plantations</title>
-	</programme>
-	<programme channel="亞洲新聞" start="20260802000000 +0800" stop="20260803000000 +0800">
-		<title lang="zh">Headline News</title>
+	<programme channel="明珠台" start="20260802213000 +0800" stop="20260803000000 +0800">
+		<title lang="zh">明珠930:雷神奇侠3 诸神黄昏[英][PG]</title>
 	</programme>
 </tv>
