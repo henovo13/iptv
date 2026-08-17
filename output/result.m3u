@@ -32,13 +32,13 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
+http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
+http://1.24.39.180:9003/hls/60/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
 https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
 https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
-http://emby.xlangnan.cn:10316/rtp/239.254.200.61:6344
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/CCTV16.png" group-title="喜爱的台",CCTV16
-http://b.xiongnas.top:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/翡翠台.png" group-title="喜爱的台",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/tv/png/翡翠台.png" group-title="喜爱的台",翡翠台
